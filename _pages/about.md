@@ -32,16 +32,5 @@ redirect_from:
 ### Educational Background
 * <sub> [2022-present] Ph.D Student in Software Engineering, Peking University </sub>
   * <sub> Supervisor: Prof. Qingni Shen </sub>
-* <sub> [2018-2022] B.S. in Information Security, Hunan University </sub>
-
-
-<p style="text-align:center;">
- <a href="https://clustrmaps.com/site/1bmtt"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=roOPIYhOSI6clMuqwkzlXBT7BKee-NL2r4v8oS1ini8&cl=ffffff" /></a>
-</p>
-<br>
-
-<!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
- <p style="text-align: center;">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7945629&style=0025&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" />           
+* <sub> [2018-2022] B.S. in Information Security, Hunan University </sub>      
 
