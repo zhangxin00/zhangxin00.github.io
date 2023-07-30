@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
  
-<sub> I am a second-year Ph.D. student at Peking University advised by Prof. [Qingni Shen](https://ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html). Previously, I got my bachelor degree in Hunan University, during which I worked closely with Prof. Jiliang Zhang (2019-2022).
+<sub> I am a second-year Ph.D. student at Peking University. My research interests are in the areas of system security, side channel attacks, and adversarial artificial intelligence. In these areas, I am very fortunate to be advised by Prof. [Qingni Shen](https://ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html) and [Zhi Zhang](https://zhangzhics.github.io/). Previously, I got my bachelor degree in Hunan University, during which I worked closely with Prof. Jiliang Zhang (2019-2022).
 
 
 
@@ -19,8 +19,6 @@ redirect_from:
 - <sub>Our paper "SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image" has been accepted by MICCAI 2023.
 - <sub>Our paper Runner-up（2/3304）in ECS CloudBuild Developer Competition Track 2: Innovative Application Design and Practice Based on Encryption Computing. 
 
-### Research Interests
-My research interests are in the areas of system security, side channel attacks, and adversarial artificial intelligence. In these areas, I am very fortunate to be advised by Prof. [Qingni Shen](https://ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html) and [Zhi Zhang](https://zhangzhics.github.io/).
 
 ### Prestigious Awards
 * <sub> [2022] Runner-up（2/3304）in ECS CloudBuild Developer Competition. 
