@@ -17,7 +17,7 @@ redirect_from:
 
 ### News!
 - <sub>Our paper "SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image" has been accepted by MICCAI 2023.
-- <sub>Our paper Runner-up（2/3304）in ECS CloudBuild Developer Competition Track 2: Innovative Application Design and Practice Based on Encryption Computing. 
+- <sub>Runner-up（2/3304）in ECS CloudBuild Developer Competition Track 2: Innovative Application Design and Practice Based on Encryption Computing. 
 
 
 ### Prestigious Awards
