@@ -30,9 +30,9 @@ redirect_from:
 * <sub> Reviewer for Conferences: ECAI 2023
 
 ### Educational Background
-* <sub> [2022-present] Ph.D Student in software engineering, Peking University </sub>
+* <sub> [2022-present] Ph.D Student in Software Engineering, Peking University </sub>
   * <sub> Supervisor: Prof. Qingni Shen </sub>
-* <sub> [2018-2022] B.S. in information security, Hunan University </sub>
+* <sub> [2018-2022] B.S. in Information Security, Hunan University </sub>
 
 
 <p style="text-align:center;">
