@@ -30,8 +30,7 @@ My research interests are in the areas of system security, side channel attacks,
 
 
 ### Educational Background
-* <sub> [2022-present] Ph.D Student in software engineering, Peking University </sub>
-  * <sub> Supervisor: Dr. Qingni Shen  </sub>
+* <sub> [2022-present] Ph.D Student in software engineering, Peking University (Supervisor: Prof. Qingni Shen) </sub>
 * <sub> [2018-2022] B.S. in information security, Hunan University </sub>
 
 
