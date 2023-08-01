@@ -26,8 +26,8 @@ redirect_from:
 * <sub> [2020]  Third Prize in 13th National College Student Information Security Contest (CTF track).
 * <sub> [2019]  National Scholarship, China.
   
-### Prestigious Awards
-* <sub> Reviewer for Conferences: ECAI 2023
+### Services
+* <sub> Reviewer for Conferences: ECAI 2023, ATS 2023
 
 ### Educational Background
 * <sub> [2022-present] Ph.D Student in Software Engineering, Peking University </sub>
