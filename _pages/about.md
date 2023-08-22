@@ -27,7 +27,7 @@ redirect_from:
 * <sub> [2019]  National Scholarship, China.
   
 ### Service
-* <sub> Reviewer for Conferences: ECAI 2023, ATS 2023
+* <sub> Reviewer for Conferences: ICISS 2022, ECAI 2023, ATS 2023
 
 ### Educational Background
 * <sub> [2022-present] Ph.D Student in Software Engineering, Peking University </sub>
