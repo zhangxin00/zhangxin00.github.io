@@ -29,7 +29,7 @@ redirect_from:
 ### Service
 * <sub> Reviewer for Conferences: ICISS 2022, ECAI 2023, ATS 2023
 
-### Service
+### Teaching
 * <sub> Operating System and Virtualization Security – Teaching Assistant, Fall 2023.
 
 ### Educational Background
