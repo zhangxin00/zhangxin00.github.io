@@ -39,4 +39,4 @@ redirect_from:
   * <sub> Supervisor: Prof. Qingni Shen </sub>
 * <sub> [2018-2022] B.S. in Information Security, Hunan University </sub>      
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=roOPIYhOSI6clMuqwkzlXBT7BKee-NL2r4v8oS1ini8"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=roOPIYhOSI6clMuqwkzlXBT7BKee-NL2r4v8oS1ini8&cmo=ffba53'></script>
