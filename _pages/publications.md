@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-- <sub> [2024] **SegScope: Probing Fine-grained Interrupts via Architectural Footprints** <br/>
+- <sub> [2024] **SegScope: Probing Fine-grained Interrupts via Architectural Footprints** [[code](https://github.com/zhangxin00/segscope/)] <br/>
    **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Jiliang Zhang. <br/>
    International Symposium on High-Performance Computer Architecture (CCF A, AR=18.3%=75/410) <br/>
   
