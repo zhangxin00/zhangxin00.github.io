@@ -13,8 +13,10 @@ redirect_from:
  
 <sub> I am a second-year Ph.D. student at Peking University. My research interests are in the areas of system security, side channel attacks, and adversarial artificial intelligence. In these areas, I am very fortunate to be advised by Prof. [Qingni Shen](https://ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html) and [Zhi Zhang](https://zhangzhics.github.io/). Previously, I got my bachelor degree in Hunan University, during which I worked closely with Prof. Jiliang Zhang.
 
+<!--
 <sub> **I am looking for a Visiting Student/Research Assistant position starting from 2024 Fall.** Feel free to drop me an email if you are interested in my background.
-
+-->
+ 
 
 ### News!
 - <sub>Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
