@@ -18,6 +18,7 @@ redirect_from:
  
 
 ### News!
+- <sub>Our paper "Luyuan Xie, Cong Li, Xin Zhang, Shengfang Zhai, Yuejian Fang, Qingni Shen, Zhonghai Wu" has been accepted by ICASSP 2024.
 - <sub>Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
 - <sub>Our paper "SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image" has been accepted by MICCAI 2023.
 - <sub>Runner-up（2/3304）in ECS CloudBuild Developer Competition Track 2: Innovative Application Design and Practice Based on Encryption Computing. 
