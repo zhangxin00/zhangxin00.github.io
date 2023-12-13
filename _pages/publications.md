@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-- <sub> [2023] **TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing** <br/>
+- <sub> [2024] **TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing** <br/>
    Luyuan Xie, Cong Li, **Xin Zhang**, Shengfang Zhai, Yuejian Fang, Qingni Shen, Zhonghai Wu. <br/>
    International Conference on Acoustics, Speech, and Signal Processing (CCF B) <br/> 
 
