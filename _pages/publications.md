@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 - <sub> [2023] **TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing** <br/>
    Luyuan Xie, Cong Li, **Xin Zhang**, Shengfang Zhai, Yuejian Fang, Qingni Shen, Zhonghai Wu. <br/>
-   International Conference on Medical Image Computing and Computer Assisted Intervention (CCF B) <br/> 
+   International Conference on Acoustics, Speech, and Signal Processing (CCF B) <br/> 
 
 
 - <sub> [2024] **SegScope: Probing Fine-grained Interrupts via Architectural Footprints** [[code](https://github.com/zhangxin00/segscope/)] <br/>
