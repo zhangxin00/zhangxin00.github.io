@@ -21,7 +21,6 @@ redirect_from:
 - <sub>Our paper "TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing" has been accepted by ICASSP 2024.
 - <sub>Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
 - <sub>Our paper "SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image" has been accepted by MICCAI 2023.
-- <sub>Runner-up（2/3304）in ECS CloudBuild Developer Competition Track 2: Innovative Application Design and Practice Based on Encryption Computing. 
 
 
 ### Prestigious Awards
