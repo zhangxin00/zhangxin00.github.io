@@ -11,7 +11,7 @@ author_profile: true
    International Conference on Acoustics, Speech, and Signal Processing (CCF B) <br/> 
 
 
-- <sub> [2024] **SegScope: Probing Fine-grained Interrupts via Architectural Footprints** [[code](https://github.com/zhangxin00/segscope/)] <br/>
+- <sub> [2024] **SegScope: Probing Fine-grained Interrupts via Architectural Footprints** [[paper](https://zhangxin00.github.io/files/SegScope.pdf)] [code](https://github.com/zhangxin00/segscope/)] <br/>
    **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Jiliang Zhang. <br/>
    International Symposium on High-Performance Computer Architecture (CCF A, AR=18.3%=75/410) <br/>
   
