@@ -18,9 +18,9 @@ redirect_from:
  
 
 ### News!
+- <sub>Our paper "ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts" has been accepted by DAC 2024.
 - <sub>Our paper "TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing" has been accepted by ICASSP 2024.
 - <sub>Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
-- <sub>Our paper "SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image" has been accepted by MICCAI 2023.
 
 <!--
 ### Prestigious Awards
