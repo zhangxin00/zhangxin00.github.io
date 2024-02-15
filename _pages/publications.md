@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-- <sub> [2024] **ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts** [<br/>
+- <sub> [2024] **ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts** <br/>
    **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Zhonghai Wu. <br/>
    Design Automation Conference (CCF A) <br/>
    
