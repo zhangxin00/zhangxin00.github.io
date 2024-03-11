@@ -13,11 +13,10 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
    **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Zhonghai Wu. <br/>
    Design Automation Conference (CCF A) <br/>
    
-  <!--
+<!--
 - <sub> [2024] **TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing** [[paper](https://arxiv.org/pdf/2401.05431.pdf)] <br/>
    Luyuan Xie, Cong Li, **Xin Zhang**, Shengfang Zhai, Yuejian Fang, Qingni Shen, Zhonghai Wu. <br/>
-   International Conference on Acoustics, Speech, and Signal Processing (CCF B) <br/> 
--->
+   International Conference on Acoustics, Speech, and Signal Processing (CCF B) <br/>  -->
   
 - <sub> [2024] **SegScope: Probing Fine-grained Interrupts via Architectural Footprints** [[paper](https://zhangxin00.github.io/files/SegScope.pdf)] [[code](https://github.com/zhangxin00/segscope/)] <br/>
    **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Jiliang Zhang. <br/>
