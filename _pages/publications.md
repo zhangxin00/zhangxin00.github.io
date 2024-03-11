@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
+The full list can be found from my [google scholar]([https://scholar.google.com/citations?user=rYAO48wAAAAJ&hl=en]).
 
 {% include base_path %}
+
 
 - <sub> [2024] **ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts** [[code](https://github.com/zhangxin00/thermalscope)]<br/>
    **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Zhonghai Wu. <br/>
