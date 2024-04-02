@@ -9,18 +9,17 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
 {% include base_path %}
 
 
-- <sub> [2024] **ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts** [[code](https://github.com/zhangxin00/thermalscope)]<br/>
+- <sub> [2024] **ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts** [[paper](https://zhangxin00.github.io/files/ThermalScope.pdf)] [[code](https://github.com/zhangxin00/thermalscope)]<br/>
    **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Zhonghai Wu. <br/>
    Design Automation Conference (CCF A) <br/>
-   
-<!--
-- <sub> [2024] **TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing** [[paper](https://arxiv.org/pdf/2401.05431.pdf)] <br/>
-   Luyuan Xie, Cong Li, **Xin Zhang**, Shengfang Zhai, Yuejian Fang, Qingni Shen, Zhonghai Wu. <br/>
-   International Conference on Acoustics, Speech, and Signal Processing (CCF B) <br/>  -->
   
 - <sub> [2024] **SegScope: Probing Fine-grained Interrupts via Architectural Footprints** [[paper](https://zhangxin00.github.io/files/SegScope.pdf)] [[code](https://github.com/zhangxin00/segscope/)] <br/>
    **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Jiliang Zhang. <br/>
    International Symposium on High-Performance Computer Architecture (CCF A, AR=18.3%=75/410) <br/>
+
+- <sub> [2024] **TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing** [[paper](https://arxiv.org/pdf/2401.05431.pdf)] <br/>
+   Luyuan Xie, Cong Li, **Xin Zhang**, Shengfang Zhai, Yuejian Fang, Qingni Shen, Zhonghai Wu. <br/>
+   International Conference on Acoustics, Speech, and Signal Processing (CCF B) <br/> 
   
 - <sub> [2023] **SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image** [[paper](https://arxiv.org/pdf/2306.14119.pdf)] [[code](https://github.com/xiely-123/SHISRCNet)]<br/>
    Luyuan Xie, Cong Li, Zirui Wang, **Xin	Zhang**, Boyan	Chen, Qingni Shen, Zhonghai Wu. <br/>
