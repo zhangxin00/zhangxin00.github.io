@@ -40,7 +40,7 @@ redirect_from:
 * <sub> [2018-2022] B.S. in Information Security, Hunan University </sub>      
 
 ### Fun Facts
-* <sub> I enjoy sports, particularly body building and playing basketball with friends. I allocate 5 hours per week for these activities.
+* <sub> I enjoy sports, particularly bodybuilding and playing basketball with friends. I allocate 5 hours per week for these activities.
 * <sub> I possess an innate passion for sharing, which leads me to frequently forward various interesting content to my friends.
 * <sub> My zodiac sign is the Dragon（aka, Loong).
 
