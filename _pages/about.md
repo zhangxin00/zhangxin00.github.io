@@ -1,4 +1,4 @@
----
+![image](https://github.com/zhangxin00/zhangxin00.github.io/assets/47495105/23808bb9-e053-44ba-ad9d-b751089b6cd2)---
 permalink: /
 title: "About me"
 author_profile: true
@@ -17,6 +17,7 @@ redirect_from:
  
 
 ### News!
+- <sub>I will serve as a AEC member of CCS'24.
 - <sub>Our paper "ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts" has been accepted by DAC 2024.
 - <sub>Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
 
@@ -29,8 +30,8 @@ redirect_from:
 -->
 
 ### Service
-* <sub> Reviewer for Conferences: ICISS 2022, ECAI 2023, ATS 2023, ASIACCS 2024
-
+* <sub> Reviewer for Conferences: ICISS 2022, ECAI 2023, ATS 2023, ASIACCS 2024, CCS 2024 Artifact Evaluation
+  
 ### Teaching
 * <sub> Operating System and Virtualization Security – Teaching Assistant, Fall 2023.
 
