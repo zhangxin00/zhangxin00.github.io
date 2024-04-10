@@ -41,7 +41,7 @@ redirect_from:
 
 ### Fun Facts
 * <sub> I enjoy sports, particularly body building and playing basketball with friends. I allocate 5 hours per week for these activities.
-* <sub> I possess an innate passion for sharing, which leads me to frequently forward a diverse range of captivating content to my friends.
+* <sub> I possess an innate passion for sharing, which leads me to frequently forward various interesting content to my friends.
 * <sub> My zodiac sign is the Dragon（aka, Loong).
 
 
