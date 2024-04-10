@@ -1,4 +1,3 @@
-![image](https://github.com/zhangxin00/zhangxin00.github.io/assets/47495105/23808bb9-e053-44ba-ad9d-b751089b6cd2)---
 permalink: /
 title: "About me"
 author_profile: true
