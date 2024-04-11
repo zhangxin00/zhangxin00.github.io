@@ -35,6 +35,13 @@ redirect_from:
 ### Teaching
 * <sub> Operating System and Virtualization Security – Teaching Assistant, Fall 2023.
 
+<!--
+### Open-Source Contributions
+[2024] CVE-2024-28285 Crypto++ Elgamal vulnerability
+[2024] CVE-2024, CVE-2024-1545-2881 Wolfssl EdDSA and RSA vulnerability
+[2023] CVE-2023-51939 (Relic BBS vulnerability)
+-->
+
 ### Educational Background
 * <sub> [2022-present] Ph.D Student in Software Engineering, Peking University </sub>
   * <sub> Supervisor: Prof. Qingni Shen </sub>
