@@ -13,7 +13,7 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
    **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Zhonghai Wu. <br/>
    Design Automation Conference (CCF A) <br/>
   
-- <sub> [2024] **SegScope: Probing Fine-grained Interrupts via Architectural Footprints** [[paper](https://zhangxin00.github.io/files/SegScope.pdf)] [[code](https://github.com/zhangxin00/segscope/)] [slides](https://zhangxin00.github.io/files/HPCA2024-SegScope.pdf) [poster](https://zhangxin00.github.io/files/poster-segscope.pdf) <br/>
+- <sub> [2024] **SegScope: Probing Fine-grained Interrupts via Architectural Footprints** [[paper](https://zhangxin00.github.io/files/SegScope.pdf)] [[code](https://github.com/zhangxin00/segscope/)] [[slides](https://zhangxin00.github.io/files/HPCA2024-SegScope.pdf)] [[poster](https://zhangxin00.github.io/files/poster-segscope.pdf)] <br/>
    **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Jiliang Zhang. <br/>
    International Symposium on High-Performance Computer Architecture (CCF A, AR=18.3%=75/410) <br/>
 
