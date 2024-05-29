@@ -8,7 +8,10 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
 
 {% include base_path %}
 
-
+- <sub> [2024] **IPOD2: An Irrecoverable and Verifiable Deletion Scheme for Outsourced Data** [[paper](https://zhangxin00.github.io/files/IPOD2.pdf)] [[code](https://github.com/PKURoC/IPOD2)]<br/>
+   Xiaolei Zhang, Zhaoyu Chen, **Xin Zhang**, Qingni Shen, Zhonghai Wu. <br/>
+   The Computer Journal (CCF B) <br/>
+   
 - <sub> [2024] **ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts** [[paper](https://zhangxin00.github.io/files/ThermalScope.pdf)] [[code](https://github.com/zhangxin00/thermalscope)]<br/>
    **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Zhonghai Wu. <br/>
    Design Automation Conference (CCF A) <br/>
