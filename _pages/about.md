@@ -52,7 +52,9 @@ redirect_from:
 * <sub> My favorite game now is "Battle of Golden Shovel".
 * <sub> My zodiac sign is the Dragon（aka, Loong).
 
-
+### Friend Links
+[Shengfang Zhai](https://zhaisf.github.io/)
+[Junkai Liang](https://liang-junkai.github.io/)
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=roOPIYhOSI6clMuqwkzlXBT7BKee-NL2r4v8oS1ini8'></script>
