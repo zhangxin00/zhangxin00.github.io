@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
  
-<sub> I am a second-year Ph.D student at Peking University. I am very fortunate to be advised by Prof. [Qingni Shen](https://ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html) and work closely with [Zhi Zhang](https://zhangzhics.github.io/). My research interests are in the areas of system security and side channel attacks. Previously, I obtained my bachelor's degree in Information Security from Hunan University, where I spent two years working with Prof. Jiliang Zhang.
+<sub> I am a second-year Ph.D student at Peking University. I am very fortunate to be advised by Prof. [Qingni Shen](https://ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html) and work closely with [Zhi Zhang](https://zhangzhics.github.io/). My research interests are in the areas of system security and side channel attacks. Previously, I obtained my bachelor's degree in Information Security from Hunan University, where I spent two years working with Prof. [Jiliang Zhang](https://grzy.hnu.edu.cn/site/index/zhangjiliang).
 
 <!--
 <sub> **I am looking for a Visiting Student/Research Assistant position starting from 2024 Fall.** Feel free to drop me an email if you are interested in my background.
