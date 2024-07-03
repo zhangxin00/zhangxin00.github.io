@@ -51,7 +51,7 @@ redirect_from:
 
 ### Fun Facts
 * <sub> I enjoy sports, particularly bodybuilding and playing basketball with friends. I allocate 5 hours per week for these activities.
-* <sub> My favorite game now is "Battle of Golden Shovel".
+* <sub> My favorite game now is "Battle of Golden Shovel", where I enjoy strategically building my resources to reach a high level and then going all-in to win the game.
 * <sub> My zodiac sign is the Dragon（aka, Loong).
 
 ### Friend Links
