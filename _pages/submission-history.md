@@ -11,7 +11,7 @@ author_profile: true
 - <sub> CCS 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> CCS 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> CCS 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
-- <sub> &emsp; Computer Journal <font color="#00dd00">Accept</font> &emsp; IPOD2: An Irrecoverable and Verifiable Deletion Scheme for Outsourced Data<br/>
+- <sub> Computer Journal &emsp; <font color="#00dd00">Accept</font> &emsp; IPOD2: An Irrecoverable and Verifiable Deletion Scheme for Outsourced Data<br/>
 - <sub> DAC 2024 &emsp; <font color="#00dd00">Accept</font> &emsp; ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts<br/>
 - <sub> ICASSP 2024 &emsp; <font color="#00dd00">Accept</font> &emsp; TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing<br/>
 
