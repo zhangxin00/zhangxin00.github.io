@@ -173,7 +173,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  submission-history:
+  submissions:
     output: true
     permalink: /:collection/:path/
 
@@ -236,7 +236,7 @@ defaults:
   # _submissions
   - scope:
       path: ""
-      type: submission-history
+      type: submissions
     values:
       layout: single
       author_profile: true
