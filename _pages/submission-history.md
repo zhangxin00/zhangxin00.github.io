@@ -16,7 +16,7 @@ author_profile: true
 - <sub> ICASSP 2024 &emsp; <font color="#00dd00">Accept</font> &emsp; TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing<br/>
 
 ### 2023 decisions
-- <sub> &emsp; HPCA 2024 &emsp; <font color="#00dd00">Accept</font> &emsp; SegScope: Probing Fine-grained Interrupts via Architectural Footprints<br/>
+- <sub> HPCA 2024 &emsp; <font color="#00dd00">Accept</font> &emsp; SegScope: Probing Fine-grained Interrupts via Architectural Footprints<br/>
 - <sub> MICRO 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; SegScope: Probing Fine-grained Interrupts via Architectural Footprints<br/>
 - <sub> ECAI 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing<br/>
 - <sub> IJCAI 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing<br/>
