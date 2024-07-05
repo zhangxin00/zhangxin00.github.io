@@ -4,3 +4,5 @@ main:
     url: /publications/ 
   - title: "Talks"
     url: /talks/ 
+  - title: "Submission History"
+    url: /submissions/ 
