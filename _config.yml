@@ -233,7 +233,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _submission-history
+  # _submissions
   - scope:
       path: ""
       type: submission-history
