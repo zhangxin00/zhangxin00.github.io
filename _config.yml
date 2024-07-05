@@ -173,6 +173,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  submission-history:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
