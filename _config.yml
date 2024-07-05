@@ -233,6 +233,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _submission-history
+  - scope:
+      path: ""
+      type: submission-history
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
