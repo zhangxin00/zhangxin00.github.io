@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ### 2024 decisions
-- <sub> CCS 2023 <font color="#dd0000">Reject</font> —Redacted—
+- <sub> CCS 2023 &emsp;<font color="#dd0000">Reject</font> —Redacted—
 - <sub> CCS 2023 <font color="#dd0000">Reject</font> —Redacted—
 - <sub> CCS 2023 <font color="#dd0000">Reject</font> —Redacted—
 - <sub> Computer Journal <font color="#00dd00">Accept</font> IPOD2: An Irrecoverable and Verifiable Deletion Scheme for Outsourced Data<br/>
