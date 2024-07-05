@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Submission History"
-permalink: /submission-history/
+permalink: /submissions/
 author_profile: true
 ---
 
