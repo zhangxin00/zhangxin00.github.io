@@ -4,7 +4,9 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-The full list can be found from my [google scholar](https://scholar.google.com/citations?user=rYAO48wAAAAJ&hl=en).
+The full list can be found from my [google scholar](https://scholar.google.com/citations?user=rYAO48wAAAAJ&hl=en). 
+
+- <sub> [Submission History](https://zhangxin00.github.io/submissions/)
 
 {% include base_path %}
 
