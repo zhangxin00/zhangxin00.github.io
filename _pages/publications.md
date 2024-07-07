@@ -8,7 +8,7 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
 
 {% include base_path %}
 
-<--!
+<!--
 - <sub> [2024] **Survey of Attacks and Defenses Technologies for In-vehicle Network of Intelligent Connected Vehicle**  <br/>
   Boyan Chen, Qingni Shen, Xiaolei Zhang, **Xin Zhang**, Cong Li, Zhonghai Wu.  <br/>
   Journal of Software (In Chinese)  <br/>
