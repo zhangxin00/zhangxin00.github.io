@@ -8,6 +8,12 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
 
 {% include base_path %}
 
+<--!
+- <sub> [2024] **Survey of Attacks and Defenses Technologies for In-vehicle Network of Intelligent Connected Vehicle**  <br/>
+  Boyan Chen, Qingni Shen, Xiaolei Zhang, **Xin Zhang**, Cong Li, Zhonghai Wu.  <br/>
+  Journal of Software (In Chinese)  <br/>
+  -->
+  
 - <sub> [2024] **IPOD2: An Irrecoverable and Verifiable Deletion Scheme for Outsourced Data** [[paper](https://zhangxin00.github.io/files/IPOD2.pdf)] [[code](https://github.com/PKURoC/IPOD2)]<br/>
    Xiaolei Zhang, Zhaoyu Chen, **Xin Zhang**, Qingni Shen, Zhonghai Wu. <br/>
    The Computer Journal (CCF B) <br/>
