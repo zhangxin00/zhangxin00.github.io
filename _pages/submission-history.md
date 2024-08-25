@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ### 2024 decisions
+- <sub> NDSS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
+- <sub> NDSS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> CCS 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> CCS 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> CCS 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
