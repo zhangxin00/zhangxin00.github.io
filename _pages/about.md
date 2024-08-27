@@ -17,7 +17,7 @@ redirect_from:
  -->
 
 ### News!
-- <sub>I will serve as a AEC member of CCS 2024.
+- <sub>I will serve as a visiting researcher in NUS for a 12-month term. Grateful for the support from [Prof. Trevor Carlson](https://www.comp.nus.edu.sg/~tcarlson/).
 - <sub>Our paper "ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts" has been accepted by DAC 2024.
 - <sub>Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
 
