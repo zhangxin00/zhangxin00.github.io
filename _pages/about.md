@@ -17,7 +17,7 @@ redirect_from:
  -->
 
 ### News!
-- <sub>I will serve as a visiting researcher in NUS for a 12-month term. Grateful for the support from [Prof. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/).
+- <sub>I will start my 12-month visit at NUS as a visiting researcher, with the kind support from [Prof. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/).
 - <sub>Our paper "ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts" has been accepted by DAC 2024.
 - <sub>Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
 
