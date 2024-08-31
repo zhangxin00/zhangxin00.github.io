@@ -36,8 +36,8 @@ redirect_from:
 * <sub> Operating System and Virtualization Security – Teaching Assistant, Fall 2023.
 
 ### Open-Source Contributions
-* <sub> [2024] CVE-2024-1545 Wolfssl EdDSA vulnerability
-* <sub> [2024] CVE-2024-2881 Wolfssl RSA vulnerability
+* <sub> [2024] [CVE-2024-1545](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl EdDSA vulnerability
+* <sub> [2024] [CVE-2024-2881](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl RSA vulnerability
 
 <!--
 * <sub> [2024] CVE-2024-28285 Crypto++ Elgamal vulnerability
