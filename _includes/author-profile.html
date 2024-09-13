@@ -10,13 +10,10 @@
     {% if author.avatar contains "://" %}
       <!-- Base image -->
     	<img src="{{ author.avatar }}" alt="{{ author.name }}" class="base-img">
-      <!-- Hover image -->
-      <img src="{{ author.avatar2 }}" alt="{{ author.name }} hover" class="hover-img" >
     {% else %}
       <!-- Base image -->
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="base-img" alt="{{ author.name }}">
-      <!-- Hover image -->
-      <img src="{{ author.avatar2 | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }} hover" class="hover-img">
+     
     {% endif %}
   </div>
 
