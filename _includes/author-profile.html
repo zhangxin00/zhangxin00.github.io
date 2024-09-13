@@ -26,18 +26,6 @@
   </div>
 </div>
 
-<script>
-  // CSS to manage hover effect
-  document.querySelector('.author__avatar').addEventListener('mouseover', function() {
-    document.querySelector('.base-img').style.opacity = '0';
-    document.querySelector('.hover-img').style.opacity = '1';
-  });
-  document.querySelector('.author__avatar').addEventListener('mouseout', function() {
-    document.querySelector('.base-img').style.opacity = '1';
-    document.querySelector('.hover-img').style.opacity = '0';
-  });
-</script>
-
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
@@ -140,3 +128,15 @@
     </ul>
   </div>
 </div>
+
+<script>
+  // CSS to manage hover effect
+  document.querySelector('.author__avatar').addEventListener('mouseover', function() {
+    document.querySelector('.base-img').style.opacity = '0';
+    document.querySelector('.hover-img').style.opacity = '1';
+  });
+  document.querySelector('.author__avatar').addEventListener('mouseout', function() {
+    document.querySelector('.base-img').style.opacity = '1';
+    document.querySelector('.hover-img').style.opacity = '0';
+  });
+</script>
