@@ -69,6 +69,7 @@ I have been a visiting Ph.D. student at the Nanyang Technological University adv
 .author__avatar {
   position: relative;
   width: 150px;
+  display: inline-block;
   height: 150px;
   overflow: hidden;
 }
