@@ -330,8 +330,6 @@
 .author__avatar { 
   position: relative;
   display: inline-block;
-  width: 150px; /* 根据需要调整 */
-  height: 150px; /* 根据需要调整 */
   overflow: hidden;
 }
 
