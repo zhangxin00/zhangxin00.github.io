@@ -6,11 +6,17 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="author__avatar">
+  <div class="author__avatar" style="position: relative;">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
+      <!-- Base image -->
+    	<img src="{{ author.avatar }}" alt="{{ author.name }}" class="base-img" style="transition: opacity 0.3s ease-in-out;">
+      <!-- Hover image -->
+      <img src="/images/hover-avatar.jpg" alt="{{ author.name }} hover" class="hover-img" style="position: absolute; top: 0; left: 0; opacity: 0; transition: opacity 0.3s ease-in-out;">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+      <!-- Base image -->
+    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="base-img" alt="{{ author.name }}" style="transition: opacity 0.3s ease-in-out;">
+      <!-- Hover image -->
+      <img src="/images/hover.jpg" alt="{{ author.name }} hover" class="hover-img" style="position: absolute; top: 0; left: 0; opacity: 0; transition: opacity 0.3s ease-in-out;">
     {% endif %}
   </div>
 
@@ -18,6 +24,19 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
+</div>
+
+<script>
+  // CSS to manage hover effect
+  document.querySelector('.author__avatar').addEventListener('mouseover', function() {
+    document.querySelector('.base-img').style.opacity = '0';
+    document.querySelector('.hover-img').style.opacity = '1';
+  });
+  document.querySelector('.author__avatar').addEventListener('mouseout', function() {
+    document.querySelector('.base-img').style.opacity = '1';
+    document.querySelector('.hover-img').style.opacity = '0';
+  });
+</script>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
