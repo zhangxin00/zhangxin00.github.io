@@ -9,29 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
- /* 重置样式 */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-/* 父元素样式 */
-.parent {
-  position: relative; /* 为子元素的绝对定位提供参考 */
-  margin: 0;
-  padding: 0;
-}
-
-/* 子元素样式 */
-.element {
-  position: absolute; /* 绝对定位 */
-  top: 0;
-  left: 0;
-  width: 100%; /* 根据需要设置宽度 */
-  height: auto; /* 根据内容自动调整高度 */
-}
-
 <sub> I am a third-year Ph.D student at Peking University. I am very fortunate to be advised by Prof. [Qingni Shen](https://ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html) and work closely with [Zhi Zhang](https://zhangzhics.github.io/). My research interests are in the areas of system security and side channel attacks. Previously, I obtained my bachelor's degree in Information Security from Hunan University.
 
 <!--
@@ -122,6 +99,10 @@ I have been a visiting Ph.D. student at the Nanyang Technological University adv
 .author__avatar:hover .base-img {
   opacity: 0;
 }
+  
+<div class="float-element" style="float: left;">浮动元素</div>
+<div class="clearfix"></div>
+<div class="normal-element">正常元素</div>
 
 </style>
 
