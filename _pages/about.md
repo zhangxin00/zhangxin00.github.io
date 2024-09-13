@@ -63,48 +63,7 @@ I have been a visiting Ph.D. student at the Nanyang Technological University adv
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=roOPIYhOSI6clMuqwkzlXBT7BKee-NL2r4v8oS1ini8'></script>
 
-<style>
 
-.author__avatar {
-  position: relative;
-  width: 150px;
-  display: inline-block;
-  height: 150px;
-  overflow: hidden;
-  float: left; 
-}
-
-.author__avatar img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  display: inline-block;
-  height: 100%;
-  object-fit: cover;
-}
-
-.author__avatar .base-img {
-  z-index: 1;
-  display: inline-block;
-}
-
-.author__avatar .hover-img {
-  z-index: 2;
-  opacity: 0;
-  transition: opacity 0.3s ease-in-out;
-  display: inline-block;
-}
-
-.author__avatar:hover .hover-img {
-  opacity: 1;
-}
-
-.author__avatar:hover .base-img {
-  opacity: 0;
-}
-  
-</style>
 
 
 
