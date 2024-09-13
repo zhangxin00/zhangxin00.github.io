@@ -67,7 +67,6 @@ I have been a visiting Ph.D. student at the Nanyang Technological University adv
 <style>
 
   .author__avatar .hover-img {
-    position: absolute;
     top: 0;
     left: 0;
     opacity: 0;
