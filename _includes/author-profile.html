@@ -129,14 +129,31 @@
   </div>
 </div>
 
-<script>
-  // CSS to manage hover effect
-  document.querySelector('.author__avatar').addEventListener('mouseover', function() {
-    document.querySelector('.base-img').style.opacity = '0';
-    document.querySelector('.hover-img').style.opacity = '1';
-  });
-  document.querySelector('.author__avatar').addEventListener('mouseout', function() {
-    document.querySelector('.base-img').style.opacity = '1';
-    document.querySelector('.hover-img').style.opacity = '0';
-  });
-</script>
+<style>
+  .author__avatar {
+    position: relative;
+    display: inline-block;
+  }
+
+  .author__avatar img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .author__avatar .hover-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+  }
+
+  .author__avatar:hover .hover-img {
+    opacity: 1;
+  }
+
+  .author__avatar:hover .base-img {
+    opacity: 0;
+  }
+</style>
