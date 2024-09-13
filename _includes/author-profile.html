@@ -6,7 +6,7 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="author__avatar" style="position: relative; width: 150px; height: 150px;">
+  <div class="author__avatar">
     {% if author.avatar contains "://" %}
       <!-- Base image -->
     	<img src="{{ author.avatar }}" alt="{{ author.name }}" class="base-img">
