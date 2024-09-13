@@ -328,14 +328,11 @@
 
 .author__avatar {
   position: relative;
-  width: 50px;
   display: inline-block;
-  height: 150px;
   overflow: hidden;
 }
 
 .author__avatar img {
-  position: absolute;
   top: 0;
   left: 0;
   width: 100%;
