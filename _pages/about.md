@@ -66,19 +66,38 @@ I have been a visiting Ph.D. student at the Nanyang Technological University adv
 
 <style>
 
-  .author__avatar .hover-img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    opacity: 0;
-    transition: opacity 0.3s ease-in-out;
-  }
+.author__avatar {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+}
 
-  .author__avatar:hover .hover-img {
-    opacity: 1;
-  }
+.author__avatar img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
 
-  .author__avatar:hover .base-img {
-    opacity: 0;
-  }
+.author__avatar .base-img {
+  z-index: 1;
+}
+
+.author__avatar .hover-img {
+  z-index: 2;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.author__avatar:hover .hover-img {
+  opacity: 1;
+}
+
+.author__avatar:hover .base-img {
+  opacity: 0;
+}
+
 </style>
