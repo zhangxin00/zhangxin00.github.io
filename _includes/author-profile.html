@@ -9,9 +9,9 @@
   <div class="author__avatar" style="position: relative; width: 150px; height: 150px;">
     {% if author.avatar contains "://" %}
       <!-- Base image -->
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}" class="base-img" style="transition: opacity 0.3s ease-in-out; width: 100%; height: 100%;">
+    	<img src="{{ author.avatar }}" alt="{{ author.name }}" class="base-img">
       <!-- Hover image -->
-      <img src="{{ author.avatar2 }}" alt="{{ author.name }} hover" class="hover-img" style="transition: opacity 0.3s ease-in-out; width: 100%; height: 100%;">
+      <img src="{{ author.avatar2 }}" alt="{{ author.name }} hover" class="hover-img" >
     {% else %}
       <!-- Base image -->
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="base-img" alt="{{ author.name }}" style="transition: opacity 0.3s ease-in-out; width: 100%; height: 100%;">
