@@ -326,8 +326,6 @@
   margin-left: .3em;
 }
 
-<style>
-
 .author__avatar {
   position: relative;
   width: 150px;
@@ -365,5 +363,4 @@
 .author__avatar:hover .base-img {
   opacity: 0;
 }
-  
-</style>
+
