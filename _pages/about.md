@@ -78,18 +78,21 @@ I have been a visiting Ph.D. student at the Nanyang Technological University adv
   top: 0;
   left: 0;
   width: 100%;
+  display: inline-block;
   height: 100%;
   object-fit: cover;
 }
 
 .author__avatar .base-img {
   z-index: 1;
+  display: inline-block;
 }
 
 .author__avatar .hover-img {
   z-index: 2;
   opacity: 0;
   transition: opacity 0.3s ease-in-out;
+  display: inline-block;
 }
 
 .author__avatar:hover .hover-img {
@@ -100,10 +103,6 @@ I have been a visiting Ph.D. student at the Nanyang Technological University adv
   opacity: 0;
 }
   
-<div class="float-element" style="float: left;">浮动元素</div>
-<div class="clearfix"></div>
-<div class="normal-element">正常元素</div>
-
 </style>
 
 
