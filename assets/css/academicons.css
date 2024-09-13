@@ -342,18 +342,18 @@
   transition: opacity 0.3s ease-in-out;
 }
 
-.author-avatar .hover-img {
+.author-avatar.hover-img {
   position: absolute;
   top: 0;
   left: 0;
   opacity: 0;
 }
 
-.author-avatar:hover .hover-img {
+.author-avatar:hover.hover-img {
   opacity: 1;
 }
 
-.author-avatar:hover .base-img {
+.author-avatar:hover.base-img {
   opacity: 0;
 }
 
