@@ -9,14 +9,14 @@
   <div class="author__avatar" style="position: relative;">
     {% if author.avatar contains "://" %}
       <!-- Base image -->
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}" class="base-img" style="transition: opacity 0.3s ease-in-out;">
+    	<img src="{{ author.avatar }}" alt="{{ author.name }}" class="base-img" style="transition: opacity 0.3s ease-in-out; width: 100%; height: auto;">
       <!-- Hover image -->
-      <img src="/images/hover-avatar.jpg" alt="{{ author.name }} hover" class="hover-img" style="position: absolute; top: 0; left: 0; opacity: 0; transition: opacity 0.3s ease-in-out;">
+      <img src="/images/hover-avatar.jpg" alt="{{ author.name }} hover" class="hover-img" style="position: absolute; top: 0; left: 0; opacity: 0; width: 100%; height: auto; transition: opacity 0.3s ease-in-out;">
     {% else %}
       <!-- Base image -->
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="base-img" alt="{{ author.name }}" style="transition: opacity 0.3s ease-in-out;">
+    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="base-img" alt="{{ author.name }}" style="transition: opacity 0.3s ease-in-out; width: 100%; height: auto;">
       <!-- Hover image -->
-      <img src="/images/hover.jpg" alt="{{ author.name }} hover" class="hover-img" style="position: absolute; top: 0; left: 0; opacity: 0; transition: opacity 0.3s ease-in-out;">
+      <img src="/images/hover-avatar.jpg" alt="{{ author.name }} hover" class="hover-img" style="position: absolute; top: 0; left: 0; opacity: 0; width: 100%; height: auto; transition: opacity 0.3s ease-in-out;">
     {% endif %}
   </div>
 
