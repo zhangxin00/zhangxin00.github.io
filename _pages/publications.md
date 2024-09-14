@@ -4,7 +4,7 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-The full list can be found from my [google scholar](https://scholar.google.com/citations?user=rYAO48wAAAAJ&hl=en). Submission history is [here](https://zhangxin00.github.io/submissions/).
+The full list can be found from my [google scholar](https://scholar.google.com/citations?user=rYAO48wAAAAJ&hl=en). 
 
 {% include base_path %}
 
@@ -32,7 +32,9 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
   
 - <sub> [2023] **SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image** [[paper](https://arxiv.org/pdf/2306.14119.pdf)] [[code](https://github.com/xiely-123/SHISRCNet)]<br/>
    Luyuan Xie, Cong Li, Zirui Wang, **Xin	Zhang**, Boyan	Chen, Qingni Shen, Zhonghai Wu. <br/>
-   International Conference on Medical Image Computing and Computer Assisted Intervention (CCF B) <br/> 
+   International Conference on Medical Image Computing and Computer Assisted Intervention (CCF B) <br/>
+
+You can find my submission history [here](https://zhangxin00.github.io/submissions/).
 
   
 
