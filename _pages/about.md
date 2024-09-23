@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<sub> I am a third-year Ph.D student at Peking University. I am very fortunate to be advised by Prof. [Qingni Shen](https://ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html) and work closely with [Zhi Zhang](https://zhangzhics.github.io/). My research focuses on re-evaluating the rationale behind specific hardware designs. In particular, I am interested in uncovering new side-channel leakages to help designers build more secure systems. Previously, I obtained my bachelor's degree in Information Security from Hunan University.
+<sub> I am a third-year Ph.D student at Peking University. I am very fortunate to be advised by Prof. [Qingni Shen](https://ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html) and work closely with [Zhi Zhang](https://zhangzhics.github.io/). My research focuses on re-evaluating the rationale behind certain hardware designs. In particular, I am interested in uncovering new side-channel leakages to offer designers insights for building more secure systems. Previously, I obtained my bachelor's degree in Information Security from Hunan University.
 
 <!--
 I have been a visiting Ph.D. student at the Nanyang Technological University advised by Prof. Yang Liu since December 2023.
