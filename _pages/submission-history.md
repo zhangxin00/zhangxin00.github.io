@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ### 2024 decisions
+- <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
+- <sub> International Conferences on High Performance Computing and Communications (HPCC) 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> NDSS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> NDSS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> IEEE S&P 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
