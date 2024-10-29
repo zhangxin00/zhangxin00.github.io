@@ -11,7 +11,7 @@ redirect_from:
 
 <sub> I am a third-year Ph.D student at Peking University and very fortunate to be advised by Prof. [Qingni Shen](https://ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html). I am also a visting Ph.D student at National University of Singapore since October 2024, where I am advised and funded by Prof. [Trevor Carlson](https://www.comp.nus.edu.sg/~tcarlson/). I also work closely with [Zhi Zhang](https://zhangzhics.github.io/). Previously, I obtained my bachelor's degree in Information Security from Hunan University.
 
-My research focuses on re-evaluating the rationale behind certain hardware designs. In particular, I am interested in uncovering new side-channel leakages to offer designers insights for building more secure systems. 
+<sub> My research focuses on re-evaluating the rationale behind certain hardware designs. In particular, I am interested in uncovering new side-channel leakages to offer designers insights for building more secure systems. 
 
 <!--
 , where I spent two years working with Prof. [Jiliang Zhang](https://grzy.hnu.edu.cn/site/index/zhangjiliang).
