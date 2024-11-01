@@ -34,7 +34,8 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
    Luyuan Xie, Cong Li, Zirui Wang, **Xin	Zhang**, Boyan	Chen, Qingni Shen, Zhonghai Wu. <br/>
    International Conference on Medical Image Computing and Computer Assisted Intervention (CCF B) <br/>
 
+<!--
 You can find my submission history [here](https://zhangxin00.github.io/submissions/).
-
+-->
   
 
