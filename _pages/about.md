@@ -47,6 +47,7 @@ redirect_from:
 -->
 
 ### Educational Background
+* <sub> [2024-present] Visiting Research Assistant, National University of Singapore </sub>
 * <sub> [2022-present] Ph.D Student in Software Engineering, Peking University </sub>
   * <sub> Supervisor: Prof. Qingni Shen </sub>
 * <sub> [2018-2022] B.S. in Information Security, Hunan University </sub>      
