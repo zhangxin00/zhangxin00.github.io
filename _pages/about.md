@@ -19,7 +19,7 @@ redirect_from:
  -->
 
 ### News!
-- <sub> Excited to start my visit at NUS! You can find me at COM3-0217 (System & Network Lab).
+- <sub> Excited to start my visit at NUS! You can find me at COM3-0217 (Systems & Networking Lab).
 - <sub>Our paper "ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts" has been accepted by DAC 2024.
 - <sub>Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
 
