@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ### 2024 decisions
+
+- <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Major Revision</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer
+- <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
+- <sub> CHES 2025 &emsp; <font color="#dd0000">Major Revision</font> &emsp; Opcode-based Fault Attack on AES-NI
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> HPCC 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> NDSS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
@@ -17,7 +21,7 @@ author_profile: true
 - <sub> NDSS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> CCS 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> CCS 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
-- <sub> CCS 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
+- <sub> CCS 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer
 - <sub> Computer Journal &emsp; <font color="#00dd00">Accept</font> &emsp; IPOD2: An Irrecoverable and Verifiable Deletion Scheme for Outsourced Data<br/>
 - <sub> DAC 2024 &emsp; <font color="#00dd00">Accept</font> &emsp; ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts<br/>
 - <sub> ICASSP 2024 &emsp; <font color="#00dd00">Accept</font> &emsp; TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing<br/>
