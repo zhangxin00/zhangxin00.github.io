@@ -24,6 +24,10 @@ redirect_from:
 - <sub>Our paper "ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts" has been accepted by DAC 2024.
 - <sub>Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
 
+### Service
+* <sub> Reviewer for Conferences: ICISS 2022, ECAI 2023, ATS 2023, ASIACCS 2024, CCS 2024 Artifact Evaluation, Usenix Security 2025 Artifact Evaluation
+* <sub> Reviewer for Journal: TIFS
+  
 ### Prestigious Awards
 * <sub> [2024] First Prize for Scientific and Technological Progress, Chinese Institute of Electronics (Development and Application of Secure Middleware Platform for Cloud Operating System).
 * <sub> [2022] Runner-up（2/3304）in ECS CloudBuild Developer Competition, Alibaba Cloud. 
@@ -32,12 +36,7 @@ redirect_from:
 <!--
 * <sub> [2020] Third Prize in 13th National College Student Information Security Contest (CTF Track, top 5%).
  -->
-### Service
-* <sub> Reviewer for Conferences: ICISS 2022, ECAI 2023, ATS 2023, ASIACCS 2024, CCS 2024 Artifact Evaluation, Usenix Security 2025 Artifact Evaluation
-* <sub> Reviewer for Journal: TIFS
-  
-### Teaching
-* <sub> Operating System and Virtualization Security – Teaching Assistant, Fall 2023.
+
 
 ### Open-Source Contributions
 * <sub> [2024] [CVE-2024-1545](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl EdDSA vulnerability
@@ -48,6 +47,9 @@ redirect_from:
 * <sub> [2023] CVE-2023-51939 Relic BBS vulnerability
 -->
 
+### Teaching
+* <sub> Operating System and Virtualization Security – Teaching Assistant, Fall 2023.
+* 
 ### Educational Background
 * <sub> [2024-present] Visiting Research Assistant, National University of Singapore </sub>
 * <sub> [2022-present] Ph.D Student in Software Engineering, Peking University </sub>
