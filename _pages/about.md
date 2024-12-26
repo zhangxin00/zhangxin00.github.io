@@ -49,7 +49,7 @@ redirect_from:
 
 ### Teaching
 * <sub> Operating System and Virtualization Security – Teaching Assistant, Fall 2023.
-* 
+
 ### Educational Background
 * <sub> [2024-present] Visiting Research Assistant, National University of Singapore </sub>
 * <sub> [2022-present] Ph.D Student in Software Engineering, Peking University </sub>
