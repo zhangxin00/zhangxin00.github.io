@@ -24,14 +24,12 @@ redirect_from:
 - <sub>Our paper "ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts" has been accepted by DAC 2024.
 - <sub>Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
 
-<!--
 ### Prestigious Awards
-* <sub> [2024] First Prize for Scientific and Technological Progress, Institute of Electronics.
+* <sub> [2024] First Prize for Scientific and Technological Progress, Institute of Electronics (Development and Application of Secure Middleware Platform for Cloud Operating System ).
 * <sub> [2022] Runner-up（2/3304）in ECS CloudBuild Developer Competition. 
-* <sub> [2022]  College Graduate Excellence Award, Hunan Province, China.
-* <sub> [2020]  Third Prize in 13th National College Student Information Security Contest (CTF track, top 5%).
-* <sub> [2019]  National Scholarship, China.
--->
+* <sub> [2022] College Graduate Excellence Award, Hunan Province, China.
+* <sub> [2020] Third Prize in 13th National College Student Information Security Contest (CTF Track, top 5%).
+* <sub> [2019] National Scholarship, China.
 
 ### Service
 * <sub> Reviewer for Conferences: ICISS 2022, ECAI 2023, ATS 2023, ASIACCS 2024, CCS 2024 Artifact Evaluation, Usenix Security 2025 Artifact Evaluation
