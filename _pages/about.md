@@ -25,7 +25,7 @@ redirect_from:
 - <sub>Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
 
 ### Prestigious Awards
-* <sub> [2024] First Prize for Scientific and Technological Progress, Institute of Electronics (Development and Application of Secure Middleware Platform for Cloud Operating System ).
+* <sub> [2024] First Prize for Scientific and Technological Progress, Chinese Institute of Electronics (Development and Application of Secure Middleware Platform for Cloud Operating System).
 * <sub> [2022] Runner-up（2/3304）in ECS CloudBuild Developer Competition. 
 * <sub> [2022] College Graduate Excellence Award, Hunan Province, China.
 * <sub> [2020] Third Prize in 13th National College Student Information Security Contest (CTF Track, top 5%).
