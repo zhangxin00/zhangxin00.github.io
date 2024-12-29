@@ -29,7 +29,7 @@ redirect_from:
 * <sub> Reviewer for Journal: TIFS
   
 ### Prestigious Awards
-* <sub> [2024] First Prize for Scientific and Technological Progress, Chinese Institute of Electronics (Development and Application of Secure Middleware Platform for Cloud Operating System).
+* <sub> [2024] First Prize for Scientific and Technological Progress, Chinese Institute of Electronics (for contributions to project "Development and Application of Secure Middleware Platform for Cloud Operating System").
 * <sub> [2022] Runner-up（2/3304）in ECS CloudBuild Developer Competition, Alibaba Cloud. 
 * <sub> [2022] College Graduate Excellence Award, Hunan Province, China.
 * <sub> [2019] National Scholarship, China.
