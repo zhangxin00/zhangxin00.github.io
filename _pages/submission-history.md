@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+### 2025 decisions
+- <sub> TALLIP &emsp; <font color="#00dd00">Accept</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
 ### 2024 decisions
 - <sub> Eurosys 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Major Revision</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer
@@ -33,3 +34,5 @@ author_profile: true
 - <sub> IJCAI 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing<br/>
 - <sub> MICCAI 2023 &emsp; <font color="#00dd00">Accept</font> &emsp; SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image<br/>
 - <sub> ICASSP 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image<br/>
+### 2022 decisions
+- <sub> TASLP &emsp; <font color="#dd0000">Reject</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
