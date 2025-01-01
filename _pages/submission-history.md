@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 ### 2025 decisions
 - <sub> TALLIP &emsp; <font color="#00dd00">Accept</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
+
 ### 2024 decisions
 - <sub> Eurosys 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Major Revision</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer
