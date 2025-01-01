@@ -34,5 +34,6 @@ author_profile: true
 - <sub> IJCAI 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing<br/>
 - <sub> MICCAI 2023 &emsp; <font color="#00dd00">Accept</font> &emsp; SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image<br/>
 - <sub> ICASSP 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image<br/>
+- <sub> ICASSP 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
 ### 2022 decisions
 - <sub> TASLP &emsp; <font color="#dd0000">Reject</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
