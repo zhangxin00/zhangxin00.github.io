@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 ### 2025 decisions
-- <sub> TALLIP &emsp; <font color="#00dd00">Accept</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
+- <sub> TALLIP &emsp; <font color="#00cc00">Accept</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
 
 ### 2024 decisions
 - <sub> Eurosys 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
-- <sub> Usenix Security 2025 &emsp; <font color="#ffa500">Major Revision</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer
+- <sub> Usenix Security 2025 &emsp; <font color="#ff8400">Major Revision</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
-- <sub> CHES 2025 &emsp; <font color="#ffa500">Major Revision</font> &emsp; Opcode-based Fault Attack on AES-NI
+- <sub> CHES 2025 &emsp; <font color="#ff8400">Major Revision</font> &emsp; Opcode-based Fault Attack on AES-NI
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> HPCC 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> NDSS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
