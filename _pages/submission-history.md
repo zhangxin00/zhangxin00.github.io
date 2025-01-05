@@ -11,7 +11,7 @@ author_profile: true
 
 ### 2024 decisions
 - <sub> Eurosys 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
-- <sub> Usenix Security 2025 &emsp; <font color="#ff8c00">Major Revision</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer
+- <sub> Usenix Security 2025 &emsp; <font color="#ff8400">Major Revision</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> CHES 2025 &emsp; <font color="#ff8400">Major Revision</font> &emsp; Opcode-based Fault Attack on AES-NI
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
@@ -25,15 +25,15 @@ author_profile: true
 - <sub> CCS 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer
 - <sub> CCS 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> Computer Journal &emsp; <font color="#00dd00">Accept</font> &emsp; IPOD2: An Irrecoverable and Verifiable Deletion Scheme for Outsourced Data<br/>
-- <sub> DAC 2024 &emsp; <font color="#00dd00">Accept</font> &emsp; ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts<br/>
-- <sub> ICASSP 2024 &emsp; <font color="#00dd00">Accept</font> &emsp; TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing<br/>
+- <sub> DAC 2024 &emsp; <font color="#00bb00">Accept</font> &emsp; ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts<br/>
+- <sub> ICASSP 2024 &emsp; <font color="#00bb00">Accept</font> &emsp; TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing<br/>
 
 ### 2023 decisions
-- <sub> HPCA 2024 &emsp; <font color="#00dd00">Accept</font> &emsp; SegScope: Probing Fine-grained Interrupts via Architectural Footprints<br/>
+- <sub> HPCA 2024 &emsp; <font color="#00bb00">Accept</font> &emsp; SegScope: Probing Fine-grained Interrupts via Architectural Footprints<br/>
 - <sub> MICRO 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; SegScope: Probing Fine-grained Interrupts via Architectural Footprints<br/>
 - <sub> ECAI 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing<br/>
 - <sub> IJCAI 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing<br/>
-- <sub> MICCAI 2023 &emsp; <font color="#00dd00">Accept</font> &emsp; SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image<br/>
+- <sub> MICCAI 2023 &emsp; <font color="#00bb00">Accept</font> &emsp; SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image<br/>
 - <sub> ICASSP 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image<br/>
 - <sub> ICASSP 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
 ### 2022 decisions
