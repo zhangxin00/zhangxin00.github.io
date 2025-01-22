@@ -8,6 +8,10 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
 
 {% include base_path %}
 
+
+- <sub> [2025] **Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer** <br/>
+  Junkai Liang, Zhi Zhang, **Xin Zhang (co-first author)**, Qingni Shen, Yansong Gao, Xingliang Yuan, Haiyang Xue, Pengfei Wu, Zhonghai Wu 
+  Usenix Security (CCF A) <br/>
 <!--
 - <sub> [2024] **Survey of Attacks and Defenses Technologies for In-vehicle Network of Intelligent Connected Vehicle**  <br/>
   Boyan Chen, Qingni Shen, Xiaolei Zhang, **Xin Zhang**, Cong Li, Zhonghai Wu.  <br/>
