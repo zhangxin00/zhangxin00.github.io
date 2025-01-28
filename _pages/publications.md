@@ -8,7 +8,10 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
 
 {% include base_path %}
 
-
+- <sub> [2025] **HyperHammer: Breaking Free from KVM-Enforced Isolation** <br/>
+  Wei Chen, Zhi Zhang, Xin Zhang, Qingni Shen, Yuval Yarom, Daniel Genkin, Chen Yan, Zhe Wang <br/>
+  International Conference on Architectural Support for Programming Languages and Operating Systems (CCF A) <br/>
+  
 - <sub> [2025] **Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer** <br/>
   Junkai Liang, Zhi Zhang, **Xin Zhang (co-first author)**, Qingni Shen, Yansong Gao, Xingliang Yuan, Haiyang Xue, Pengfei Wu, Zhonghai Wu <br/>
   Usenix Security (CCF A) <br/>
