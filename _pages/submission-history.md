@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ### 2025 decisions
+- <sub> ASPLOS 2025 &emsp; <font color="#00bb00">Accept</font> &emsp; HyperHammer: Breaking Free from KVM-Enforced Isolation
 - <sub> Usenix Security 2025 &emsp; <font color="#00bb00">Accept</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer
 - <sub> ASPLOS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> ASPLOS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
@@ -21,7 +22,7 @@ author_profile: true
 - <sub> HPCC 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> NDSS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> NDSS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
-- <sub> IEEE S&P 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
+- <sub> IEEE S&P 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; HyperHammer: Breaking Free from KVM-Enforced Isolation
 - <sub> NDSS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> NDSS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> CCS 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
