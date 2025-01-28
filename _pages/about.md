@@ -19,6 +19,7 @@ redirect_from:
  -->
 
 ### News!
+- <sub>Our paper "HyperHammer: Breaking Free from KVM-Enforced Isolation" has been accepted by ASPLOS 2025.
 - <sub>Our paper "Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer" has been accepted by Usenix Security 2025.
 - <sub> I will serve as a AEC member of USENIX Security 2025.
 - <sub> Excited to start my visit at NUS! You can find me at COM3-0217 (Systems & Networking Lab).
