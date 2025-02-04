@@ -60,7 +60,7 @@ redirect_from:
 
 ### Fun Facts
 * <sub> I enjoy sports, particularly bodybuilding and playing basketball with friends. I allocate 5 hours per week for these activities.
-* <sub> My favorite game now is "Battle of Golden Shovel", where I enjoy strategically building my resources to reach a high level and then going all-in to win the game.
+* <sub> My name (Xin Zhang) is pronounced similarly to ['Shin-chan'](https://en.wikipedia.org/wiki/Crayon_Shin-chan), a well-known cartoon character.
 * <sub> My favorite color is green because it typically symbolizes acceptance.
 
 ### Friend Links
