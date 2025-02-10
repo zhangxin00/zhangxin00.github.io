@@ -13,7 +13,7 @@ redirect_from:
 
 <sub> My research interests are in system security and computer architecture. In particular, I focus on re-evaluating the rationale behind certain hardware designs, and uncovering new side-channel leakages to offer designers insights for building more secure systems. 
 
-<sub> <font color="#dd0000">I am expected to graduate in 2026 and am actively seeking a faculty position in the academia/university. Please feel free to contact me at zhangxin00 AT stu.pku.edu.cn</font>
+<sub> <font color="#ff0000">I am expected to graduate in 2026 and am actively seeking a faculty position in the academia/university. Please feel free to contact me at zhangxin00 AT stu.pku.edu.cn</font>
 
 <!--I know little about other "fancy/non-fancy" and "hot/cold" areas. The only exception is that I occasionally collaborate with my friends on some cross-cutting topics that intersect with system security. -->
 
