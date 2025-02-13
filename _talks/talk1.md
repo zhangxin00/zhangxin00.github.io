@@ -2,7 +2,6 @@
 title: "SegScope: Probing Fine-grained Interrupts via Architectural Footprints"
 collection: talks
 type: "Talk"
-permalink: /talks/talk1
 venue: "Edinburgh International Conference Centre (HPCA 2024)"
 date: 2024-03-02
 location: "Edinburgh, Scotland"
