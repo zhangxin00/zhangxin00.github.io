@@ -42,7 +42,7 @@ My research interests are in system security and computer architecture. In parti
 
 <!-- (for contributions to project "Development and Application of Secure Middleware Platform for Cloud Operating System"). -->
 <!--
-* <sub> [2020] Third Prize in 13th National College Student Information Security Contest (CTF Track, top 5%).
+* [2020] Third Prize in 13th National College Student Information Security Contest (CTF Track, top 5%).
 
 ### Open-Source Contributions
 * [2024] [CVE-2024-1545](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl EdDSA vulnerability
@@ -54,7 +54,7 @@ My research interests are in system security and computer architecture. In parti
 -->
 
 ### Teaching
-* <sub> Operating System and Virtualization Security – Teaching Assistant, Fall 2023.
+* Operating System and Virtualization Security – Teaching Assistant, Fall 2023.
 
 ### Educational Background
 * [2024-present] Visiting Research Assistant, National University of Singapore </sub>
