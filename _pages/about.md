@@ -31,22 +31,22 @@ My research interests are in system security and computer architecture. In parti
 - Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
 
 ### Service
-* <sub> Reviewer for Conferences: ICISS 2022, ECAI 2023, ATS 2023, ASIACCS 2024, CCS 2024 Artifact Evaluation, Usenix Security 2025 Artifact Evaluation
-* <sub> Reviewer for Journal: TIFS
+* Reviewer for Conferences: ICISS 2022, ECAI 2023, ATS 2023, ASIACCS 2024, CCS 2024 Artifact Evaluation, Usenix Security 2025 Artifact Evaluation
+* Reviewer for Journal: TIFS
   
 ### Prestigious Awards
-* <sub> [2024] First Prize of Science and Technology Progress Award, Chinese Institute of Electronics.
-* <sub> [2022] Runner-up（2/3304）in ECS CloudBuild Developer Competition, Alibaba Cloud. 
-* <sub> [2022] College Graduate Excellence Award, Hunan Province, China.
-* <sub> [2019] National Scholarship, China.
+* [2024] First Prize of Science and Technology Progress Award, Chinese Institute of Electronics.
+* [2022] Runner-up（2/3304）in ECS CloudBuild Developer Competition, Alibaba Cloud. 
+* [2022] College Graduate Excellence Award, Hunan Province, China.
+* [2019] National Scholarship, China.
 
 <!-- (for contributions to project "Development and Application of Secure Middleware Platform for Cloud Operating System"). -->
 <!--
 * <sub> [2020] Third Prize in 13th National College Student Information Security Contest (CTF Track, top 5%).
 
 ### Open-Source Contributions
-* <sub> [2024] [CVE-2024-1545](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl EdDSA vulnerability
-* <sub> [2024] [CVE-2024-2881](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl RSA vulnerability
+* [2024] [CVE-2024-1545](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl EdDSA vulnerability
+* [2024] [CVE-2024-2881](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl RSA vulnerability
 
 <!--
 * <sub> [2024] CVE-2024-28285 Crypto++ Elgamal vulnerability
@@ -57,15 +57,15 @@ My research interests are in system security and computer architecture. In parti
 * <sub> Operating System and Virtualization Security – Teaching Assistant, Fall 2023.
 
 ### Educational Background
-* <sub> [2024-present] Visiting Research Assistant, National University of Singapore </sub>
-* <sub> [2022-present] Ph.D Student in Software Engineering, Peking University </sub>
-  * <sub> Supervisor: Prof. Qingni Shen </sub>
-* <sub> [2018-2022] B.S. in Information Security, Hunan University </sub>      
+* [2024-present] Visiting Research Assistant, National University of Singapore </sub>
+* [2022-present] Ph.D Student in Software Engineering, Peking University </sub>
+  * Supervisor: Prof. Qingni Shen </sub>
+* [2018-2022] B.S. in Information Security, Hunan University </sub>      
 
 ### Fun Facts
-* <sub> I enjoy sports, particularly bodybuilding and playing basketball with friends. I allocate 5 hours per week for these activities.
-* <sub> My name (Xin Zhang) is pronounced similarly to ['Shin-chan'](https://en.wikipedia.org/wiki/Crayon_Shin-chan), a well-known cartoon character.
-* <sub> My favorite color is green because it typically symbolizes acceptance.
+* I enjoy sports, particularly bodybuilding and playing basketball with friends. I allocate 5 hours per week for these activities.
+* My name (Xin Zhang) is pronounced similarly to ['Shin-chan'](https://en.wikipedia.org/wiki/Crayon_Shin-chan), a well-known cartoon character.
+* My favorite color is green because it typically symbolizes acceptance.
 
 ### Friend Links
 * [Shengfang Zhai](https://zhaisf.github.io/)
