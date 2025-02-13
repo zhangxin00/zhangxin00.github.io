@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<sub> I am a third-year Ph.D student at Peking University, where I am very fortunate to be advised by Prof. [Qingni Shen](https://ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html) and work closely with [Zhi Zhang](https://zhangzhics.github.io/). I am also a visting Ph.D student at National University of Singapore since October 2024, advised and funded by Prof. [Trevor Carlson](https://www.comp.nus.edu.sg/~tcarlson/). Previously, I obtained my bachelor's degree in Information Security from Hunan University.
+I am a third-year Ph.D student at Peking University, where I am very fortunate to be advised by Prof. [Qingni Shen](https://ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html) and work closely with [Zhi Zhang](https://zhangzhics.github.io/). I am also a visting Ph.D student at National University of Singapore since October 2024, advised and funded by Prof. [Trevor Carlson](https://www.comp.nus.edu.sg/~tcarlson/). Previously, I obtained my bachelor's degree in Information Security from Hunan University.
 
-<sub> My research interests are in system security and computer architecture. In particular, I focus on re-evaluating the rationale behind certain hardware designs, and uncovering new side-channel leakages to offer designers insights for building more secure systems. 
+My research interests are in system security and computer architecture. In particular, I focus on re-evaluating the rationale behind certain hardware designs, and uncovering new side-channel leakages to offer designers insights for building more secure systems. 
 
-<sub> <font color="#ff0000"><b>I am expected to graduate in 2026 and am actively seeking a faculty position in the academia/university. Please feel free to contact me at zhangxin00 AT stu.pku.edu.cn</b></font>
+<font color="#ff0000"><b>I am expected to graduate in 2026 and am actively seeking a faculty position in the academia/university. Please feel free to contact me at zhangxin00 AT stu.pku.edu.cn</b></font>
 
 <!--I know little about other "fancy/non-fancy" and "hot/cold" areas. The only exception is that I occasionally collaborate with my friends on some cross-cutting topics that intersect with system security. -->
 
