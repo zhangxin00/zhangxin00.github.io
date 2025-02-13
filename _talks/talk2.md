@@ -1,8 +1,5 @@
 ---
 title: "Side Channel Attack Against DNN Models"
-collection: talks
-type: "Talk"
-permalink: /talks/talk2
 venue: "Peking University Overseas Exchange Center"
 date: 2024-05-08
 location: "Beijing, China"
