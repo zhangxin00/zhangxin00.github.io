@@ -23,12 +23,12 @@ My research interests are in system security and computer architecture. In parti
  -->
 
 ### News!
-- <sub>Our paper "HyperHammer: Breaking Free from KVM-Enforced Isolation" has been accepted by ASPLOS 2025.
-- <sub>Our paper "Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer" has been accepted by Usenix Security 2025.
-- <sub> I will serve as a AEC member of USENIX Security 2025.
-- <sub> Excited to start my visit at NUS! You can find me at COM3-0217 (Systems & Networking Lab).
-- <sub>Our paper "ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts" has been accepted by DAC 2024.
-- <sub>Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
+- Our paper "HyperHammer: Breaking Free from KVM-Enforced Isolation" has been accepted by ASPLOS 2025.
+- Our paper "Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer" has been accepted by Usenix Security 2025.
+- I will serve as a AEC member of USENIX Security 2025.
+- Excited to start my visit at NUS! You can find me at COM3-0217 (Systems & Networking Lab).
+- Our paper "ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts" has been accepted by DAC 2024.
+- Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
 
 ### Service
 * <sub> Reviewer for Conferences: ICISS 2022, ECAI 2023, ATS 2023, ASIACCS 2024, CCS 2024 Artifact Evaluation, Usenix Security 2025 Artifact Evaluation
