@@ -4,7 +4,7 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-Since the start of my PhD studies, I have been dedicating my [efforts[5/16]](https://zhangxin00.github.io/submissions) to publish my papers on top-tier conferences in computer architecture (MICRO[0/1], ISCA[0/0], HPCA[1/1], and ASPLOS[1/1]) and security (CCS[0/3], IEEE S&P[0/1], Usenix Security[1/3], and NDSS[0/4]). I also contribute to other good enough conferences in hardware security (e.g., DAC[1/1], DATE[1/1], and CHES). You can find the full publication list from my [google scholar](https://scholar.google.com/citations?user=rYAO48wAAAAJ&hl=en).
+Since the start of my PhD studies, I have been dedicating my efforts[5/16] to publish my papers on top-tier conferences in computer architecture (MICRO[0/1], ISCA[0/0], HPCA[1/1], and ASPLOS[1/1]) and security (CCS[0/3], IEEE S&P[0/1], Usenix Security[1/3], and NDSS[0/4]). I also contribute to other good enough conferences in hardware security (e.g., DAC[1/1], DATE[1/1], and CHES). You can find the full publication list from my [google scholar](https://scholar.google.com/citations?user=rYAO48wAAAAJ&hl=en) and the submission history from [Github](https://zhangxin00.github.io/submissions).
 
 {% include base_path %}
 
