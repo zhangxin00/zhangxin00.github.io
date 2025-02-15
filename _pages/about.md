@@ -23,6 +23,7 @@ My research interests are in system security and computer architecture. In parti
  -->
 
 ### News!
+- Three papers, LeakyDSP, AmpereBleed, and ZK-Hammer have been accepted by DAC 2025. See you in San Francisco!
 - Our paper "HyperHammer: Breaking Free from KVM-Enforced Isolation" has been accepted by ASPLOS 2025.
 - Our paper "Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer" has been accepted by Usenix Security 2025.
 - I will serve as a AEC member of USENIX Security 2025.
