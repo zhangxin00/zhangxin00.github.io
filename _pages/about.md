@@ -58,10 +58,10 @@ My research interests are in system security and computer architecture. In parti
 * Operating System and Virtualization Security – Teaching Assistant, Fall 2023.
 
 ### Educational Background
-* [2024-present] Visiting Research Assistant, National University of Singapore </sub>
-* [2022-present] Ph.D Student in Software Engineering, Peking University </sub>
-  * Supervisor: Prof. Qingni Shen </sub>
-* [2018-2022] B.S. in Information Security, Hunan University </sub>      
+* [2024-present] Visiting Research Assistant, National University of Singapore
+* [2022-present] Ph.D Student in Software Engineering, Peking University
+  * Supervisor: Prof. Qingni Shen
+* [2018-2022] B.S. in Information Security, Hunan University  
 
 ### Fun Facts
 * I enjoy sports, particularly bodybuilding and playing basketball with friends. I allocate 5 hours per week for these activities.
