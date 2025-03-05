@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 ### 2025 decisions
+- <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
+- <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
+- <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> DAC 2025 &emsp; <font color="#00bb00">Accept</font> &emsp; LeakyDSP: Exploiting Digital Signal Processing Blocks to Sense Voltage Fluctuations in FPGAs<br/>
 - <sub> DAC 2025 &emsp; <font color="#00bb00">Accept</font> &emsp; AmpereBleed: Exploiting On-chip Current Sensors for Circuit-Free Attacks on ARM-FPGA SoCs<br/>
 - <sub> DAC 2025 &emsp; <font color="#00bb00">Accept</font> &emsp; ZK-Hammer: Leaking Secrets from Zero-Knowledge Proofs via Rowhammer<br/>
