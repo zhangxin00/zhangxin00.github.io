@@ -4,7 +4,7 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-In the past few years, I have been dedicating my efforts[8/21] (No. of acceptence / No. of submissions) to publish my papers on top-tier conferences in computer architecture (MICRO[0/1], ISCA[0/0], HPCA[1/1], and ASPLOS[1/3]) and security (CCS[0/3], IEEE S&P[0/1], Usenix Security[1/6], and NDSS[0/4]). I also contribute to other good enough conferences in hardware security (e.g., DAC[4/4], DATE[1/1], and CHES). You can find the full publication list from my [Google Scholar](https://scholar.google.com/citations?user=rYAO48wAAAAJ&hl=en) and the submission history from [GitHub](https://zhangxin00.github.io/submissions).
+In the past few years, I have been dedicating my efforts[8/24] (No. of acceptence / No. of submissions) to publish my papers on top-tier conferences in computer architecture (MICRO[0/1], ISCA[0/0], HPCA[1/1], and ASPLOS[1/3]) and security (CCS[0/3], IEEE S&P[0/1], Usenix Security[1/6], and NDSS[0/4]). I also contribute to other good enough conferences in hardware security (e.g., DAC[4/4], DATE[1/1], and CHES). You can find the full publication list from my [Google Scholar](https://scholar.google.com/citations?user=rYAO48wAAAAJ&hl=en) and the submission history from [GitHub](https://zhangxin00.github.io/submissions).
 
 {% include base_path %}
 - <sub> [2025] **LeakyDSP: Exploiting Digital Signal Processing Blocks to Sense Voltage Fluctuations in FPGAs** [[paper](https://zhangxin00.github.io/files/LeakyDSP.pdf)] [[code](https://github.com/jjzou2002/LeakyDSP)] <br/>
