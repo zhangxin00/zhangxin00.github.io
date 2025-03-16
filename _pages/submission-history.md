@@ -19,7 +19,7 @@ author_profile: true
 - <sub> ASPLOS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> TALLIP &emsp; <font color="#00bb00">Accept</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
 
-### 2024 decisions <font size=3>(AR: 20%)</font>
+### 2024 decisions <small>(AR: 20%)</small>
 - <sub> Eurosys 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> Usenix Security 2025 &emsp; <font color="#ff8400">Major Revision</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer<br/>
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
@@ -46,5 +46,5 @@ author_profile: true
 - <sub> MICCAI 2023 &emsp; <font color="#00bb00">Accept</font> &emsp; SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image<br/>
 - <sub> ICASSP 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image<br/>
 - <sub> ICASSP 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
-### 2022 decisions (AR: 0%)
+### 2022 decisions <small>(AR: 0%)</small>
 - <sub> TASLP &emsp; <font color="#dd0000">Reject</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
