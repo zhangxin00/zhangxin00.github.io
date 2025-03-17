@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ### 2025 decisions
+- <sub> CHES 2025 &emsp; <font color="#00bb00">Accept</font> &emsp; Practical Opcode-based Fault Attack on AES-NI<br/>
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
@@ -23,7 +24,7 @@ author_profile: true
 - <sub> Eurosys 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> Usenix Security 2025 &emsp; <font color="#ff8400">Major Revision</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer<br/>
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
-- <sub> CHES 2025 &emsp; <font color="#ff8400">Major Revision</font> &emsp; Opcode-based Fault Attack on AES-NI<br/>
+- <sub> CHES 2025 &emsp; <font color="#ff8400">Major Revision</font> &emsp; Practical Opcode-based Fault Attack on AES-NI<br/>
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> HPCC 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> NDSS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
