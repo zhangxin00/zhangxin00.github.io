@@ -19,7 +19,7 @@ In the past few years, I have been dedicating my efforts[9/25] (No. of acceptenc
   Junkai Liang, **Xin Zhang**, Daqi Hu, Qingni Shen, Yuejian Fang and Zhonghai Wu <br/>
   Design Automation Conference (CCF-A / CORE-A) <br/>
 
-  - <sub> [2025] **Practical Opcode-based Fault Attack on AES-NI** <br/>
+- <sub> [2025] **Practical Opcode-based Fault Attack on AES-NI** <br/>
   Xue Gong, **Xin Zhang**, Qianmei Wu, Fan Zhang, Junge Xu, Qingni Shen, Zhi Zhang <br/>
   Cryptographic Hardware and Embedded Systems (CCF-B / CORE-A) <br/>
   
