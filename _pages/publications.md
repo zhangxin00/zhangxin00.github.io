@@ -8,11 +8,11 @@ In the past few years, I have been dedicating my efforts[9/25] (No. of acceptenc
 
 {% include base_path %}
 - <sub> [DAC 2025] **LeakyDSP: Exploiting Digital Signal Processing Blocks to Sense Voltage Fluctuations in FPGAs** [[paper](https://zhangxin00.github.io/files/LeakyDSP.pdf)] [[code](https://github.com/jjzou2002/LeakyDSP)] <br/>
-  **Xin Zhang**, Jiajun Zou, Yi Yang, Qingni Shen, Zhi Zhang, Yansong Gao, Zhonghai Wu, Trevor Carlson <br/>
+  **Xin Zhang**, Jiajun Zou, Yi Yang, Qingni Shen, Zhi Zhang, Yansong Gao, Zhonghai Wu, Trevor E. Carlson <br/>
   Design Automation Conference (CCF-A / CORE-A) <br/>
 
 - <sub> [DAC 2025] **AmpereBleed: Exploiting On-chip Current Sensors for Circuit-Free Attacks on ARM-FPGA SoCs** <br/>
-  **Xin Zhang**, Yi Yang, Jiajun Zou, Qingni Shen, Zhi Zhang, Yansong Gao, Zhonghai Wu, Trevor Carlson <br/>
+  **Xin Zhang**, Yi Yang, Jiajun Zou, Qingni Shen, Zhi Zhang, Yansong Gao, Zhonghai Wu, Trevor E. Carlson <br/>
   Design Automation Conference (CCF-A / CORE-A) <br/>
 
 - <sub> [DAC 2025] **ZK-Hammer: Leaking Secrets from Zero-Knowledge Proofs via Rowhammer** <br/>
