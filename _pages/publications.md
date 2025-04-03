@@ -19,15 +19,15 @@ In the past few years, I have been dedicating my efforts[9/25] (No. of acceptenc
   Junkai Liang, **Xin Zhang**, Daqi Hu, Qingni Shen, Yuejian Fang and Zhonghai Wu <br/>
   Design Automation Conference (CCF-A / CORE-A) <br/>
 
-- <sub> [CHES 2025] **Practical Opcode-based Fault Attack on AES-NI** <br/>
+- <sub> [CHES 2025] **Practical Opcode-based Fault Attack on AES-NI** <br/> 
   Xue Gong, **Xin Zhang**, Qianmei Wu, Fan Zhang, Junge Xu, Qingni Shen, Zhi Zhang <br/>
   IACR Transactions on Cryptographic Hardware and Embedded Systems (CCF-B / CORE-A) <br/>
   
-- <sub> [ASPLOS 2025] **HyperHammer: Breaking Free from KVM-Enforced Isolation** <br/>
+- <sub> [ASPLOS 2025] **HyperHammer: Breaking Free from KVM-Enforced Isolation** <br/> [[paper](https://zhangxin00.github.io/files/hyperhammer.pdf)] 
   Wei Chen, Zhi Zhang, **Xin Zhang**, Qingni Shen, Yuval Yarom, Daniel Genkin, Chen Yan, Zhe Wang <br/>
   International Conference on Architectural Support for Programming Languages and Operating Systems (CCF-A / CORE-A*) <br/>
   
-- <sub> [SEC 2025] **Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer** <br/>
+- <sub> [SEC 2025] **Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer** <br/> [[paper](https://zhangxin00.github.io/files/achilles.pdf)] 
   Junkai Liang, Zhi Zhang, **Xin Zhang (co-first author)**, Qingni Shen, Yansong Gao, Xingliang Yuan, Haiyang Xue, Pengfei Wu, Zhonghai Wu <br/>
   Usenix Security (CCF-A / CORE-A*) <br/>
   
