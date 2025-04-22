@@ -40,11 +40,11 @@ My research interests are in system security and computer architecture. In parti
 * [2024] First Prize of Science and Technology Progress Award, Chinese Institute of Electronics [[pdf](https://zhangxin00.github.io/files/prize.pdf)].
 * [2022] Runner-up（2/3304）in ECS CloudBuild Developer Competition, Alibaba Cloud. 
 * [2022] College Graduate Excellence Award, Hunan Province, China.
-* [2019] National Scholarship, China.
-
+  
+<!--* [2019] National Scholarship, China.-->
 <!-- (for contributions to project "Development and Application of Secure Middleware Platform for Cloud Operating System"). -->
 <!--
-* [2020] Third Prize in 13th National College Student Information Security Contest (CTF Track, top 5%).
+* [2020] Third Prize in 13th National College Student Information Security Contest (CTF Track, top 5%).-->
 
 ### Open-Source Contributions
 * [2024] [CVE-2024-1545](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl EdDSA vulnerability
