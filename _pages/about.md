@@ -48,8 +48,8 @@ My research interests are in system security and computer architecture. In parti
 
 ### Open-Source Contributions
 * [2025] Mask Linux thermal interrupt info in /proc and /sys for Docker [[since v28.0.2](https://github.com/moby/moby/pull/49560)]
-* [2024] [CVE-2024-1545](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl EdDSA vulnerability
-* [2024] [CVE-2024-2881](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl RSA vulnerability
+* [2024] [CVE-2024-1545](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl EdDSA Rowhammer vulnerability
+* [2024] [CVE-2024-2881](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl RSA Rowhammer vulnerability
 
 <!--
 * <sub> [2024] CVE-2024-28285 Crypto++ Elgamal vulnerability
