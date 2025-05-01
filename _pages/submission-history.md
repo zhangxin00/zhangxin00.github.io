@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ### 2025 decisions
+- <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> IEEE Transactions on Information Forensics and Security &emsp; <font color="#99bb00">Major Revision</font> &emsp; Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86
 - <sub> Nature Electronics &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> CHES 2025 &emsp; <font color="#00bb00">Accept</font> &emsp; Practical Opcode-based Fault Attack on AES-NI<br/>
