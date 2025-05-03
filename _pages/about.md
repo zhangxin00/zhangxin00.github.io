@@ -34,7 +34,7 @@ My research interests are in system security and computer architecture. In parti
 
 ### Service
 * Reviewer for Conferences: ICISS 2022, ECAI 2023, ATS 2023, ASIACCS 2024, CCS 2024 Artifact Evaluation, Usenix Security 2025 Artifact Evaluation
-* Reviewer for Journal: TIFS
+* Reviewer for Journal: TIFS, TDSC
   
 ### Prestigious Awards
 * [2024] First Prize of Science and Technology Progress Award, Chinese Institute of Electronics [[pdf](https://zhangxin00.github.io/files/prize.pdf)].
