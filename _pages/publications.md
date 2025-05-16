@@ -15,7 +15,7 @@ In the past few years, I have been dedicating my efforts[9/25] (No. of acceptenc
   **Xin Zhang**, Yi Yang, Jiajun Zou, Qingni Shen, Zhi Zhang, Yansong Gao, Zhonghai Wu, Trevor E. Carlson <br/>
   Design Automation Conference (CCF-A / CORE-A) <br/>
 
-- <sub> [DAC 2025] **ZK-Hammer: Leaking Secrets from Zero-Knowledge Proofs via Rowhammer** <br/>
+- <sub> [DAC 2025] **ZK-Hammer: Leaking Secrets from Zero-Knowledge Proofs via Rowhammer** [[paper](https://zhangxin00.github.io/files/zkhammer.pdf)] <br/>
   Junkai Liang, **Xin Zhang**, Daqi Hu, Qingni Shen, Yuejian Fang and Zhonghai Wu <br/>
   Design Automation Conference (CCF-A / CORE-A) <br/>
 
