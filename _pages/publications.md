@@ -32,11 +32,11 @@ In the past few years, I have been dedicating my efforts[9/25] (No. of acceptenc
   Usenix Security (CCF-A / CORE-A*) <br/>
   
 - <sub> [DAC 2024] **ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts** [[paper](https://zhangxin00.github.io/files/ThermalScope.pdf)] [[code](https://github.com/zhangxin00/thermalscope)]<br/>
-   **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Zhonghai Wu. <br/>
+   **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Zhonghai Wu <br/>
    Design Automation Conference (CCF-A / CORE-A) <br/>
   
 - <sub> [HPCA 2024] **SegScope: Probing Fine-grained Interrupts via Architectural Footprints** [[paper](https://zhangxin00.github.io/files/SegScope.pdf)] [[code](https://github.com/zhangxin00/segscope/)] [[slides](https://zhangxin00.github.io/files/HPCA2024-SegScope.pdf)] [[poster](https://zhangxin00.github.io/files/poster-segscope.pdf)] <br/>
-   **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Jiliang Zhang. <br/>
+   **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Jiliang Zhang <br/>
    International Symposium on High-Performance Computer Architecture (CCF-A / CORE-A*) <br/>
 
 <!--
