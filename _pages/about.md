@@ -58,7 +58,7 @@ My research interests are in system security and computer architecture. In parti
 -->
 
 ### Teaching
-* Operating System and Virtualization Security – Teaching Assistant, Fall 2023.
+* Operating System and Virtualization Security – Teaching Assistant, Fall 2023
 
 ### Educational Background
 * [2024-present] Visiting Research Assistant, National University of Singapore
