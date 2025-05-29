@@ -48,7 +48,7 @@ My research interests are in system security and computer architecture. In parti
 * [2020] Third Prize in 13th National College Student Information Security Contest (CTF Track, top 5%).-->
 
 ### Open-Source Contributions
-* [2025] Mask Linux thermal interrupt info in /proc and /sys for Docker [[since v28.0.2](https://github.com/moby/moby/pull/49560)]
+* [2025] Mask Linux thermal interrupt info in /proc and /sys for Docker by default [[since v28.0.2](https://github.com/moby/moby/pull/49560)]
 * [2024] [CVE-2024-1545](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl EdDSA Rowhammer vulnerability
 * [2024] [CVE-2024-2881](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl RSA Rowhammer vulnerability
 
