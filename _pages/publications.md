@@ -7,6 +7,10 @@ author_profile: true
 In the past few years, I have been dedicating my efforts[9/25] (No. of acceptence / No. of submissions) to publish papers on top-tier conferences in computer architecture (MICRO[0/1], ISCA[0/0], HPCA[1/1], and ASPLOS[1/3]) and security (CCS[0/3], IEEE S&P[0/1], Usenix Security[1/6], and NDSS[0/4]). I also contribute to other good enough conferences in hardware security (e.g., DAC[4/4], DATE[1/1], and CHES[1/1]). You can find the full publication list from my [Google Scholar](https://scholar.google.com/citations?user=rYAO48wAAAAJ&hl=en) and the submission history from [GitHub](https://zhangxin00.github.io/submissions).
 
 {% include base_path %}
+- <sub> [DAC 2025] **Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86** [[paper](https://zhangxin00.github.io/files/nonmovable-irq.pdf)] <br/>
+  **Xin Zhang**, Qingni Shen, Zhi Zhang, Yansong Gao, Jiajun Zou, Yi Yang, Zhonghai Wu <br/>
+  IEEE Transactions on Information Forensics and Security (CCF-A, IF=6.3) <br/>
+  
 - <sub> [DAC 2025] **LeakyDSP: Exploiting Digital Signal Processing Blocks to Sense Voltage Fluctuations in FPGAs** [[paper](https://zhangxin00.github.io/files/LeakyDSP.pdf)] [[code](https://github.com/jjzou2002/LeakyDSP)] <br/>
   **Xin Zhang**, Jiajun Zou, Yi Yang, Qingni Shen, Zhi Zhang, Yansong Gao, Zhonghai Wu, Trevor E. Carlson <br/>
   Design Automation Conference (CCF-A / CORE-A) <br/>
