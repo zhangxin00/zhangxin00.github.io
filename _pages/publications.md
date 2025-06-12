@@ -23,7 +23,7 @@ In the past few years, I have been dedicating my efforts[9/25] (No. of acceptenc
   Junkai Liang, **Xin Zhang**, Daqi Hu, Qingni Shen, Yuejian Fang and Zhonghai Wu <br/>
   Design Automation Conference (CCF-A / CORE-A) <br/>
 
-- <sub> [CHES 2025] **Practical Opcode-based Fault Attack on AES-NI** [[SAFE 2025 Best Paper Award](https://zhangxin00.github.io/files/SAFE2025.pdf)] <br/> 
+- <sub> [CHES 2025] **Practical Opcode-based Fault Attack on AES-NI** [[paper](https://zhangxin00.github.io/files/ofa.pdf)] [[SAFE 2025 Best Paper Award](https://zhangxin00.github.io/files/SAFE2025.pdf)] <br/> 
   Xue Gong, **Xin Zhang**, Qianmei Wu, Fan Zhang, Junge Xu, Qingni Shen, Zhi Zhang <br/>
   IACR Transactions on Cryptographic Hardware and Embedded Systems (CCF-B / CORE-A) <br/>
   
