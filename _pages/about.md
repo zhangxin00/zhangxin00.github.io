@@ -23,6 +23,7 @@ My research interests are in system security and computer architecture. In parti
  -->
 
 ### News!
+- [2025/06] "Achilles" has been awarded the "Honorable Mentions" by Usenix Security 2025 (Top 6% of the accepted papers).
 - [2025/04] Our paper "Practical Opcode-based Fault Attack on AES-NI" has been accepted by CHES 2025.
 - [2025/02] Three papers, LeakyDSP, AmpereBleed, and ZK-Hammer have been accepted by DAC 2025. See you in San Francisco!
 - [2025/01] Our paper "HyperHammer: Breaking Free from KVM-Enforced Isolation" has been accepted by ASPLOS 2025.
