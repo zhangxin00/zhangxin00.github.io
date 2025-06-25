@@ -42,7 +42,7 @@ My research interests are in system security and computer architecture. In parti
 * [2024] First Prize of Science and Technology Progress Award, Chinese Institute of Electronics [[pdf](https://zhangxin00.github.io/files/prize.pdf)]
 * [2022] Runner-up（2/3304）in ECS CloudBuild Developer Competition, Alibaba Cloud [[pdf](https://zhangxin00.github.io/files/ali.pdf)]
 * [2022] College Graduate Excellence Award (Top 3%), Hunan Province, China
-* [2020] Pacemaker to Merit Student (Top 0.2%), Hunan University, China.
+* [2020] Pacemaker to Merit Student (Top 0.2%), Hunan University, China
   
 <!--* [2019] National Scholarship, China.-->
 <!-- (for contributions to project "Development and Application of Secure Middleware Platform for Cloud Operating System"). -->
