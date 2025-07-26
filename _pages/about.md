@@ -29,7 +29,6 @@ I know little about other "fancy/non-fancy" and "hot/cold" areas. The only excep
 - [2025/02] Three papers, "LeakyDSP", "AmpereBleed", and "ZK-Hammer" have been accepted by DAC 2025. See you in San Francisco!
 - [2025/01] Our paper "HyperHammer: Breaking Free from KVM-Enforced Isolation" has been accepted by ASPLOS 2025.
 - [2025/01] Our paper "Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer" has been accepted by Usenix Security 2025.
-- [2024/11] I will serve as a AEC member of USENIX Security 2025.
 - [2024/10] Excited to start my visit at NUS! You can find me at COM3-0217 (Systems & Networking Lab).
 - [2024/02] Our paper "ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts" has been accepted by DAC 2024.
 - [2023/10] Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
