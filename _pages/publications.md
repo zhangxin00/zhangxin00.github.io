@@ -4,7 +4,12 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-In the past few years, I have been dedicating my efforts (No. of acceptence / No. of submissions) to publish papers on top-tier conferences in computer architecture (MICRO[0/2], ISCA[0/0], HPCA[1/1], and ASPLOS[1/4]) and security (CCS[0/3], IEEE S&P[0/1], Usenix Security[1/6], and NDSS[0/4]). I also contribute to other well-regarded conferences in hardware security (e.g., DAC[4/4], DATE[1/1], and CHES[1/1]). You can find the full publication list from my [Google Scholar](https://scholar.google.com/citations?user=rYAO48wAAAAJ&hl=en) and the submission history from [GitHub](https://zhangxin00.github.io/submissions).
+Publications at Conferences (8 papers): HPCA ('24), Usenix Security ('25), ASPLOS ('25), DAC ('25 × 3, '24), CHES ('25)
+
+Publications at Journals (8 papers): TIFS ('25), The Computer Journal ('24)， TALLIP ('25)
+
+Publications Ranking Statistics: CCF A: 8 papers, CCF B: 2 papers
+
 
 {% include base_path %}
 - <sub> [TIFS 2025] **Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86** [[paper](https://zhangxin00.github.io/files/nonmovable-irq.pdf)] <br/>
