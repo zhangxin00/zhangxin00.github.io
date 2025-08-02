@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-In the past few years, I have been dedicating my efforts (No. of acceptence / No. of submissions) to publish papers on top-tier conferences in computer architecture (MICRO, ISCA, HPCA, and ASPLOS) and security (CCS, IEEE S&P, Usenix Security, and NDSS). I also contribute to other well-regarded conferences in hardware security (e.g., DAC, DATE, and CHES). You can find the full publication list from my [Google Scholar](https://scholar.google.com/citations?user=rYAO48wAAAAJ&hl=en) and the submission history from [GitHub](https://zhangxin00.github.io/submissions).
+In the past few years, I have been dedicating my efforts to publish papers on top-tier conferences in computer architecture (MICRO, ISCA, HPCA, and ASPLOS) and security (CCS, IEEE S&P, Usenix Security, and NDSS). I also contribute to other well-regarded conferences in hardware security (e.g., DAC, DATE, and CHES). You can find the full publication list from my [Google Scholar](https://scholar.google.com/citations?user=rYAO48wAAAAJ&hl=en) and the submission history from [GitHub](https://zhangxin00.github.io/submissions).
 
-Publications at Conferences (8 papers): HPCA ('24), Usenix Security ('25), ASPLOS ('25), DAC ('25 × 3, '24), CHES ('25), DATE ('25)
+Publications at Conferences (8 papers): HPCA (’24), Usenix Security (’25), ASPLOS ('25), DAC ('25 × 3, '24), CHES ('25), DATE ('25)
 
-Publications at Journals (8 papers): TIFS ('25), The Computer Journal ('24), TALLIP ('25)
+Publications at Journals (8 papers): TIFS (’25), The Computer Journal ('24), TALLIP ('25)
 
 Publications Ranking Statistics: CCF A: 8 papers, CCF B: 3 papers
 
