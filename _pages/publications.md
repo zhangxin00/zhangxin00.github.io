@@ -42,6 +42,7 @@ Publications Ranking Statistics: 8 CCF-A papers, 3 CCF-B papers
 - <sub> [SEC 2025] **Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer** [[paper](https://zhangxin00.github.io/files/achilles.pdf)] [[code](https://github.com/liang-junkai/Achilles)]<br/> 
   Junkai Liang, Zhi Zhang, **Xin Zhang (co-first author)**, Qingni Shen, Yansong Gao, Xingliang Yuan, Haiyang Xue, Pengfei Wu, Zhonghai Wu <br/>
   Usenix Security (CCF-A / CORE-A*) <br/>
+  <font color="#00bb00">Honorable Mention</font> &emsp;
   
 - <sub> [DAC 2024] **ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts** [[paper](https://zhangxin00.github.io/files/ThermalScope.pdf)] [[code](https://github.com/zhangxin00/thermalscope)]<br/>
    **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Zhonghai Wu <br/>
