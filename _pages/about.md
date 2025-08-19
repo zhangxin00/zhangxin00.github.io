@@ -24,6 +24,7 @@ I know little about other "fancy/non-fancy" and "hot/cold" areas. The only excep
  -->
 
 ### News!
+- [2025/08] Received a student travel grant from CHES 2025. See you in Kuala Lumpur!
 - [2025/06] "Achilles" has been awarded the "Honorable Mentions" by Usenix Security 2025 (Top 6% of the accepted papers).
 - [2025/04] Our paper "Practical Opcode-based Fault Attack on AES-NI" has been accepted by CHES 2025.
 - [2025/02] Three papers, "LeakyDSP", "AmpereBleed", and "ZK-Hammer" have been accepted by DAC 2025. See you in San Francisco!
