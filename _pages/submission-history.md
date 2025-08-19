@@ -7,16 +7,16 @@ author_profile: true
 
 {% include base_path %}
 ### 2025 decisions
-- <sub> IEEE Transactions on Dependable and Secure Computing &emsp; <font color="#77bb00">Minor Revision</font> &emsp; Fish and Chips: On the Root Causes of Co-located Website-Fingerprinting Attacks
-- <sub> lEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems &emsp; <font color="#99bb00">Major Revision</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
+- <sub> IEEE Transactions on Dependable and Secure Computing &emsp; <font color="#88bb00">Minor Revision</font> &emsp; Fish and Chips: On the Root Causes of Co-located Website-Fingerprinting Attacks
+- <sub> lEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems &emsp; <font color="#aabb00">Major Revision</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
 - <sub> MICRO 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> SOSP 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
-- <sub> IEEE Transactions on Dependable and Secure Computing &emsp; <font color="#99bb00">Major Revision</font> &emsp; Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time
+- <sub> IEEE Transactions on Dependable and Secure Computing &emsp; <font color="#aabb00">Major Revision</font> &emsp; Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time
 - <sub> ASPLOS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> IEEE Transactions on Information Forensics and Security &emsp; <font color="#00bb00">Accept</font> &emsp; Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86
 - <sub> Nature Communications &emsp; <font color="#dd0000">Reject</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
-- <sub> IEEE Transactions on Information Forensics and Security &emsp; <font color="#99bb00">Major Revision</font> &emsp; Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86
+- <sub> IEEE Transactions on Information Forensics and Security &emsp; <font color="#aabb00">Major Revision</font> &emsp; Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86
 - <sub> Nature Electronics &emsp; <font color="#dd0000">Reject</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
 - <sub> CHES 2025 &emsp; <font color="#00bb00">Accept</font> &emsp; Practical Opcode-based Fault Attack on AES-NI<br/>
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
@@ -33,9 +33,9 @@ author_profile: true
 
 ### 2024 decisions <small>(AR: 20%)</small>
 - <sub> Eurosys 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
-- <sub> Usenix Security 2025 &emsp; <font color="#99bb00">Major Revision</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer<br/>
+- <sub> Usenix Security 2025 &emsp; <font color="#aabb00">Major Revision</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer<br/>
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
-- <sub> CHES 2025 &emsp; <font color="#99bb00">Major Revision</font> &emsp; Practical Opcode-based Fault Attack on AES-NI<br/>
+- <sub> CHES 2025 &emsp; <font color="#aabb00">Major Revision</font> &emsp; Practical Opcode-based Fault Attack on AES-NI<br/>
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
 - <sub> HPCC 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time
 - <sub> NDSS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
