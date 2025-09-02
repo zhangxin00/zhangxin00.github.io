@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-In the past few years, I have been dedicating my efforts to publish papers on top-tier conferences in computer architecture (MICRO, ISCA, HPCA, and ASPLOS) and security (CCS, IEEE S&P, Usenix Security, and NDSS). I also contribute to other well-regarded conferences in hardware security (e.g., DAC, DATE, and CHES). You can find the full publication list from my [Google Scholar](https://scholar.google.com/citations?user=rYAO48wAAAAJ&hl=en) and the submission history from [GitHub](https://zhangxin00.github.io/submissions).
+In the past few years, I have been dedicating my efforts to publish papers on top-tier conferences in computer architecture (MICRO, ISCA, HPCA, and ASPLOS) and security (CCS, IEEE S&P, Usenix Security, and NDSS). I also contribute to other well-regarded conferences in hardware security (e.g., DAC, DATE, and CHES). 
 
 Publications at Conferences (9 papers): HPCA (’24), DAC (’25 × 3, ’24), Usenix Security (’25), ASPLOS (’25), CHES (’25), DATE (’25)
 
@@ -51,6 +51,8 @@ Publications Ranking Statistics: 8 CCF-A papers, 3 CCF-B papers
 - <sub> [HPCA 2024] **SegScope: Probing Fine-grained Interrupts via Architectural Footprints** [[paper](https://zhangxin00.github.io/files/SegScope.pdf)] [[code](https://github.com/zhangxin00/segscope/)] [[slides](https://zhangxin00.github.io/files/HPCA2024-SegScope.pdf)] [[poster](https://zhangxin00.github.io/files/poster-segscope.pdf)] <br/>
    **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Jiliang Zhang <br/>
    International Symposium on High-Performance Computer Architecture (CCF-A / CORE-A*) <br/>
+
+  You can find the full publication list from my [Google Scholar](https://scholar.google.com/citations?user=rYAO48wAAAAJ&hl=en) and the submission history from [GitHub](https://zhangxin00.github.io/submissions).
 
 <!--
 You can find my submission history [here](https://zhangxin00.github.io/submissions/).
