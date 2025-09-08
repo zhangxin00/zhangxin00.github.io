@@ -7,7 +7,7 @@ author_profile: true
 
 In the past few years, I have been dedicating my efforts to publish papers on top-tier conferences in computer architecture (MICRO, ISCA, HPCA, and ASPLOS) and security (CCS, IEEE S&P, Usenix Security, and NDSS). I also contribute to other well-regarded conferences in hardware security (e.g., DAC, DATE, and CHES). 
 
-Publications at Conferences (9 papers): HPCA (’24), DAC (’25 × 3, ’24), Usenix Security (’25), ASPLOS (’25), CHES (’25), DATE (’25)
+Publications at Conferences (9 papers): HPCA (’24), DAC (’25 × 3, ’24), USENIX Security (’25), ASPLOS (’25), CHES (’25), DATE (’25)
 
 Publications at Journals (3 papers): TIFS (’25), The Computer Journal (’24), TALLIP (’25)
 
@@ -41,7 +41,7 @@ Publications Ranking Statistics: 8 CCF-A papers, 3 CCF-B papers
   
 - <sub> [SEC 2025] **Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer** [[paper](https://zhangxin00.github.io/files/achilles.pdf)] [[code](https://github.com/liang-junkai/Achilles)]<br/> 
   Junkai Liang, Zhi Zhang, **Xin Zhang (co-first author)**, Qingni Shen, Yansong Gao, Xingliang Yuan, Haiyang Xue, Pengfei Wu, Zhonghai Wu <br/>
-  Usenix Security (CCF-A / CORE-A*) <br/>
+  USENIX Security (CCF-A / CORE-A*) <br/>
   <font color="#00bb00">Honorable Mention (Top 6% of the accepted papers) &emsp;
   
 - <sub> [DAC 2024] **ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts** [[paper](https://zhangxin00.github.io/files/ThermalScope.pdf)] [[code](https://github.com/zhangxin00/thermalscope)]<br/>
