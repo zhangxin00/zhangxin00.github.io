@@ -24,7 +24,7 @@ I know little about other "fancy/non-fancy" and "hot/cold" areas. The only excep
  -->
 
 ### News!
-- [2025/09] I will be joining Huawei 2012 Lab as an intern this winter.
+- [2025/09] I will join Huawei 2012 Lab as an intern this winter.
 - [2025/08] Received a student travel grant from CHES 2025. See you in Kuala Lumpur!
 - [2025/06] "Achilles" has been awarded the "Honorable Mentions" by Usenix Security 2025 (Top 6% of the accepted papers).
 - [2025/04] Our paper "Practical Opcode-based Fault Attack on AES-NI" has been accepted by CHES 2025.
