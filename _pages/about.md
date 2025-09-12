@@ -21,10 +21,10 @@ I know little about other "fancy/non-fancy" and "hot/cold" areas. The only excep
 , where I spent two years working with Prof. [Jiliang Zhang](https://grzy.hnu.edu.cn/site/index/zhangjiliang).
 <sub> **I am looking for a Visiting Student/Research Assistant position starting from 2024 Fall.** Feel free to drop me an email if you are interested in my background.
 <font color="#ff0000"><b>I am expected to graduate in 2026 and am actively seeking a faculty position in the academia/university. Please feel free to contact me at zhangxin00 AT stu.pku.edu.cn</b></font>
-- [2025/09] I will join Huawei 2012 Lab as an intern this winter.
  -->
 
 ### News!
+- [2025/09] I will be a research intern at Huawei 2012 Lab this fall.
 - [2025/08] Received a student travel grant from CHES 2025. See you in Kuala Lumpur!
 - [2025/06] "Achilles" has been awarded the "Honorable Mentions" by Usenix Security 2025 (Top 6% of the accepted papers).
 - [2025/04] Our paper "Practical Opcode-based Fault Attack on AES-NI" has been accepted by CHES 2025.
