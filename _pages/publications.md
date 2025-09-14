@@ -15,7 +15,7 @@ Publications Ranking Statistics: 8 CCF-A papers, 3 CCF-B papers
 
 
 {% include base_path %}
-- <sub> [TCAD 2025] **Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs** <br/>
+- <sub> [TCAD 2025] **MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs** <br/>
   **Xin Zhang**, Jiajun Zou, Zhi Zhang, Qingni Shen, Yansong Gao, Jinhua Cui, Yusi Feng, Zhonghai Wu, Derek Abbott <br/>
   IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CCF-A, IF=6.3) <br/>
 
