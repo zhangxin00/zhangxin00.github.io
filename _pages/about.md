@@ -77,9 +77,12 @@ I know little about other "fancy/non-fancy" and "hot/cold" areas. The only excep
 * My favorite color is green because it typically symbolizes acceptance.
 
 ### Friend Links
-* [Shengfang Zhai](https://zhaisf.github.io/)
 
 * [Junkai Liang](https://liang-junkai.github.io/)
+* [Yusi Feng](https://fengyusi.github.io)
+* [Shengfang Zhai](https://zhaisf.github.io/)
+
+
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=roOPIYhOSI6clMuqwkzlXBT7BKee-NL2r4v8oS1ini8'></script>
