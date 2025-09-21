@@ -79,7 +79,7 @@ I know little about other "fancy/non-fancy" and "hot/cold" areas. The only excep
 ### Friend Links
 
 * [Junkai Liang (Peking University)](https://liang-junkai.github.io/)
-* [Yusi Feng (University of Southern Technology University)](https://fengyusi.github.io)
+* [Yusi Feng (Southern University of Science and Technology)](https://fengyusi.github.io)
 * [Shengfang Zhai (National University of Singapore)](https://zhaisf.github.io/)
 
 
