@@ -15,13 +15,19 @@ Publications Ranking Statistics: 9 CCF-A papers (6 first-author), 3 CCF-B papers
 
 
 {% include base_path %}
+
+- <sub> [TDSC 2025] **Fish and Chips: On the Root Causes of Co-located Website-Fingerprinting Attack** <br/>
+  Yusi Feng, Sioli O’Connel, **Xin Zhang**, Chitchanok Chuengsatiansup, Daniel Genkin, Yuval Yarom, Yinqian Zhang, Zhi Zhang <br/>
+  IEEE Transactions on Dependable and Secure Computing (CCF-A, IF=7.5) <br/>
+
+
 - <sub> [TCAD 2025] **MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs** [[paper](https://zhangxin00.github.io/files/MUXLeak.pdf)] [[code](https://github.com/zhangxin00/MUXLeak-artifact)] <br/>
   **Xin Zhang**, Jiajun Zou, Zhi Zhang, Qingni Shen, Yansong Gao, Jinhua Cui, Yusi Feng, Zhonghai Wu, Derek Abbott <br/>
   IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CCF-A, IF=2.9) <br/>
 
 - <sub> [TIFS 2025] **Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86** [[paper](https://zhangxin00.github.io/files/nonmovable-irq.pdf)] <br/>
   **Xin Zhang**, Qingni Shen, Zhi Zhang, Yansong Gao, Jiajun Zou, Yi Yang, Zhonghai Wu <br/>
-  IEEE Transactions on Information Forensics and Security (CCF-A, IF=6.3) <br/>
+  IEEE Transactions on Information Forensics and Security (CCF-A, IF=8) <br/>
   
 - <sub> [DAC 2025] **LeakyDSP: Exploiting Digital Signal Processing Blocks to Sense Voltage Fluctuations in FPGAs** [[paper](https://zhangxin00.github.io/files/LeakyDSP.pdf)] [[code](https://github.com/jjzou2002/LeakyDSP)] <br/>
   **Xin Zhang**, Jiajun Zou, Yi Yang, Qingni Shen, Zhi Zhang, Yansong Gao, Zhonghai Wu, Trevor E. Carlson <br/>
