@@ -7,9 +7,9 @@ author_profile: true
 
 In the past few years, I have been dedicating my efforts to publish papers on top-tier conferences in computer architecture (MICRO, ISCA, HPCA, and ASPLOS) and security (CCS, IEEE S&P, Usenix Security, and NDSS). I also contribute to other well-regarded conferences in hardware security (e.g., DAC, DATE, and CHES). 
 
-Publications at Conferences (9 papers): HPCA (’24), DAC (’25 × 3, ’24), USENIX Security (’25), ASPLOS (’25), CHES (’25), DATE (’25)
+Publications at Conferences (9 papers): HPCA ('24), DAC ('25 × 3, '24), USENIX Security ('25), ASPLOS ('25), CHES ('25), DATE ('25)
 
-Publications at Journals (4 papers): TIFS (’25), TCAD (’25), TDSC ('25), The Computer Journal (’24), TALLIP (’25)
+Publications at Journals (4 papers): TIFS ('25), TCAD ('25), TDSC ('25), The Computer Journal ('24), TALLIP ('25)
 
 Publications Ranking Statistics: 10 CCF-A papers (6 first-author), 3 CCF-B papers
 
