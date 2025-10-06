@@ -72,7 +72,7 @@ I know little about other "fancy/non-fancy" and "hot/cold" areas. The only excep
 ### Fun Facts
 * I enjoy sports, particularly bodybuilding and playing basketball with friends. I allocate 5-10 hours per week for these activities.
 * My name (Xin Zhang) is pronounced similarly to ['Shin-chan'](https://en.wikipedia.org/wiki/Crayon_Shin-chan), a well-known cartoon character.
-* My favorite color is green because it typically symbolizes acceptance.
+* My favorite color is <font color="#00bb00">green</font>  because it typically symbolizes acceptance.
 
 ### Friend Links
 
