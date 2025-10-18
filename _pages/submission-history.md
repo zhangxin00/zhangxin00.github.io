@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ### 2025 decisions
+- <sub> IEEE Transactions on Dependable and Secure Computing &emsp; <font color="#88bb00">Minor Revision</font> &emsp; Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time
 - <sub> IEEE Transactions on Dependable and Secure Computing &emsp; <font color="#00bb00">Accept</font> &emsp; Fish and Chips: On the Root Causes of Co-located Website-Fingerprinting Attacks
 - <sub> lEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems &emsp; <font color="#00bb00">Accept</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
 - <sub> CHES 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
