@@ -26,7 +26,7 @@ I know little about other "fancy/non-fancy" and "hot/cold" areas. The only excep
 ### News!
 - [2025/09] I will be a research intern at Huawei 2012 Lab this winter.
 - [2025/09] Our paper "MUXLeak: Exploiting Multiplexers as a Power Side Channel against Multi-tenant FPGAs" has been published in TCAD.
-- [2025/06] "Achilles" has been awarded the "Honorable Mentions" by Usenix Security 2025 (top 25 out of 2385 submissions).
+- [2025/06] "Achilles" has been awarded the "Honorable Mentions" by Usenix Security 2025 (only 25 out of 2385 submissions).
 - [2025/06] Our paper "Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86" has been published in TIFS.
 - [2025/02] Three papers, "LeakyDSP", "AmpereBleed", and "ZK-Hammer" have been accepted by DAC 2025. See you in San Francisco!
 - [2024/10] Excited to start my visit at NUS! You can find me at COM3-0217 (Systems & Networking Lab).
