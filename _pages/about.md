@@ -24,7 +24,7 @@ I know little about other "fancy/non-fancy" and "hot/cold" areas. The only excep
  -->
 
 ### News!
-- [2025/10] My visit at NUS has come to an end. Grateful for all the experiences, collaborations, and friendships that made this journey unforgettable.
+- [2025/10] My visit at NUS has come to an end. I’m deeply grateful for all the experiences, collaborations, and friendships that made this journey unforgettable.
 - [2025/09] I will be a research intern at Huawei 2012 Lab this winter.
 - [2025/09] Our paper "MUXLeak: Exploiting Multiplexers as a Power Side Channel against Multi-tenant FPGAs" has been published in TCAD.
 - [2025/06] "Achilles" has been awarded the "Honorable Mentions" by USENIX Security 2025 (only 25 out of 2385 submissions).
