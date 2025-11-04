@@ -16,7 +16,7 @@ Publications Ranking Statistics: 10 CCF-A papers (6 first-author), 3 CCF-B paper
 
 {% include base_path %}
 
-- <sub> [TDSC 2025] **Fish and Chips: On the Root Causes of Co-located Website-Fingerprinting Attack** [paper](https://zhangxin00.github.io/files/fish_and_chips.pdf) <br/>
+- <sub> [TDSC 2025] **Fish and Chips: On the Root Causes of Co-located Website-Fingerprinting Attack** [[paper](https://zhangxin00.github.io/files/fish_and_chips.pdf)] <br/>
   Yusi Feng, Sioli O’Connel, **Xin Zhang**, Chitchanok Chuengsatiansup, Daniel Genkin, Yuval Yarom, Yinqian Zhang, Zhi Zhang <br/>
   IEEE Transactions on Dependable and Secure Computing (CCF-A, IF=7.5) <br/>
 
