@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a fourth-year Ph.D student at Peking University, where I am very fortunate to be advised by Prof. [Qingni Shen](https://www.ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html) and work closely with [Zhi Zhang](https://zhangzhics.github.io/). I was a visting Ph.D student at National University of Singapore advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/) from October 2024 to October 2025. Previously, I obtained my bachelor's degree in Information Security from Hunan University.
+I am a fourth-year Ph.D student at Peking University, where I am very fortunate to be advised by Prof. [Qingni Shen](https://www.ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html) and work closely with [Zhi Zhang](https://zhangzhics.github.io/). I was also a visting Ph.D student at National University of Singapore advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/) from October 2024 to October 2025. Previously, I obtained my bachelor's degree in Information Security from Hunan University.
 
 My research interests are in system security and computer architecture. In particular, I focus on re-evaluating the rationale behind certain hardware designs, and uncovering new side-channel leakages to offer designers insights for building more secure systems. 
 
@@ -67,7 +67,7 @@ I know little about other "fancy/non-fancy" and "hot/cold" areas. The only excep
 ### Educational Background
 * [2022-present] Ph.D Student in Software Engineering, Peking University
   * Supervisor: Prof. Qingni Shen
-* [2024-2025] Visiting Research Assistant, National University of Singapore
+* [2024-2025] Visiting Ph.D Student, National University of Singapore
   * Supervisor: Prof. Trevor E. Carlson
 * [2018-2022] B.S. in Information Security, Hunan University  
 
