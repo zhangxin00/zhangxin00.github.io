@@ -64,6 +64,9 @@ I know little about other "fancy/non-fancy" and "hot/cold" areas. The only excep
 ### Teaching
 * Operating System and Virtualization Security – Teaching Assistant, Fall 2023
 
+### Working Experience
+* [2025.11-present] Research Intern, 2012 Laboratory, Huawei Technologies
+
 ### Educational Background
 * [2022-present] Ph.D Student in Software Engineering, Peking University
   * Supervisor: Prof. Qingni Shen
