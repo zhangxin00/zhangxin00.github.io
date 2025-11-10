@@ -11,7 +11,7 @@ Publications at Conferences (10 papers): HPCA ('26, '24), DAC ('25 × 3, '24), U
 
 Publications at Journals (4 papers): TIFS ('25), TCAD ('25), TDSC ('25), The Computer Journal ('24)
 
-Publications Ranking Statistics: 10 CCF-A papers (6 first-author), 3 CCF-B papers
+Publications Ranking Statistics: 11 CCF-A papers (6 first-author), 3 CCF-B papers
 
 
 {% include base_path %}
