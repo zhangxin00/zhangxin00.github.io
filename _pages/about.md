@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 I am a 4th-year PhD student at Peking University, where I am very fortunate to be advised by Prof. [Qingni Shen](https://www.ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html) and work closely with [Zhi Zhang](https://zhangzhics.github.io/). I am also a research intern at Huawei Technologies, and previously was a visiting student at National University of Singapore advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/).
-Before pursuing my PhD, I obtained my bachelor's degree in Information Security from Hunan University.
+Before starting my PhD, I obtained my bachelor's degree in Information Security from Hunan University, where I received the Pacemaker to Merit Student Award (Top 0.2%) and the College Graduate Excellence Award.
 
 My research interests are in system security and computer architecture. In particular, I focus on re-evaluating the rationale behind certain hardware designs, and uncovering new side-channel leakages to offer designers insights for building more secure systems. 
 
@@ -31,7 +31,6 @@ I know little about other "fancy/non-fancy" and "hot/cold" areas. The only excep
 - [2025/06] "Achilles" has been awarded the "Honorable Mentions" by USENIX Security 2025 (only 25 out of 2385 submissions).
 - [2025/06] Our paper "Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86" has been published in TIFS.
 - [2025/02] Three papers, "LeakyDSP", "AmpereBleed", and "ZK-Hammer" have been accepted by DAC 2025. See you in San Francisco!
-- [2024/10] Excited to start my visit at NUS! You can find me at COM3-0217 (Systems & Networking Lab).
 - [2024/02] Our paper "ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts" has been accepted by DAC 2024.
 - [2023/10] Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
 
