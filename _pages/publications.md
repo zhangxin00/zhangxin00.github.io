@@ -53,7 +53,7 @@ Publications Ranking Statistics: 11 CCF-A papers (6 first-author), 3 CCF-B paper
   Wei Chen, Zhi Zhang, **Xin Zhang**, Qingni Shen, Yuval Yarom, Daniel Genkin, Chen Yan, Zhe Wang <br/>
   International Conference on Architectural Support for Programming Languages and Operating Systems (CCF-A / CORE-A*) <br/>
   
-- <sub> [SEC 2025] **Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer** [[paper](https://zhangxin00.github.io/files/achilles.pdf)] [[code](https://github.com/liang-junkai/Achilles)] [honorable mention](https://www.usenix.org/sites/default/files/sec25_honorable_mentions.pdf) <br/> 
+- <sub> [SEC 2025] **Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer** [[paper](https://zhangxin00.github.io/files/achilles.pdf)] [[code](https://github.com/liang-junkai/Achilles)] [[honorable mention](https://www.usenix.org/sites/default/files/sec25_honorable_mentions.pdf)] <br/> 
   Junkai Liang, Zhi Zhang, **Xin Zhang (co-first author)**, Qingni Shen, Yansong Gao, Xingliang Yuan, Haiyang Xue, Pengfei Wu, Zhonghai Wu <br/>
   USENIX Security (CCF-A / CORE-A*) <br/>
   <font color="#00bb00">Honorable Mention (Top 6% of the accepted papers) &emsp;
