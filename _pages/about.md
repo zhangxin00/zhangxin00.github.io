@@ -15,8 +15,7 @@ Before starting my PhD, I obtained my bachelor's degree from Hunan University, w
 My research interests are in system security and computer architecture. In particular, I focus on re-evaluating the rationale behind certain hardware designs, and uncovering new side-channel leakages to offer designers insights for building more secure systems. 
 
 <!--
- For more details, you can refer to my [CV](https://zhangxin00.github.io/files/ZhangXin_CV.pdf).
-I know little about other "fancy/non-fancy" and "hot/cold" areas. The only exception is that I occasionally collaborate with my friends on some cross-cutting topics that intersect with system security. -->
+I’m an incoming associate professor of School of Computer Science and Technology at Shandong University.-->
 
 <!--
 , where I spent two years working with Prof. [Jiliang Zhang](https://grzy.hnu.edu.cn/site/index/zhangjiliang).
