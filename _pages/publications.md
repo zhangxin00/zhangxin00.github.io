@@ -7,14 +7,18 @@ author_profile: true
 
 In the past few years, I have been dedicating my efforts to publish papers on top-tier conferences in computer architecture (MICRO, ISCA, HPCA, and ASPLOS) and security (CCS, IEEE S&P, Usenix Security, and NDSS). I also contribute to other well-regarded conferences in hardware security (e.g., DAC, DATE, and CHES). 
 
-Publications at Conferences (10 papers): HPCA ('26, '24), DAC ('25 × 3, '24), USENIX Security ('25), ASPLOS ('25), CHES ('25), DATE ('25)
+Publications at Conferences (10 papers): HPCA ('26, '24), DAC ('25 × 3, '24), USENIX Security ('26, '25), ASPLOS ('25), CHES ('25), DATE ('25)
 
 Publications at Journals (4 papers): TIFS ('25), TCAD ('25), TDSC ('25), The Computer Journal ('24)
 
-Publications Ranking Statistics: 11 CCF-A papers (6 first-author), 3 CCF-B papers
+Publications Ranking Statistics: 12 CCF-A papers (6 first-author), 3 CCF-B papers
 
 
 {% include base_path %}
+- <sub> [SEC 2026] **UncoreBleed: AEX-Free, High-Resolution, and Low-Noise Side-Channel Attacks on SGX Enclaved Execution** <br/>
+  Decheng Chen, Zhi Zhang, Zhenkai Zhang, **Xin Zhang**, Yansong Gao, Yi Zou <br/>
+   USENIX Security (CCF-A / CORE-A*) <br/>
+
 - <sub> [HPCA 2026] **SSBleed: Non-speculative Side-channel Attacks via Speculative Store Bypass on Armv9 CPUs** <br/>
   Chang Liu, Hongpei Zheng, **Xin Zhang**, Dapeng Ju, Dongsheng Wang, Yinqian Zhang, Trevor E. Carlson <br/>
    International Symposium on High-Performance Computer Architecture (CCF-A / CORE-A*) <br/>
