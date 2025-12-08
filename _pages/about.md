@@ -65,7 +65,7 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 * Operating System and Virtualization Security – Teaching Assistant, Fall 2023
 
 ### Working Experience
-* [2025.11-present] Research Intern, 2012 Laboratory, Huawei Technologies
+* [2025.11-present] Research Intern, 2012 Lab, Huawei Technologies
 
 ### Educational Background
 * [2022-present] Ph.D Student in Software Engineering, Peking University
