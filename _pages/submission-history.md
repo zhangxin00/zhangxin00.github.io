@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 ### 2025 decisions
-- <sub> Usenix Security 2025 &emsp; <font color="#00bb00">Accept</font> &emsp; UncoreBleed: AEX-Free, High-Resolution, and Low-Noise Side-Channel Attacks on SGX Enclaved Execution<br/>
+
+- <sub> IEEE Transactions on Dependable and Secure Computing &emsp; <font color="#00bb00">Accept</font> &emsp;  Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time<br/>
+- <sub> Usenix Security 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; UncoreBleed: AEX-Free, High-Resolution, and Low-Noise Side-Channel Attacks on SGX Enclaved Execution<br/>
 - <sub> HPCA 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted— <br/>
 - <sub> HPCA 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; SSBleed: Non-speculative Side-channel Attacks via Speculative Store Bypass on Armv9 CPUs<br/ >
 - <sub> ASPLOS 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
