@@ -15,6 +15,12 @@ Publications Ranking Statistics: 12 CCF-A papers (6 first-author), 3 CCF-B paper
 
 
 {% include base_path %}
+
+
+- <sub> [TDSC 2026] **Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time** <br/>
+  Yusi Feng, **Xin Zhang**, Zihui Guo, Ben Liu, Fei Wang, Ziyuan Zhu, Yinqian Zhang <br/>
+  IEEE Transactions on Dependable and Secure Computing (CCF-A, IF=7.5) <br/>
+   
 - <sub> [SEC 2026] **UncoreBleed: AEX-Free, High-Resolution, and Low-Noise Side-Channel Attacks on SGX Enclaved Execution** <br/>
   Decheng Chen, Zhi Zhang, Zhenkai Zhang, **Xin Zhang**, Yansong Gao, Yi Zou <br/>
    USENIX Security (CCF-A / CORE-A*) <br/>
