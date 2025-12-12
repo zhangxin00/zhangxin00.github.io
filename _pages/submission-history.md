@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-### 2025 decisions <small>(AR: 13/28 = 46.4%)</small> 
+### 2025 decisions <small>(AR: 13/28 = 46%)</small> 
 - <sub> IEEE Transactions on Dependable and Secure Computing &emsp; <font color="#00bb00">Accept</font> &emsp;  Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time<br/>
 - <sub> Usenix Security 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; UncoreBleed: AEX-Free, High-Resolution, and Low-Noise Side-Channel Attacks on SGX Enclaved Execution<br/>
 - <sub> HPCA 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted— <br/>
@@ -60,7 +60,7 @@ author_profile: true
 - <sub> DAC 2024 &emsp; <font color="#00bb00">Accept</font> &emsp; ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts<br/>
 - <sub> ICASSP 2024 &emsp; <font color="#00bb00">Accept</font> &emsp; TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing<br/>
 
-### 2023 decisions <small>(AR: 29%)</small>
+### 2023 decisions <small>(AR: 2/7 = 29%)</small>
 - <sub> HPCA 2024 &emsp; <font color="#00bb00">Accept</font> &emsp; SegScope: Probing Fine-grained Interrupts via Architectural Footprints<br/>
 - <sub> MICRO 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; SegScope: Probing Fine-grained Interrupts via Architectural Footprints<br/>
 - <sub> ECAI 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing<br/>
