@@ -9,9 +9,9 @@ In the past few years, I have been dedicating my efforts to publish papers on to
 
 Publications at Conferences (11 papers): HPCA ('26, '24), USENIX Security ('26, '25), ASPLOS ('25), DAC ('25 × 3, '24), CHES ('25), DATE ('25)
 
-Publications at Journals (4 papers): TIFS ('25), TCAD ('25), TDSC ('25), The Computer Journal ('24)
+Publications at Journals (5 papers): TIFS ('25), TCAD ('25), TDSC ('26, '25), The Computer Journal ('24)
 
-Publications Ranking Statistics: 12 CCF-A papers (6 first-author), 3 CCF-B papers
+Publications Ranking Statistics: 13 CCF-A papers (6 first-author), 3 CCF-B papers
 
 
 {% include base_path %}
