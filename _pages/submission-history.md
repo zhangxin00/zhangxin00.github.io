@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-### 2025 decisions
-
+### 2025 decisions <small>(AR: 13/28=46.4%)</small> 
 - <sub> IEEE Transactions on Dependable and Secure Computing &emsp; <font color="#00bb00">Accept</font> &emsp;  Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time<br/>
 - <sub> Usenix Security 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; UncoreBleed: AEX-Free, High-Resolution, and Low-Noise Side-Channel Attacks on SGX Enclaved Execution<br/>
 - <sub> HPCA 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted— <br/>
@@ -42,7 +41,7 @@ author_profile: true
 - <sub> ASPLOS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> TALLIP &emsp; <font color="#00bb00">Accept</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
 
-### 2024 decisions <small>(AR: 20%)</small>
+### 2024 decisions <small>(AR: 3/15=20%)</small>
 - <sub> Eurosys 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> Usenix Security 2025 &emsp; <font color="#aabb00">Major Revision</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer<br/>
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
