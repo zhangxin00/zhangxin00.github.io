@@ -46,7 +46,9 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 * [2022] College Graduate Excellence Award (Top 3%), Hunan Province, China
 * [2020] Pacemaker to Merit Student (Top 0.2%), Hunan University, China
   
-<!--* [2019] National Scholarship, China.-->
+<!--* 
+[2026] Young Scholar's Future Plan, Shandong University
+[2019] National Scholarship, China.-->
 <!-- (for contributions to project "Development and Application of Secure Middleware Platform for Cloud Operating System"). -->
 <!--
 * [2020] Third Prize in 13th National College Student Information Security Contest (CTF Track, top 5%).-->
