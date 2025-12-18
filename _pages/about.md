@@ -21,14 +21,14 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 , where I spent two years working with Prof. [Jiliang Zhang](https://grzy.hnu.edu.cn/site/index/zhangjiliang).
 <sub> **I am looking for a Visiting Student/Research Assistant position starting from 2024 Fall.** Feel free to drop me an email if you are interested in my background.
 <font color="#ff0000"><b>I am expected to graduate in 2026 and am actively seeking a faculty position in the academia/university. Please feel free to contact me at zhangxin00 AT stu.pku.edu.cn</b></font>
-- [2025/12] I will be joining the School of Computer Science and Technology at Shandong University as an associate professor in the summer of 2026.
+
 - 
  -->
 
 ### News!
-
+- [2025/12] I will be joining the School of Computer Science and Technology at Shandong University as an associate professor in the summer of 2026.
+- [2025/11] I have started a research internship at Huawei 2012 Lab.
 - [2025/10] My visit at NUS has come to an end. I’m deeply grateful for all the experiences, collaborations, and friendships that made this journey unforgettable.
-- [2025/09] I will be a research intern at Huawei 2012 Lab this winter.
 - [2025/09] Our paper "MUXLeak: Exploiting Multiplexers as a Power Side Channel against Multi-tenant FPGAs" has been published in TCAD.
 - [2025/06] "Achilles" has been awarded the "Honorable Mentions" by USENIX Security 2025 (only 25 out of 2385 submissions).
 - [2025/06] Our paper "Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86" has been published in TIFS.
@@ -42,6 +42,7 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 * Reviewer for Journal: TIFS, TDSC
   
 ### Honors and Awards
+* [2026] Young Scholar's Future Plan, Shandong University
 * [2025] USENIX SECURITY Honorable Mention Paper Award
 * [2025] Presidential Scholarship (Top 2%), Peking University
 * [2024] First Prize of Science and Technology Progress Award, Chinese Institute of Electronics 
@@ -50,7 +51,7 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 * [2020] Pacemaker to Merit Student (Top 0.2%), Hunan University, China
   
 <!--* 
-[2026] Young Scholar's Future Plan, Shandong University
+
 [2019] National Scholarship, China.-->
 <!-- (for contributions to project "Development and Application of Secure Middleware Platform for Cloud Operating System"). -->
 <!--
