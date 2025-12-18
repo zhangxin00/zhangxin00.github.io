@@ -21,6 +21,7 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 , where I spent two years working with Prof. [Jiliang Zhang](https://grzy.hnu.edu.cn/site/index/zhangjiliang).
 <sub> **I am looking for a Visiting Student/Research Assistant position starting from 2024 Fall.** Feel free to drop me an email if you are interested in my background.
 <font color="#ff0000"><b>I am expected to graduate in 2026 and am actively seeking a faculty position in the academia/university. Please feel free to contact me at zhangxin00 AT stu.pku.edu.cn</b></font>
+- [2025/12] I will join the School of Computer Science and Technology at Shandong University as an associate professor in summer 2026!
  -->
 
 ### News!
