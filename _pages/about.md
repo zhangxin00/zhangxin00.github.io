@@ -43,7 +43,7 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 * Reviewer for Journal: TIFS, TDSC
   
 ### Honors and Awards
-* [2025] Future Plan for Young Scholars, Shandong University
+* [2026] Future Plan for Young Scholars, Shandong University
 * [2025] USENIX SECURITY Honorable Mention Paper Award
 * [2025] Presidential Scholarship (Top 2%), Peking University
 * [2024] First Prize of Science and Technology Progress Award, Chinese Institute of Electronics 
