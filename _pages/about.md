@@ -21,10 +21,11 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 , where I spent two years working with Prof. [Jiliang Zhang](https://grzy.hnu.edu.cn/site/index/zhangjiliang).
 <sub> **I am looking for a Visiting Student/Research Assistant position starting from 2024 Fall.** Feel free to drop me an email if you are interested in my background.
 <font color="#ff0000"><b>I am expected to graduate in 2026 and am actively seeking a faculty position in the academia/university. Please feel free to contact me at zhangxin00 AT stu.pku.edu.cn</b></font>
-- [2025/12] I will join the School of Computer Science and Technology at Shandong University as an associate professor in summer 2026!
+- 
  -->
 
 ### News!
+- [2025/12] I will be joining the School of Computer Science and Technology at Shandong University as an associate professor in the summer of 2026.
 - [2025/10] My visit at NUS has come to an end. I’m deeply grateful for all the experiences, collaborations, and friendships that made this journey unforgettable.
 - [2025/09] I will be a research intern at Huawei 2012 Lab this winter.
 - [2025/09] Our paper "MUXLeak: Exploiting Multiplexers as a Power Side Channel against Multi-tenant FPGAs" has been published in TCAD.
