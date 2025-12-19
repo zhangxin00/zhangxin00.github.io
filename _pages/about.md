@@ -22,7 +22,7 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 , where I spent two years working with Prof. [Jiliang Zhang](https://grzy.hnu.edu.cn/site/index/zhangjiliang).
 <sub> **I am looking for a Visiting Student/Research Assistant position starting from 2024 Fall.** Feel free to drop me an email if you are interested in my background.
 <font color="#ff0000"><b>I am expected to graduate in 2026 and am actively seeking a faculty position in the academia/university. Please feel free to contact me at zhangxin00 AT stu.pku.edu.cn</b></font>
-
+* [2026] Future Plan for Young Scholars, Shandong University
 - 
  -->
 
@@ -43,7 +43,6 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 * Reviewer for Journal: TIFS, TDSC
   
 ### Honors and Awards
-* [2026] Future Plan for Young Scholars, Shandong University
 * [2025] USENIX SECURITY Honorable Mention Paper Award
 * [2025] Presidential Scholarship (Top 2%), Peking University
 * [2024] First Prize of Science and Technology Progress Award, Chinese Institute of Electronics 
