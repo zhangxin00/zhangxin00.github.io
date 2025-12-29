@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-In the past few years, I have been dedicating my efforts to publish papers on top-tier conferences in computer architecture (MICRO, ISCA, HPCA, and ASPLOS) and security (CCS, IEEE S&P, Usenix Security, and NDSS). I also contribute to other well-regarded conferences in hardware security (e.g., DAC, DATE, and CHES). 
+In the past few years, I have been dedicating my efforts to publish papers on top-tier conferences in computer architecture (MICRO, ISCA, HPCA, and ASPLOS) and security (CCS, IEEE S&P, USENIX Security, and NDSS). I also contribute to other well-regarded conferences in hardware security (e.g., DAC, DATE, and CHES). 
 
 Publications at Conferences (11 papers): HPCA ('26, '24), USENIX Security ('26, '25), ASPLOS ('25), DAC ('25 × 3, '24), CHES ('25), DATE ('25)
 
