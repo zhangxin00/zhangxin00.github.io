@@ -28,7 +28,6 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 <!--
  -->
 - [2026/01] I will be joining the School of Computer Science and Technology at Shandong University as an Associate Professor in this summer. Please feel free to contact me by email if you are interested in working with me (at SDU or PKU).
-- [2025/11] I have started a research internship at Huawei 2012 Lab.
 - [2025/10] My visit at NUS has come to an end. I’m deeply grateful for all the experiences, collaborations, and friendships that made this journey unforgettable.
 - [2025/09] Our paper "MUXLeak: Exploiting Multiplexers as a Power Side Channel against Multi-tenant FPGAs" has been published in TCAD.
 - [2025/06] "Achilles" has been awarded the "Honorable Mentions" by USENIX Security 2025 (only 25 out of 2385 submissions).
@@ -71,7 +70,7 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 * Operating System and Virtualization Security – Teaching Assistant, Fall 2023
 
 ### Working Experience
-* [2025.11-present] Research Intern, 2012 Lab, Huawei Technologies
+* [2025.11-2026.01] Research Intern, 2012 Lab, Huawei Technologies
 
 ### Educational Background
 * [2022-present] Ph.D Student in Software Engineering, Peking University
