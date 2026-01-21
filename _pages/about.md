@@ -27,6 +27,7 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 ### News!
 <!--
  -->
+- [2026/01] Our briefing application got accepted in Black Hat Asia 2026!
 - [2026/01] I will be joining the School of Computer Science and Technology at Shandong University as an Associate Professor in this summer. Please feel free to contact me by email if you are interested in working with me (at SDU or PKU).
 - [2025/10] My visit at NUS has come to an end. I’m deeply grateful for all the experiences, collaborations, and friendships that made this journey unforgettable.
 - [2025/09] Our paper "MUXLeak: Exploiting Multiplexers as a Power Side Channel against Multi-tenant FPGAs" has been published in TCAD.
