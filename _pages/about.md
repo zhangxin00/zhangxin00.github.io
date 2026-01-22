@@ -18,7 +18,7 @@ My research interests are in system security and computer architecture. In parti
 (Top 0.2% of all undergraduates)
 I’m an incoming associate professor of School of Computer Science and Technology at Shandong University.-->
 
-<font color="#ff0000"><b> I will be joining the School of Computer Science and Technology at Shandong University as an Associate Professor in this summer. Please feel free to contact me by email if you are interested in working with me (at SDU or PKU).
+<font color="#ff0000"><b> I will be joining the School of Computer Science and Technology at Shandong University as an Associate Professor in this summer. Please feel free to contact me by email if you are interested in working with me (at SDU or PKU).</b>
 </font>
 
 <!--
