@@ -18,6 +18,9 @@ My research interests are in system security and computer architecture. In parti
 (Top 0.2% of all undergraduates)
 I’m an incoming associate professor of School of Computer Science and Technology at Shandong University.-->
 
+<font color="#ff0000"><b> I will be joining the School of Computer Science and Technology at Shandong University as an Associate Professor in this summer. Please feel free to contact me by email if you are interested in working with me (at SDU or PKU).
+</font>
+
 <!--
 , where I spent two years working with Prof. [Jiliang Zhang](https://grzy.hnu.edu.cn/site/index/zhangjiliang).
 <sub> **I am looking for a Visiting Student/Research Assistant position starting from 2024 Fall.** Feel free to drop me an email if you are interested in my background.
@@ -28,7 +31,6 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 <!--
  -->
 - [2026/01] Our briefing application has been accepted by Black Hat Asia 2026. See you in Singapore!
-- [2026/01] I will be joining the School of Computer Science and Technology at Shandong University as an Associate Professor in this summer. Please feel free to contact me by email if you are interested in working with me (at SDU or PKU).
 - [2025/10] My visit at NUS has come to an end. I’m deeply grateful for all the experiences, collaborations, and friendships that made this journey unforgettable.
 - [2025/09] Our paper "MUXLeak: Exploiting Multiplexers as a Power Side Channel against Multi-tenant FPGAs" has been published in TCAD.
 - [2025/06] "Achilles" has been awarded the "Honorable Mentions" by USENIX Security 2025 (only 25 out of 2385 submissions).
