@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-I am a 4th-year PhD student at Peking University, where I am very fortunate to be advised by Prof. [Qingni Shen](https://www.ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html) and work closely with [Zhi Zhang](https://zhangzhics.github.io/). Previously, I was a visiting student at National University of Singapore advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/), and was also an intern at Huawei Technologies.
+I am a 4th-year PhD student at Peking University, where I am very fortunate to be advised by Prof. [Qingni Shen](https://www.ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html) and work closely with [Zhi Zhang](https://zhangzhics.github.io/). Previously, I was a visiting student at National University of Singapore advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/).
 Before starting my PhD, I obtained my bachelor's degree from Hunan University, where I received the Pacemaker to Merit Student Award.
 
 My research interests are in system security and computer architecture. In particular, I focus on re-evaluating the rationale behind certain hardware designs, and uncovering new side-channel leakages to offer designers insights for building more secure systems. 
 
 <!--
+, and was also an intern at Huawei Technologies
 (Top 0.2% of all undergraduates)
 I’m an incoming associate professor of School of Computer Science and Technology at Shandong University.-->
 
