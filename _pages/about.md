@@ -29,17 +29,16 @@ I’m an incoming associate professor of School of Computer Science and Technolo
  -->
 
 ### News!
-<!--
- -->
 - [2026/01] Our briefing application has been accepted by Black Hat Asia 2026. See you in Singapore!
 - [2025/10] My visit at NUS has come to an end. I’m deeply grateful for all the experiences, collaborations, and friendships that made this journey unforgettable.
 - [2025/09] Our paper "MUXLeak: Exploiting Multiplexers as a Power Side Channel against Multi-tenant FPGAs" has been published in TCAD.
 - [2025/06] "Achilles" has been awarded the "Honorable Mentions" by USENIX Security 2025 (only 25 out of 2385 submissions).
 - [2025/06] Our paper "Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86" has been published in TIFS.
+<!--* 
 - [2025/02] Three papers, "LeakyDSP", "AmpereBleed", and "ZK-Hammer" have been accepted by DAC 2025. See you in San Francisco!
 - [2024/02] Our paper "ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts" has been accepted by DAC 2024.
 - [2023/10] Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
-
+-->
 ### Service
 * Reviewer for Conferences: ASIACCS 2024, ICICS 2025
 * Reviewer for Artifact Evaluation: CCS 2024, USENIX Security 2025, MICRO 2025, ASPLOS 2026, NDSS 2026, USENIX Security 2026
