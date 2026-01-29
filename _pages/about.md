@@ -41,7 +41,7 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 - [2023/10] Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
 
 ### Service
-* Reviewer for Conferences: ICISS 2022, ECAI 2023, ATS 2023, ASIACCS 2024, ICICS 2025
+* Reviewer for Conferences: ASIACCS 2024, ICICS 2025
 * Reviewer for Artifact Evaluation: CCS 2024, USENIX Security 2025, MICRO 2025, ASPLOS 2026, NDSS 2026, USENIX Security 2026
 * Reviewer for Journal: TIFS, TDSC
   
@@ -52,6 +52,7 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 * [2020] [Pacemaker to Merit Student](https://xxgk.hnu.edu.cn/info/1135/2623.htm) (Top 0.2%), Hunan University, China
   
 <!--* 
+ICISS 2022, ECAI 2023, ATS 2023, 
 * [2022] Runner-up (2/3304) in ECS CloudBuild Developer Competition, Alibaba Cloud
 * [2022] College Graduate Excellence Award (Top 3%), Hunan Province, China
 [2019] National Scholarship, China.-->
@@ -73,7 +74,7 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 * Operating System and Virtualization Security – Teaching Assistant, Fall 2023
 
 ### Working Experience
-* [2025.11-2026.01] Research Intern, 2012 Lab, Huawei Technologies
+* [2025.11-2026.01] Internship, 2012 Lab, Huawei Technologies
 
 ### Educational Background
 * [2022-present] Ph.D Student in Software Engineering, Peking University
