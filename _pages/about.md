@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 I am a 4th-year PhD student at Peking University, where I am very fortunate to be advised by Prof. [Qingni Shen](https://www.ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html) and work closely with [Zhi Zhang](https://zhangzhics.github.io/). Previously, I was a visiting student at National University of Singapore advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/), and was also an intern at Huawei Technologies.
-Before starting my PhD, I obtained my bachelor's degree from Hunan University, where I received the [Pacemaker to Merit Student Award](https://xxgk.hnu.edu.cn/info/1135/2623.htm).
+Before starting my PhD, I obtained my bachelor's degree from Hunan University, where I received the Pacemaker to Merit Student Award.
 
 My research interests are in system security and computer architecture. In particular, I focus on re-evaluating the rationale behind certain hardware designs, and uncovering new side-channel leakages to offer designers insights for building more secure systems. 
 
@@ -49,12 +49,11 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 * [2025] USENIX SECURITY Honorable Mention Paper Award
 * [2025] Presidential Scholarship (Top 2%), Peking University
 * [2024] First Prize of Science and Technology Progress Award, Chinese Institute of Electronics 
-* [2022] Runner-up (2/3304) in ECS CloudBuild Developer Competition, Alibaba Cloud
-* [2022] College Graduate Excellence Award (Top 3%), Hunan Province, China
-* [2020] Pacemaker to Merit Student (Top 0.2%), Hunan University, China
+* [2020] [Pacemaker to Merit Student](https://xxgk.hnu.edu.cn/info/1135/2623.htm) (Top 0.2%), Hunan University, China
   
 <!--* 
-
+* [2022] Runner-up (2/3304) in ECS CloudBuild Developer Competition, Alibaba Cloud
+* [2022] College Graduate Excellence Award (Top 3%), Hunan Province, China
 [2019] National Scholarship, China.-->
 <!-- (for contributions to project "Development and Application of Secure Middleware Platform for Cloud Operating System"). -->
 <!--
