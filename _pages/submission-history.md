@@ -41,7 +41,7 @@ author_profile: true
 - <sub> ASPLOS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> TALLIP &emsp; <font color="#00bb00">Accept</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
 
-### 2024 decisions <small>(AR: 3/15 = 20%)</small> &nbsp; <small>The second half of this year was really difficult.</small>
+#### 2024 decisions <small>(AR: 3/15 = 20%)</small> &nbsp; <small>The second half of this year was really difficult.</small>
 - <sub> Eurosys 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> Usenix Security 2025 &emsp; <font color="#aabb00">Major Revision</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer<br/>
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
@@ -60,7 +60,7 @@ author_profile: true
 - <sub> DAC 2024 &emsp; <font color="#00bb00">Accept</font> &emsp; ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts<br/>
 - <sub> ICASSP 2024 &emsp; <font color="#00bb00">Accept</font> &emsp; TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing<br/>
 
-### 2023 decisions <small>(AR: 2/7 = 29%)</small> &nbsp; <small>Happy to have SegScope published.</small>
+#### 2023 decisions <small>(AR: 2/7 = 29%)</small> &nbsp; <small>Happy to have SegScope published.</small>
 - <sub> HPCA 2024 &emsp; <font color="#00bb00">Accept</font> &emsp; SegScope: Probing Fine-grained Interrupts via Architectural Footprints<br/>
 - <sub> MICRO 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; SegScope: Probing Fine-grained Interrupts via Architectural Footprints<br/>
 - <sub> ECAI 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing<br/>
