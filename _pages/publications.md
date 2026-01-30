@@ -25,7 +25,7 @@ Publications Ranking Statistics: 13 CCF-A papers (6 first-author), 3 CCF-B paper
   Decheng Chen, Zhi Zhang, Zhenkai Zhang, **Xin Zhang**, Yansong Gao, Yi Zou <br/>
    USENIX Security (CCF-A / CORE-A*) <br/>
 
-- <sub> [HPCA 2026] **SSBleed: Non-speculative Side-channel Attacks via Speculative Store Bypass on Armv9 CPUs** <br/>
+- <sub> [HPCA 2026] **SSBleed: Non-speculative Side-channel Attacks via Speculative Store Bypass on Armv9 CPUs** [[paper]](https://zhangxin00.github.io/files/ssbleed.pdf) <br/>
   Chang Liu, Hongpei Zheng, **Xin Zhang**, Dapeng Ju, Dongsheng Wang, Yinqian Zhang, Trevor E. Carlson <br/>
    International Symposium on High-Performance Computer Architecture (CCF-A / CORE-A*) <br/>
 
