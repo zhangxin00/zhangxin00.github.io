@@ -18,7 +18,7 @@ Publications Ranking Statistics: 14 CCF-A papers (6 first-author), 3 CCF-B paper
 
 - <sub> [EuroSys 2026] **SwiftFL: Enabling Speculative Training for On-Device Federated Deep Learning** <br/>
   Yuhui Zhang, Guang Yan, **Xin Zhang**, Zimu Guo, Lutan Zhao, Jiangfeng Cao, Dan Meng, Rui Hou <br/>
-  EuroSys (CCF-A) <br/>
+  European Conference on Computer Systems (CCF-A) <br/>
 
 - <sub> [TDSC 2026] **Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time** <br/>
   Yusi Feng, **Xin Zhang**, Zihui Guo, Ben Liu, Fei Wang, Ziyuan Zhu, Yinqian Zhang <br/>
