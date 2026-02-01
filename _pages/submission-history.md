@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ### 2026 decisions &nbsp;
-- <sub> EuroSys &emsp; <font color="#00bb00">Accept</font> &emsp;  SwiftFL: Enabling Speculative Training for On-Device Federated Deep Learning<br/>
+- <sub> EuroSys 2026 &emsp; <font color="#00bb00">Accept</font> &emsp;  SwiftFL: Enabling Speculative Training for On-Device Federated Deep Learning<br/>
 
 ### 2025 decisions <small>(AR: 13/28 = 46%)</small> &nbsp; <small>A calm and peaceful year.</small>
 - <sub> IEEE Transactions on Dependable and Secure Computing &emsp; <font color="#00bb00">Accept</font> &emsp;  Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time<br/>
