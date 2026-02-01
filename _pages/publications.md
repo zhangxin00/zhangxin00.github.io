@@ -16,8 +16,9 @@ Publications Ranking Statistics: 14 CCF-A papers (6 first-author), 3 CCF-B paper
 
 {% include base_path %}
 
-- <sub> [EuroSys 2026] **SwiftFL: Enabling Speculative Training for On-Device Federated Deep Learning**
-  Yuhui Zhang, Guang Yan, **Xin Zhang**, Zimu Guo, Lutan Zhao, Jiangfeng Cao, Dan Meng, Rui Hou
+- <sub> [EuroSys 2026] **SwiftFL: Enabling Speculative Training for On-Device Federated Deep Learning** <br/>
+  Yuhui Zhang, Guang Yan, **Xin Zhang**, Zimu Guo, Lutan Zhao, Jiangfeng Cao, Dan Meng, Rui Hou <br/>
+  EuroSys (CCF-A) <br/>
 
 - <sub> [TDSC 2026] **Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time** <br/>
   Yusi Feng, **Xin Zhang**, Zihui Guo, Ben Liu, Fei Wang, Ziyuan Zhu, Yinqian Zhang <br/>
@@ -25,11 +26,11 @@ Publications Ranking Statistics: 14 CCF-A papers (6 first-author), 3 CCF-B paper
    
 - <sub> [SEC 2026] **UncoreBleed: AEX-Free, High-Resolution, and Low-Noise Side-Channel Attacks on SGX Enclaved Execution** <br/>
   Decheng Chen, Zhi Zhang, Zhenkai Zhang, **Xin Zhang**, Yansong Gao, Yi Zou <br/>
-   USENIX Security (CCF-A / CORE-A*) <br/>
+  USENIX Security (CCF-A / CORE-A*) <br/>
 
 - <sub> [HPCA 2026] **SSBleed: Non-speculative Side-channel Attacks via Speculative Store Bypass on Armv9 CPUs** [[paper]](https://zhangxin00.github.io/files/ssbleed.pdf) <br/>
   Chang Liu, Hongpei Zheng, **Xin Zhang**, Dapeng Ju, Dongsheng Wang, Yinqian Zhang, Trevor E. Carlson <br/>
-   International Symposium on High-Performance Computer Architecture (CCF-A / CORE-A*) <br/>
+  International Symposium on High-Performance Computer Architecture (CCF-A / CORE-A*) <br/>
 
 
 - <sub> [TDSC 2025] **Fish and Chips: On the Root Causes of Co-located Website-Fingerprinting Attack** [[paper](https://zhangxin00.github.io/files/fish_and_chips.pdf)] <br/>
