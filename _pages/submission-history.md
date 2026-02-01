@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ### 2025 decisions <small>(AR: 13/28 = 46%)</small> &nbsp; <small>A calm and peaceful year.</small>
+- <sub> EuroSys &emsp; <font color="#00bb00">Accept</font> &emsp;  SwiftFL: Enabling Speculative Training for On-Device Federated Deep Learning<br/>
 - <sub> IEEE Transactions on Dependable and Secure Computing &emsp; <font color="#00bb00">Accept</font> &emsp;  Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time<br/>
 - <sub> Usenix Security 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; UncoreBleed: AEX-Free, High-Resolution, and Low-Noise Side-Channel Attacks on SGX Enclaved Execution<br/>
 - <sub> HPCA 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted— <br/>
@@ -17,14 +18,14 @@ author_profile: true
 - <sub> lEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems &emsp; <font color="#00bb00">Accept</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
 - <sub> CHES 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> MICRO 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
-- <sub> SOSP 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
+- <sub> SOSP 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; SwiftFL: Accelerating Federated Deep Learning via Speculative Training
 - <sub> ASPLOS 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> IEEE Transactions on Information Forensics and Security &emsp; <font color="#00bb00">Accept</font> &emsp; Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86
 - <sub> Nature Communications &emsp; <font color="#dd0000">Reject</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> Nature Electronics &emsp; <font color="#dd0000">Reject</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
 - <sub> CHES 2025 &emsp; <font color="#00bb00">Accept</font> &emsp; Practical Opcode-based Fault Attack on AES-NI<br/>
-- <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
+- <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; SwiftFL: Accelerating Federated Deep Learning via Speculative Training
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> DAC 2025 &emsp; <font color="#00bb00">Accept</font> &emsp; LeakyDSP: Exploiting Digital Signal Processing Blocks to Sense Voltage Fluctuations in FPGAs<br/>
@@ -33,7 +34,7 @@ author_profile: true
 - <sub> ASPLOS 2025 &emsp; <font color="#00bb00">Accept</font> &emsp; HyperHammer: Breaking Free from KVM-Enforced Isolation
 - <sub> Usenix Security 2025 &emsp; <font color="#00bb00">Accept</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer<br/>
 - <sub> ASPLOS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
-- <sub> ASPLOS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
+- <sub> ASPLOS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; SwiftFL: Accelerating Federated Deep Learning via Speculative Training
 - <sub> TALLIP &emsp; <font color="#00bb00">Accept</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
 
 ### 2024 decisions <small>(AR: 3/15 = 20%)</small> &nbsp; <small>The second half of this year was really difficult.</small>
