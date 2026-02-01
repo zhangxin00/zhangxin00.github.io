@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-### 2025 decisions <small>(AR: 13/28 = 46%)</small> &nbsp;
+### 2026 decisions &nbsp;
 - <sub> EuroSys &emsp; <font color="#00bb00">Accept</font> &emsp;  SwiftFL: Enabling Speculative Training for On-Device Federated Deep Learning<br/>
 
 ### 2025 decisions <small>(AR: 13/28 = 46%)</small> &nbsp; <small>A calm and peaceful year.</small>
@@ -39,7 +39,7 @@ author_profile: true
 - <sub> ASPLOS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; SwiftFL: Accelerating Federated Deep Learning via Speculative Training
 - <sub> TALLIP &emsp; <font color="#00bb00">Accept</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
 
-### 2024 decisions <small>(AR: 3/15 = 20%)</small> &nbsp; <small>The second half of this year was really difficult.</small>
+### 2024 decisions <small>(AR: 3/15 = 20%)</small> &nbsp; <small>This year was really hard.</small>
 - <sub> Eurosys 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
