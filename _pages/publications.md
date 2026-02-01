@@ -50,7 +50,7 @@ Publications Ranking Statistics: 14 CCF-A papers (6 first-author), 3 CCF-B paper
   **Xin Zhang**, Jiajun Zou, Yi Yang, Qingni Shen, Zhi Zhang, Yansong Gao, Zhonghai Wu, Trevor E. Carlson <br/>
   Design Automation Conference (CCF-A / CORE-A) <br/>
 
-- <sub> [DAC 2025] **AmpereBleed: Exploiting On-chip Current Sensors for Circuit-Free Attacks on ARM-FPGA SoCs** [[paper](https://zhangxin00.github.io/files/amperebleed.pdf)] [[code](https://github.com/Skyofmine007/AmpereBleed-DAC.)] <br/>
+- <sub> [DAC 2025] **AmpereBleed: Exploiting On-chip Current Sensors for Circuit-Free Attacks on ARM-FPGA SoCs** [[paper](https://zhangxin00.github.io/files/amperebleed.pdf)] [[code](https://github.com/Skyofmine007/AmpereBleed-DAC)] <br/>
   **Xin Zhang**, Yi Yang, Jiajun Zou, Qingni Shen, Zhi Zhang, Yansong Gao, Zhonghai Wu, Trevor E. Carlson <br/>
   Design Automation Conference (CCF-A / CORE-A) <br/>
 
