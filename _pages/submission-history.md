@@ -10,7 +10,7 @@ author_profile: true
 - <sub> DAC 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; PLONK-Hammer:Breaking Input Privacy of PLONK Proving Systems via Rowhammer<br/>
 - <sub> DAC 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; Shooting Falcon with One Fault: A Practical Rowhammer-based Fault Attack against Falcon<br/>
 - <sub> DAC 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
-- <sub> DAC 2026 &emsp; <<font color="#dd0000">Reject</font> &emsp; —Redacted—
+- <sub> DAC 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> EuroSys 2026 &emsp; <font color="#00bb00">Accept</font> &emsp;  SwiftFL: Enabling Speculative Training for On-Device Federated Deep Learning<br/>
 
 ### 2025 decisions <small>(AR: 13/28 = 46%)</small> &nbsp;  
