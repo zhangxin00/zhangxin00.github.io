@@ -7,15 +7,23 @@ author_profile: true
 
 In the past few years, I have been dedicating my efforts to publish papers on top-tier conferences in computer architecture (MICRO, ISCA, HPCA, and ASPLOS) and security (CCS, IEEE S&P, USENIX Security, and NDSS). I also contribute to other well-regarded conferences in hardware security (e.g., DAC, DATE, and CHES). 
 
-Publications at Conferences (12 papers): HPCA ('26, '24), USENIX Security ('26, '25), ASPLOS ('25), DAC ('25 × 3, '24), EuroSys ('26), CHES ('25), DATE ('25)
+Publications at Conferences (14 papers): HPCA ('26, '24), USENIX Security ('26, '25), ASPLOS ('25), DAC ('26 x 2, '25 × 3, '24), EuroSys ('26), CHES ('25), DATE ('25)
 
 Publications at Journals (5 papers): TIFS ('25), TCAD ('25), TDSC ('26, '25), The Computer Journal ('24)
 
-Publications Ranking Statistics: 14 CCF-A papers (6 first-author), 3 CCF-B papers
+Publications Ranking Statistics: 16 CCF-A papers (6 first-author), 3 CCF-B papers
 
 
 {% include base_path %}
 
+- <sub> [DAC 2026] **Shooting Falcon with One Fault: A Practical Rowhammer-based Fault Attack against Falcon** <br/>
+  Zihao Xin, **Xin Zhang**, Zhe Liu, Qianmei Wu, Qingni Shen, Ruyi Ding, Yixin Jiang, Wenqian Xu, Zhihong Liang, Lu Zhou and Fan Zhang <br/>
+  Design Automation Conference (CCF-A / CORE-A) <br/>
+
+- <sub> [EuroSys 2026] **PLONK-Hammer:Breaking Input Privacy of PLONK Proving Systems via Rowhammer** <br/>
+  Zhiwen Zhang, Junkai Liang, **Xin Zhang**, Qingni Shen, Cong Li and Yuejian Fang <br/>
+  Design Automation Conference (CCF-A / CORE-A) <br/>
+  
 - <sub> [EuroSys 2026] **SwiftFL: Enabling Speculative Training for On-Device Federated Deep Learning** <br/>
   Yuhui Zhang, Guang Yan, **Xin Zhang**, Zimu Guo, Lutan Zhao, Jiangfeng Cao, Dan Meng, Rui Hou <br/>
   European Conference on Computer Systems (CCF-A / CORE-A) <br/>
