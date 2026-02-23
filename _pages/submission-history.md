@@ -21,7 +21,7 @@ author_profile: true
 - <sub> ASPLOS 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> NDSS 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> IEEE Transactions on Dependable and Secure Computing &emsp; <font color="#00bb00">Accept</font> &emsp; Fish and Chips: On the Root Causes of Co-located Website-Fingerprinting Attacks
-- <sub> lEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems &emsp; <font color="#00bb00">Accept</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
+- <sub> IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems &emsp; <font color="#00bb00">Accept</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
 - <sub> CHES 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; Shooting Falcon with One Fault: A Practical Rowhammer-based Fault Attack against Falcon<br/>
 - <sub> MICRO 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> SOSP 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; SwiftFL: Accelerating Federated Deep Learning via Speculative Training
@@ -41,7 +41,7 @@ author_profile: true
 - <sub> Usenix Security 2025 &emsp; <font color="#00bb00">Accept</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer<br/>
 - <sub> ASPLOS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> ASPLOS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; SwiftFL: Accelerating Federated Deep Learning via Speculative Training
-- <sub> TALLIP &emsp; <font color="#00bb00">Accept</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
+- <sub> IEEE Transactions on Audio, Speech and Language Processing &emsp; <font color="#00bb00">Accept</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
 
 ### 2024 decisions <small>(AR: 3/15 = 20%)</small> &nbsp;
 - <sub> Eurosys 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
@@ -56,7 +56,7 @@ author_profile: true
 - <sub> CCS 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
 - <sub> CCS 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer
 - <sub> CCS 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
-- <sub> Computer Journal &emsp; <font color="#00bb00">Accept</font> &emsp; IPOD2: An Irrecoverable and Verifiable Deletion Scheme for Outsourced Data<br/>
+- <sub> The Computer Journal &emsp; <font color="#00bb00">Accept</font> &emsp; IPOD2: An Irrecoverable and Verifiable Deletion Scheme for Outsourced Data<br/>
 - <sub> DAC 2024 &emsp; <font color="#00bb00">Accept</font> &emsp; ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts<br/>
 - <sub> ICASSP 2024 &emsp; <font color="#00bb00">Accept</font> &emsp; TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing<br/>
 
