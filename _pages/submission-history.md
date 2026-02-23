@@ -7,10 +7,13 @@ author_profile: true
 
 {% include base_path %}
 ### 2026 decisions &nbsp;
+- <sub> DAC 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; PLONK-Hammer:Breaking Input Privacy of PLONK Proving Systems via Rowhammer<br/>
+- <sub> DAC 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; Shooting Falcon with One Fault: A Practical Rowhammer-based Fault Attack against Falcon<br/>
+- <sub> DAC 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
+- <sub> DAC 2026 &emsp; <<font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> EuroSys 2026 &emsp; <font color="#00bb00">Accept</font> &emsp;  SwiftFL: Enabling Speculative Training for On-Device Federated Deep Learning<br/>
 
 ### 2025 decisions <small>(AR: 13/28 = 46%)</small> &nbsp;  
-<!-- <small>A calm and peaceful year.</small> -->
 - <sub> IEEE Transactions on Dependable and Secure Computing &emsp; <font color="#00bb00">Accept</font> &emsp;  Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time<br/>
 - <sub> Usenix Security 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; UncoreBleed: AEX-Free, High-Resolution, and Low-Noise Side-Channel Attacks on SGX Enclaved Execution<br/>
 - <sub> HPCA 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted— <br/>
@@ -19,7 +22,7 @@ author_profile: true
 - <sub> NDSS 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> IEEE Transactions on Dependable and Secure Computing &emsp; <font color="#00bb00">Accept</font> &emsp; Fish and Chips: On the Root Causes of Co-located Website-Fingerprinting Attacks
 - <sub> lEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems &emsp; <font color="#00bb00">Accept</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
-- <sub> CHES 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
+- <sub> CHES 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; Shooting Falcon with One Fault: A Practical Rowhammer-based Fault Attack against Falcon<br/>
 - <sub> MICRO 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> SOSP 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; SwiftFL: Accelerating Federated Deep Learning via Speculative Training
 - <sub> ASPLOS 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
@@ -41,7 +44,6 @@ author_profile: true
 - <sub> TALLIP &emsp; <font color="#00bb00">Accept</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
 
 ### 2024 decisions <small>(AR: 3/15 = 20%)</small> &nbsp;
-<!--  <small>This year was really hard.</small> -->
 - <sub> Eurosys 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
@@ -59,7 +61,6 @@ author_profile: true
 - <sub> ICASSP 2024 &emsp; <font color="#00bb00">Accept</font> &emsp; TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing<br/>
 
 ### 2023 decisions <small>(AR: 2/7 = 29%)</small> &nbsp; 
-<!-- <small>Happy to have SegScope published.</small> -->
 - <sub> HPCA 2024 &emsp; <font color="#00bb00">Accept</font> &emsp; SegScope: Probing Fine-grained Interrupts via Architectural Footprints<br/>
 - <sub> MICRO 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; SegScope: Probing Fine-grained Interrupts via Architectural Footprints<br/>
 - <sub> ECAI 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; TRLS: A Time Series Representation Learning Framework via Spectrogram for Medical Signal Processing<br/>
@@ -68,5 +69,5 @@ author_profile: true
 - <sub> ICASSP 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image<br/>
 - <sub> ICASSP 2023 &emsp; <font color="#dd0000">Reject</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
 
-### 2022 decisions <small>(AR: 0%)</small>
+### 2022 decisions <small>(AR: 0%)</small> &nbsp; 
 - <sub> TASLP &emsp; <font color="#dd0000">Reject</font> &emsp; AdvAudio: A New Information Hiding Method via Fooling Automatic Speech Recognition Model<br/>
