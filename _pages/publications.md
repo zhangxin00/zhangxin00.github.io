@@ -20,7 +20,7 @@ Publications Ranking Statistics: 16 CCF-A papers (6 first-author), 3 CCF-B paper
   Zihao Xin, **Xin Zhang**, Zhe Liu, Qianmei Wu, Qingni Shen, Ruyi Ding, Yixin Jiang, Wenqian Xu, Zhihong Liang, Lu Zhou and Fan Zhang <br/>
   Design Automation Conference (CCF-A / CORE-A) <br/>
 
-- <sub> [EuroSys 2026] **PLONK-Hammer:Breaking Input Privacy of PLONK Proving Systems via Rowhammer** <br/>
+- <sub> [DAC 2026] **PLONK-Hammer:Breaking Input Privacy of PLONK Proving Systems via Rowhammer** <br/>
   Zhiwen Zhang, Junkai Liang, **Xin Zhang**, Qingni Shen, Cong Li and Yuejian Fang <br/>
   Design Automation Conference (CCF-A / CORE-A) <br/>
   
