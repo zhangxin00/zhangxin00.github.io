@@ -41,16 +41,17 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 [2023/10] Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
 -->
 
+### Honors and Awards
+* [2025] USENIX SECURITY Honorable Mention Paper Award 
+* [2025] Presidential Scholarship (Top 2%), Peking University
+* [2024] First Prize of Science and Technology Progress Award, Chinese Institute of Electronics 
+* [2020] [Pacemaker to Merit Student](https://xxgk.hnu.edu.cn/info/1135/2623.htm) (Top 0.2%), Hunan University, China
+
+  
 ### Service
 * Reviewer for Conferences: ASIACCS 2024, ICICS 2025
 * Reviewer for Artifact Evaluation: CCS 2024, USENIX Security 2025, MICRO 2025, ASPLOS 2026, NDSS 2026, USENIX Security 2026
 * Reviewer for Journal: TIFS, TDSC
-  
-### Honors and Awards
-* [2025] USENIX SECURITY Honorable Mention Paper Award
-* [2025] Presidential Scholarship (Top 2%), Peking University
-* [2024] First Prize of Science and Technology Progress Award, Chinese Institute of Electronics 
-* [2020] [Pacemaker to Merit Student](https://xxgk.hnu.edu.cn/info/1135/2623.htm) (Top 0.2%), Hunan University, China
   
 <!--* 
 ICISS 2022, ECAI 2023, ATS 2023, 
