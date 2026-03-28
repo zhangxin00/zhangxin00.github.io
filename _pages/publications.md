@@ -15,7 +15,14 @@ Publications Ranking Statistics: 16 CCF-A papers (6 first-author), 3 CCF-B paper
 
 
 {% include base_path %}
+- <sub> [ISCA 2026] **Towards Practical Interrupt Side Channel Attacks on macOS for Apple Silicon** <br/>
+  Xin Zhang, Chang Liu, Jiajun Zou, Yi Yang, Qingni Shen, Zhi Zhang, Trevor E. Carlson <br/>
+  International Symposium on Computer Architecture (ISCA) <br/>
 
+- <sub> [ISCA 2026] **TimeGaps Channels: Exploiting CPU Halted Time for Fun and Profit** <br/>
+  Yusi Feng, **Xin Zhang (co-first author)**, Sioli O'Connell, Liangwei Qiu, Chitchanok Chuengsatiansup, Danie Genkin, Yuval Yarom, Yinqian Zhang, Zhi Zhang <br/>
+  International Symposium on Computer Architecture (ISCA) <br/>
+  
 - <sub> [DAC 2026] **Shooting Falcon with One Fault: A Practical Rowhammer-based Fault Attack against Falcon** <br/>
   Zihao Xin, **Xin Zhang**, Zhe Liu, Qianmei Wu, Qingni Shen, Ruyi Ding, Yixin Jiang, Wenqian Xu, Zhihong Liang, Lu Zhou and Fan Zhang <br/>
   Design Automation Conference (CCF-A / CORE-A) <br/>
