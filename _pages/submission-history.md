@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 ### 2026 decisions &nbsp;
+- <sub> ISCA 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; Towards Practical Interrupt Side Channel Attacks on macOS for Apple Silicon<br/>
+- <sub> ISCA 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; TimeGaps Channels: Exploiting CPU Halted Time for Fun and Profit<br/>
 - <sub> DAC 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; PLONK-Hammer:Breaking Input Privacy of PLONK Proving Systems via Rowhammer<br/>
 - <sub> DAC 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; Shooting Falcon with One Fault: A Practical Rowhammer-based Fault Attack against Falcon<br/>
 - <sub> DAC 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
@@ -16,16 +18,16 @@ author_profile: true
 ### 2025 decisions <small>(AR: 13/28 = 46%)</small> &nbsp;  
 - <sub> IEEE Transactions on Dependable and Secure Computing &emsp; <font color="#00bb00">Accept</font> &emsp;  Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time<br/>
 - <sub> Usenix Security 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; UncoreBleed: AEX-Free, High-Resolution, and Low-Noise Side-Channel Attacks on SGX Enclaved Execution<br/>
-- <sub> HPCA 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted— <br/>
-- <sub> HPCA 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; SSBleed: Non-speculative Side-channel Attacks via Speculative Store Bypass on Armv9 CPUs<br/ >
-- <sub> ASPLOS 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
+- <sub> HPCA 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; TimeGaps Channels: Exploiting CPU Halted Time for Fun and Profit<br/>
+- <sub> HPCA 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; SSBleed: Non-speculative Side-channel Attacks via Speculative Store Bypass on Armv9 CPUs<br/>
+- <sub> ASPLOS 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; Towards Practical Interrupt Side Channel Attacks on macOS for Apple Silicon<br/>
 - <sub> NDSS 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> IEEE Transactions on Dependable and Secure Computing &emsp; <font color="#00bb00">Accept</font> &emsp; Fish and Chips: On the Root Causes of Co-located Website-Fingerprinting Attacks
 - <sub> IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems &emsp; <font color="#00bb00">Accept</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
 - <sub> CHES 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; Shooting Falcon with One Fault: A Practical Rowhammer-based Fault Attack against Falcon<br/>
-- <sub> MICRO 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
+- <sub> MICRO 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; TIDE: Timer-less Interrupt Detection in macOS for Apple Silicon
 - <sub> SOSP 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; SwiftFL: Accelerating Federated Deep Learning via Speculative Training
-- <sub> ASPLOS 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
+- <sub> ASPLOS 2026 &emsp; <font color="#dd0000">Reject</font> &emsp; TimeGaps Channels: Side Channel Attacks via CPU Halted Time
 - <sub> IEEE Transactions on Information Forensics and Security &emsp; <font color="#00bb00">Accept</font> &emsp; Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86
 - <sub> Nature Communications &emsp; <font color="#dd0000">Reject</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
 - <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
@@ -45,16 +47,16 @@ author_profile: true
 
 ### 2024 decisions <small>(AR: 3/15 = 20%)</small> &nbsp;
 - <sub> Eurosys 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
-- <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
-- <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
-- <sub> HPCC 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time
-- <sub> NDSS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
+- <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; TimeGaps Channels: Side Channel Attacks via Halted Time<br/>
+- <sub> Usenix Security 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs<br/>
+- <sub> HPCC 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time<br/>
+- <sub> NDSS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; TimeGaps Channels: Side Channel Attacks via Halted Time<br/>
 - <sub> NDSS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> IEEE S&P 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; HyperHammer: Breaking Free from KVM-Enforced Isolation<br/>
 - <sub> NDSS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
-- <sub> NDSS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
-- <sub> CCS 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs
-- <sub> CCS 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer
+- <sub> NDSS 2025 &emsp; <font color="#dd0000">Reject</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs<br/>
+- <sub> CCS 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs<br/>
+- <sub> CCS 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer<br/>
 - <sub> CCS 2024 &emsp; <font color="#dd0000">Reject</font> &emsp; —Redacted—
 - <sub> The Computer Journal &emsp; <font color="#00bb00">Accept</font> &emsp; IPOD2: An Irrecoverable and Verifiable Deletion Scheme for Outsourced Data<br/>
 - <sub> DAC 2024 &emsp; <font color="#00bb00">Accept</font> &emsp; ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts<br/>
