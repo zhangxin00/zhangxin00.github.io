@@ -29,7 +29,7 @@ I’m an incoming associate professor of School of Computer Science and Technolo
  -->
 
 ### News!
-- [2026/03] Two papers, "TIDE" and "TimeGaps", have been accepted by ISCA 2026. Careful readers may notice several Easter eggs that connect to SegScope (HPCA 2024) ^_^
+- [2026/03] Two papers, "TIDE" and "TimeGaps", have been accepted by ISCA 2026. Careful readers may notice several Easter eggs that link back to SegScope (HPCA 2024) ^_^
 - [2026/01] Our briefing application has been accepted by Black Hat Asia 2026. See you in Singapore!
 - [2025/10] My visit at NUS has come to an end. I’m deeply grateful for all the experiences, collaborations, and friendships that made this journey unforgettable.
 - [2025/09] Our paper "MUXLeak: Exploiting Multiplexers as a Power Side Channel against Multi-tenant FPGAs" has been published in TCAD.
