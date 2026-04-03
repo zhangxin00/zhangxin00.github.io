@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a 4th-year PhD student at Peking University, where I am very fortunate to be advised by Prof. [Qingni Shen](http://scholar.pku.edu.cn/pkuss-shenqn/ge-ren-jian-jie) and work closely with [Zhi Zhang](https://zhangzhics.github.io/). Previously, I was a visiting student at National University of Singapore advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/), and was also an intern at Huawei Technologies.
+I am a final-year PhD student at Peking University, where I am very fortunate to be advised by Prof. [Qingni Shen](http://scholar.pku.edu.cn/pkuss-shenqn/ge-ren-jian-jie) and work closely with [Zhi Zhang](https://zhangzhics.github.io/). Previously, I was a visiting student at National University of Singapore advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/), and was also an intern at Huawei Technologies.
 Before starting my PhD, I obtained my bachelor's degree from Hunan University, where I received the Pacemaker to Merit Student Award.
 
 My research interests are in system security and computer architecture. In particular, I enjoy re-evaluating the rationale behind certain hardware designs, and uncovering new side-channel leakages to offer designers insights for building more secure systems. During my PhD, I identified several interrupt side channels [HPCA'24, DAC'24, TIFS'25, ISCA'26A] and power side channels [DAC'25 x2, TCAD'25, ISCA'26B]. I have also devoted additional time to collaborative interesting projects spanning computer architecture and applied cryptography.
@@ -81,7 +81,7 @@ ICISS 2022, ECAI 2023, ATS 2023,
 * [2025.11-2026.01] Internship, 2012 Lab, Huawei Technologies
 
 ### Educational Background
-* [2022-present] Ph.D Student in Software Engineering, Peking University
+* [2022-2026(expected)] Ph.D Student in Software Engineering, Peking University
   * Supervisor: Prof. Qingni Shen
 * [2024.10-2025.10] Visiting Ph.D Student, National University of Singapore
   * Supervisor: Prof. Trevor E. Carlson
