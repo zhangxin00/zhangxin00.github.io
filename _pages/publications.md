@@ -15,7 +15,7 @@ Publications Ranking Statistics: 18 CCF-A papers (7 first-author), 3 CCF-B paper
 
 
 {% include base_path %}
-- <sub> [ISCA 2026] **Towards Practical Interrupt Side Channel Attacks on macOS for Apple Silicon** [[slides](https://zhangxin00.github.io/files/TIDE-BlackHat.pdf)] <br/>
+- <sub> [ISCA 2026] **Towards Practical Interrupt Side Channel Attacks on macOS for Apple Silicon** [[paper](https://zhangxin00.github.io/files/TIDE-ISCA.pdf)]  [[slides](https://zhangxin00.github.io/files/TIDE-BlackHat.pdf)] <br/>
   **Xin Zhang**, Chang Liu, Jiajun Zou, Yi Yang, Qingni Shen, Zhi Zhang, Trevor E. Carlson <br/>
   International Symposium on Computer Architecture (CCF-A / CORE-A*) <br/>
 
