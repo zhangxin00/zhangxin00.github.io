@@ -39,9 +39,10 @@ Feel free to drop me an email if you are interested in working with me. Multiple
 - [2025/10] My visit at NUS has come to an end. I’m deeply grateful for all the experiences, collaborations, and friendships that made this journey unforgettable.
 - [2025/09] Our paper "MUXLeak: Exploiting Multiplexers as a Power Side Channel against Multi-tenant FPGAs" has been published in TCAD.
 - [2025/06] "Achilles" has been awarded the "Honorable Mentions" by USENIX Security 2025 (only 25 out of 2385 submissions).
-- [2025/06] Our paper "Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86" has been published in TIFS.
+
 
 <!--
+- [2025/06] Our paper "Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86" has been published in TIFS.
 Careful readers may notice several "Easter eggs" linking back to SegScope (HPCA 2024).
 [2025/02] Three papers, "LeakyDSP", "AmpereBleed", and "ZK-Hammer" have been accepted by DAC 2025. See you in San Francisco!
 [2024/02] Our paper "ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts" has been accepted by DAC 2024.
