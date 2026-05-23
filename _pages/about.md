@@ -21,7 +21,8 @@ re-evaluating the rationale behind certain hardware designs, and uncovering new 
 Before starting my PhD, I obtained my bachelor's degree from Hunan University, where I received the Pacemaker to Merit Student Award.
 I’m an incoming associate professor of School of Computer Science and Technology at Shandong University.-->
 
-<font color="#ff0000"> I will be joining the School of Computer Science and Technology at Shandong University as an Associate Professor in this summer. Please feel free to contact me by email if you are interested in working with me (at SDU or PKU).
+<font color="#ff0000"> 
+Feel free to drop me an email if you are interested in working with me. Multiple positions are available at SDU and PKU.
 </font>
 
 <!--
