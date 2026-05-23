@@ -87,11 +87,11 @@ ICISS 2022, ECAI 2023, ATS 2023,
 * [2025.11-2026.01] Internship, 2012 Lab, Huawei Technologies
 
 ### Educational Background
-* [2022-2026 (expected)] Ph.D Student in Software Engineering, Peking University
+* [2022-2026] Ph.D Student in Software Engineering, Peking University
   * Supervisor: Prof. Qingni Shen
 * [2024.10-2025.10] Visiting Ph.D Student, National University of Singapore
   * Supervisor: Prof. Trevor E. Carlson
-* [2018-2022] B.S. in Information Security, Hunan University  
+* [2018-2022] B.S. in Information Security, Hunan University
 
 ### Fun Facts
 * I enjoy sports, particularly bodybuilding and playing basketball with friends. I allocate 5-10 hours per week for these activities.
