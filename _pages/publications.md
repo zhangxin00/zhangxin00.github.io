@@ -15,6 +15,10 @@ Publications Ranking Statistics: 18 CCF-A papers (7 first-author), 3 CCF-B paper
 
 
 {% include base_path %}
+- <sub> [APPT 2026] **Towards Practical Interrupt Side Channel Attacks on macOS for Apple Silicon**  <br/>
+  Chang Liu, Xin Zhang, Dapeng Ju, Yongqiang Lyu, Dongsheng Wang <br/>
+  Advanced Parallel Programming Technologies (CCF-C, Hosted by China Computer Federation) <br/>
+  
 - <sub> [ISCA 2026] **Towards Practical Interrupt Side Channel Attacks on macOS for Apple Silicon** [[paper](https://zhangxin00.github.io/files/TIDE-ISCA.pdf)]  [[slides](https://zhangxin00.github.io/files/TIDE-BlackHat.pdf)] [[code](https://github.com/zhangxin00/tide/)] <br/>
   **Xin Zhang**, Chang Liu, Jiajun Zou, Yi Yang, Qingni Shen, Zhi Zhang, Trevor E. Carlson <br/>
   International Symposium on Computer Architecture (CCF-A / CORE-A*) <br/>
