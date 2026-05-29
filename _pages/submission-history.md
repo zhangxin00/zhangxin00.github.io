@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ### 2026 decisions &nbsp;
+- <sub> APPT 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; Pitfall: Uncovering and Exploiting the Store Forwarding Predictor on Intel CPUs<br/>
 - <sub> ISCA 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; Towards Practical Interrupt Side Channel Attacks on macOS for Apple Silicon<br/>
 - <sub> ISCA 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; TimeGaps Channels: Exploiting CPU Halted Time for Fun and Profit<br/>
 - <sub> DAC 2026 &emsp; <font color="#00bb00">Accept</font> &emsp; PLONK-Hammer:Breaking Input Privacy of PLONK Proving Systems via Rowhammer<br/>
