@@ -11,7 +11,7 @@ Publications at Conferences (16 papers): ISCA ('26 x 2), HPCA ('26, '24), USENIX
 
 Publications at Journals (5 papers): TIFS ('25), TCAD ('25), TDSC ('26, '25), The Computer Journal ('24)
 
-Publications Ranking Statistics: 18 CCF-A papers (7 first-author), 3 CCF-B papers
+Publications Ranking Statistics: 18 CCF-A papers (7 first-author，2 co-first author), 3 CCF-B papers
 
 
 {% include base_path %}
