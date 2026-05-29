@@ -15,7 +15,7 @@ Publications Ranking Statistics: 18 CCF-A papers (7 first-author，2 co-first au
 
 
 {% include base_path %}
-- <sub> [APPT 2026] **Towards Practical Interrupt Side Channel Attacks on macOS for Apple Silicon**  <br/>
+- <sub> [APPT 2026] **Pitfall: Uncovering and Exploiting the Store Forwarding Predictor on Intel CPUs**  <br/>
   Chang Liu, Xin Zhang, Dapeng Ju, Yongqiang Lyu, Dongsheng Wang <br/>
   Advanced Parallel Programming Technologies (CCF-C, Hosted by China Computer Federation) <br/>
   
