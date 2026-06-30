@@ -50,6 +50,7 @@ Careful readers may notice several "Easter eggs" linking back to SegScope (HPCA 
 -->
 
 ### Honors and Awards
+* [2026] ISCA Best Artifact Award 
 * [2025] USENIX SECURITY Honorable Mention Paper Award 
 * [2025] Presidential Scholarship (Top 2%), Peking University
 * [2024] First Prize of Science and Technology Progress Award, Chinese Institute of Electronics 
