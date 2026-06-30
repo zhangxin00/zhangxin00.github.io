@@ -22,7 +22,7 @@ Publications Ranking Statistics: 18 CCF-A papers (7 first-author，2 co-first au
 - <sub> [ISCA 2026] **Towards Practical Interrupt Side Channel Attacks on macOS for Apple Silicon** [[paper](https://zhangxin00.github.io/files/TIDE-ISCA.pdf)]  [[slides](https://zhangxin00.github.io/files/TIDE-BlackHat.pdf)] [[code](https://github.com/zhangxin00/tide/)] <br/>
   **Xin Zhang**, Chang Liu, Jiajun Zou, Yi Yang, Qingni Shen, Zhi Zhang, Trevor E. Carlson <br/>
   International Symposium on Computer Architecture (CCF-A / CORE-A*) <br/>
-  <font color="#00bb00">BlackHat Asia (40-min presentation) &emsp;
+  <font color="#00bb00">BlackHat Asia (40-min presentation) &emsp;   <font color="#00bb00">Best Artifact Award &emsp;
 
 - <sub> [ISCA 2026] **TimeGaps Channels: Exploiting CPU Halted Time for Fun and Profit** [[paper](https://zhangxin00.github.io/files/TimeGaps-ISCA.pdf)] [[code](https://github.com/fengyusi/TimeGaps_artifact)] <br/>
   Yusi Feng, **Xin Zhang (co-first author)**, Sioli O'Connel, Liangwei Qiu, Chitchanok Chuengsatiansup, Daniel Genkin, Yuval Yarom, Yinqian Zhang, Zhi Zhang <br/>
@@ -89,7 +89,7 @@ Publications Ranking Statistics: 18 CCF-A papers (7 first-author，2 co-first au
 - <sub> [SEC 2025] **Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer** [[paper](https://zhangxin00.github.io/files/achilles.pdf)] [[code](https://github.com/liang-junkai/Achilles)] [[honorable mention](https://www.usenix.org/sites/default/files/sec25_honorable_mentions.pdf)] <br/> 
   Junkai Liang, Zhi Zhang, **Xin Zhang (co-first author)**, Qingni Shen, Yansong Gao, Xingliang Yuan, Haiyang Xue, Pengfei Wu, Zhonghai Wu <br/>
   USENIX Security (CCF-A / CORE-A*) <br/>
-  <font color="#00bb00">Honorable Mention (Top 6% of the accepted papers) &emsp;
+  <font color="#00bb00">Honorable Mention Award (Top 6% of the accepted papers) &emsp;
   
 - <sub> [DAC 2024] **ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts** [[paper](https://zhangxin00.github.io/files/ThermalScope.pdf)] [[code](https://github.com/zhangxin00/thermalscope)]<br/>
    **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Zhonghai Wu <br/>
