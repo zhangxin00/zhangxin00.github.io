@@ -44,7 +44,7 @@ Publications Ranking Statistics: 18 CCF-A papers (7 first-author，2 co-first au
   Yusi Feng, **Xin Zhang**, Zihui Guo, Ben Liu, Fei Wang, Ziyuan Zhu, Yinqian Zhang <br/>
   IEEE Transactions on Dependable and Secure Computing (CCF-A, IF=7.5) <br/>
    
-- <sub> [SEC 2026] **UncoreBleed: AEX-Free, High-Resolution, and Low-Noise Side-Channel Attacks on SGX Enclaved Execution** [[paper](https://www.usenix.org/conference/usenixsecurity26/presentation/chen-decheng)] <br/>
+- <sub> [SEC 2026] **UncoreBleed: AEX-Free, High-Resolution, and Low-Noise Side-Channel Attacks on SGX Enclaved Execution** [[paper](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_chen-decheng.pdf)] <br/>
   Decheng Chen, Zhi Zhang, Zhenkai Zhang, **Xin Zhang**, Yansong Gao, Yi Zou <br/>
   USENIX Security (CCF-A / CORE-A*) <br/>
 
