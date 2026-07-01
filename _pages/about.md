@@ -33,6 +33,7 @@ Feel free to drop me an email if you are interested in working with me. Multiple
  -->
 
 ### News!
+- [2026/07] Our Apple interrupt side channel has been awarded the "Distinguished Artifact" by ISCA 2026 (only 2 awards this year).
 - [2026/05] I successfully defended my PhD! 
 - [2026/03] Two papers, "TIDE" and "TimeGaps", have been accepted by ISCA 2026. 
 - [2026/01] Our briefing application has been accepted by Black Hat Asia 2026. See you in Singapore!
@@ -50,7 +51,7 @@ Careful readers may notice several "Easter eggs" linking back to SegScope (HPCA 
 -->
 
 ### Honors and Awards
-* [2026] ISCA Best Artifact Award 
+* [2026] ISCA Distinguished Artifact Award 
 * [2025] USENIX SECURITY Honorable Mention Paper Award 
 * [2025] Presidential Scholarship (Top 2%), Peking University
 * [2024] First Prize of Science and Technology Progress Award, Chinese Institute of Electronics 
