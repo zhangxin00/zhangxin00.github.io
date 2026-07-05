@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-I will join the School of Computer Science and Technology at Shandong University as an Associate Professor in Summer 2026. I am currently completing my PhD at Peking University, advised by Prof. [Qingni Shen](http://scholar.pku.edu.cn/pkuss-shenqn/ge-ren-jian-jie). Previously, I was a visiting student at National University of Singapore advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/), and was also an intern at Huawei Technologies. I also collaborate closely with Prof. [Zhi Zhang](https://zhangzhics.github.io/) from the University of Western Australia.
+
+I am an Associate Professor at School of Computer Science and Technology, Shandong University, Qingdao. I received my PhD at Peking University under the supervision of Prof. [Qingni Shen](http://scholar.pku.edu.cn/pkuss-shenqn/ge-ren-jian-jie) in 2026. From 2024 to 2025, I was a visiting student at National University of Singapore advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/). I also collaborate closely with Prof. [Zhi Zhang](https://zhangzhics.github.io/) from the University of Western Australia.
 
 
 My research interests are in system security and computer architecture. In particular, I enjoy re-evaluating the rationale behind certain hardware designs and uncovering new side-channel leakages. During my PhD, I identified several interrupt side channels [HPCA'24, DAC'24, TIFS'25, ISCA'26A] and power side channels [DAC'25 x2, TCAD'25, ISCA'26B]. I also enjoy working with inspiring collaborators on interesting problems across computer security and architecture, which has led to more than 10 collaborative publications in top-tier venues. 
