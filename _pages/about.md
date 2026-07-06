@@ -52,9 +52,9 @@ Careful readers may notice several "Easter eggs" linking back to SegScope (HPCA 
 -->
 
 ### Honors and Awards
-* [2026] ISCA Distinguished Artifact Award
+* [2026] ISCA Distinguished Artifact Award (2/845)
 * [2026] Outstanding PhD Thesis Award (Top 2%), School of Software and Microelectronics, Peking University
-* [2025] USENIX SECURITY Honorable Mention Paper Award 
+* [2025] USENIX SECURITY Honorable Mention Paper Award (25/2385)
 * [2025] Presidential Scholarship (Top 2%), Peking University
 * [2024] First Prize of Science and Technology Progress Award, Chinese Institute of Electronics 
 * [2020] [Pacemaker to Merit Student](https://xxgk.hnu.edu.cn/info/1135/2623.htm) (Top 0.2%), Hunan University, China
