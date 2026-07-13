@@ -59,7 +59,7 @@ Careful readers may notice several "Easter eggs" linking back to SegScope (HPCA 
 * [2025] USENIX SECURITY Honorable Mention Paper Award (25/2385)
 * [2025] Presidential Scholarship (Top 2%), Peking University
 * [2024] First Prize of Science and Technology Progress Award, Chinese Institute of Electronics 
-* [2020] [Pacemaker to Merit Student](https://xxgk.hnu.edu.cn/info/1135/2623.htm) (Top 0.2%), Hunan University, China
+* [2020] Pacemaker to Merit Student (Top 0.2%), Hunan University, China
 
   
 ### Service
