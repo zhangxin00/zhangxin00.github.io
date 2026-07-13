@@ -90,6 +90,7 @@ ICISS 2022, ECAI 2023, ATS 2023,
 * Operating System and Virtualization Security – Teaching Assistant, Fall 2023
 
 ### Working Experience
+* [2026.07-Present] Associate Professor, Shandong University
 * [2025.11-2026.01] Internship, 2012 Lab, Huawei Technologies
 
 ### Educational Background
