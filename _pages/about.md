@@ -14,7 +14,8 @@ I am a tenure-track Associate Professor at School of Computer Science and Techno
 
 Before that, I received my PhD at Peking University under the supervision of Prof. [Qingni Shen](http://scholar.pku.edu.cn/pkuss-shenqn/ge-ren-jian-jie) in 2026. From 2024 to 2025, I was a visiting student at National University of Singapore advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/). I also collaborate closely with Prof. [Zhi Zhang](https://zhangzhics.github.io/) from the University of Western Australia.
 
-
+Email: zhangxin00 [at] sdu [dot] edu [dot] cn
+Office: CS Department, Room 210-2
 
 <!--
 During my PhD, I identified several interrupt side channels [HPCA'24, DAC'24, TIFS'25, ISCA'26A] and power side channels [DAC'25 x2, TCAD'25, ISCA'26B]. I also enjoy working with inspiring collaborators on interesting problems across computer security and architecture, which has led to more than 10 collaborative publications in top-tier venues. 
