@@ -18,6 +18,10 @@ Email: zhangxin00 [at] sdu [dot] edu [dot] cn
 
 Office: CS Department, Room 212-2
 
+
+<font color="#ff0000"> 
+I am always excited to work with self-motivated students on interesting research projects. Please feel free to email me if you are interested in working with me. 
+</font>
 <!--
 During my PhD, I identified several interrupt side channels [HPCA'24, DAC'24, TIFS'25, ISCA'26A] and power side channels [DAC'25 x2, TCAD'25, ISCA'26B]. I also enjoy working with inspiring collaborators on interesting problems across computer security and architecture, which has led to more than 10 collaborative publications in top-tier venues. 
 I am a final-year PhD student at Peking University, where I am very fortunate to be advised by Prof. [Qingni Shen](http://scholar.pku.edu.cn/pkuss-shenqn/ge-ren-jian-jie) 
@@ -30,7 +34,9 @@ I’m an incoming associate professor of School of Computer Science and Technolo
 
 <!--
 <font color="#ff0000"> 
-Feel free to drop me an email if you are interested in working with me. Multiple positions are available at SDU and PKU.
+
+I am always excited to work with highly self-motivated students on interesting research problems. Feel free to drop me an email if you are interested in working with me. 
+Multiple positions are available.
 </font>
 , where I spent two years working with Prof. [Jiliang Zhang](https://grzy.hnu.edu.cn/site/index/zhangjiliang).
 <sub> **I am looking for a Visiting Student/Research Assistant position starting from 2024 Fall.** Feel free to drop me an email if you are interested in my background.
