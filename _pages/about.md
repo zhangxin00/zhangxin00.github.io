@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-I am a tenure-track Associate Professor at School of Computer Science and Technology, Shandong University, Qingdao. My research interests are in system security and computer architecture. In particular, I enjoy re-evaluating the rationale behind certain hardware designs and uncovering new side-channel leakages. 
+I am a tenure-track Associate Professor at School of Computer Science and Technology, Shandong University, Qingdao. My research interests are in system security and computer architecture. In particular, I enjoy re-evaluating the rationale behind certain hardware designs and uncovering new side-channel leakages. [[中文主页](https://faculty.sdu.edu.cn/zhangxin00/zh_CN/index.htm)]
 
-Before that, I received my PhD at Peking University under the supervision of Prof. [Qingni Shen](http://scholar.pku.edu.cn/pkuss-shenqn/ge-ren-jian-jie) in 2026. From 2024 to 2025, I was a visiting student at National University of Singapore advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/). I also collaborate closely with Prof. [Zhi Zhang](https://zhangzhics.github.io/) from the University of Western Australia.
+Before that, I received my PhD at Peking University under the supervision of Prof. [Qingni Shen](http://scholar.pku.edu.cn/pkuss-shenqn/ge-ren-jian-jie) in 2026. From 2024 to 2025, I was a visiting student at National University of Singapore advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/). I also collaborate closely with Prof. [Zhi Zhang](https://zhangzhics.github.io/) from the University of Western Australia. 
 
 Email: zhangxin00 [at] sdu [dot] edu [dot] cn
 
