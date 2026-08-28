@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-I am a tenure-track Associate Professor at School of Computer Science and Technology, Shandong University, Qingdao. My research interests are in system security and computer architecture. In particular, I enjoy re-evaluating the rationale behind certain hardware designs and uncovering new side-channel leakages. [[中文主页](https://faculty.sdu.edu.cn/zhangxin00/zh_CN/index.htm)]
+I am a tenure-track Associate Professor at the School of Computer Science and Technology, Shandong University. My research interests are in system security and computer architecture. In particular, I enjoy re-evaluating the rationale behind certain hardware designs and uncovering new side-channel leakage. [[中文主页](https://faculty.sdu.edu.cn/zhangxin00/zh_CN/index.htm)]
 
-Before that, I received my PhD at Peking University under the supervision of Prof. [Qingni Shen](http://scholar.pku.edu.cn/pkuss-shenqn/ge-ren-jian-jie) in 2026. From 2024 to 2025, I was a visiting student at National University of Singapore advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/). I also collaborate closely with Prof. [Zhi Zhang](https://zhangzhics.github.io/) from the University of Western Australia. 
+Before that, I received my Ph.D. at Peking University under the supervision of Prof. [Qingni Shen](http://scholar.pku.edu.cn/pkuss-shenqn/ge-ren-jian-jie) in 2026. From 2024 to 2025, I was a visiting student at National University of Singapore advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/). I also collaborate closely with Prof. [Zhi Zhang](https://zhangzhics.github.io/) from the University of Western Australia. 
 
 Email: zhangxin00 [at] sdu [dot] edu [dot] cn
 
@@ -20,32 +20,12 @@ Office: CS Department, Room 212-2
 
 
 <font color="#ff0000"> 
-I am always excited to work with self-motivated students on interesting research projects. Please feel free to email me if you are interested in working with me. 
+I am always looking for self-motivated students interested in systems security and computer architecture. Please feel free to email me if you are interested in working with me.
 </font>
-<!--
-During my PhD, I identified several interrupt side channels [HPCA'24, DAC'24, TIFS'25, ISCA'26A] and power side channels [DAC'25 x2, TCAD'25, ISCA'26B]. I also enjoy working with inspiring collaborators on interesting problems across computer security and architecture, which has led to more than 10 collaborative publications in top-tier venues. 
-I am a final-year PhD student at Peking University, where I am very fortunate to be advised by Prof. [Qingni Shen](http://scholar.pku.edu.cn/pkuss-shenqn/ge-ren-jian-jie) 
-re-evaluating the rationale behind certain hardware designs, and uncovering new side-channel leakages to offer designers insights for building more secure systems
-(Top 0.2% of all undergraduates)
-Before starting my PhD, I obtained my bachelor's degree from Hunan University, where I received the Pacemaker to Merit Student Award.
-I’m an incoming associate professor of School of Computer Science and Technology at Shandong University.-->
 
-
-
-<!--
-<font color="#ff0000"> 
-
-I am always excited to work with highly self-motivated students on interesting research problems. Feel free to drop me an email if you are interested in working with me. 
-Multiple positions are available.
-</font>
-, where I spent two years working with Prof. [Jiliang Zhang](https://grzy.hnu.edu.cn/site/index/zhangjiliang).
-<sub> **I am looking for a Visiting Student/Research Assistant position starting from 2024 Fall.** Feel free to drop me an email if you are interested in my background.
-<font color="#ff0000"><b>I am expected to graduate in 2026 and am actively seeking a faculty position in the academia/university. Please feel free to contact me at zhangxin00 AT stu.pku.edu.cn</b></font>
- -->
 
 ### News!
 - [2026/07] Our Apple interrupt side channel has been awarded the "Distinguished Artifact" by ISCA 2026 (only 2 awards this year).
-- [2026/05] I successfully defended my PhD! 
 - [2026/03] Two papers, "TIDE" and "TimeGaps", have been accepted by ISCA 2026. 
 - [2026/01] Our briefing application has been accepted by Black Hat Asia 2026 (40-minute presentation). See you in Singapore!
 - [2025/10] My visit at NUS has come to an end. I’m deeply grateful for all the experiences, collaborations, and friendships that made this journey unforgettable.
@@ -63,8 +43,8 @@ Careful readers may notice several "Easter eggs" linking back to SegScope (HPCA 
 
 ### Honors and Awards
 * [2026] ISCA Distinguished Artifact Award (2/845)
-* [2026] Outstanding PhD Thesis Award (Top 5%), School of Software and Microelectronics, Peking University
-* [2025] USENIX SECURITY Honorable Mention Paper Award (25/2385)
+* [2026] Outstanding Ph.D. Thesis Award (Top 5%), School of Software and Microelectronics, Peking University
+* [2025] USENIX Security Honorable Mention Paper Award (25/2385)
 * [2025] Presidential Scholarship (Top 2%), Peking University
 * [2024] First Prize of Science and Technology Progress Award, Chinese Institute of Electronics 
 * [2020] Pacemaker to Merit Student (Top 0.2%), Hunan University, China
@@ -84,22 +64,20 @@ ICISS 2022, ECAI 2023, ATS 2023,
 <!--
 * [2020] Third Prize in 13th National College Student Information Security Contest (CTF Track, top 5%).-->
 
-### Open-Source Contributions
-* [2025] Mask Linux thermal interrupt info in /proc and /sys for Docker by default [[since v28.0.2](https://github.com/moby/moby/pull/49560)]
-* [2024] [CVE-2024-1545](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl EdDSA Rowhammer vulnerability
-* [2024] [CVE-2024-2881](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl RSA Rowhammer vulnerability
 
 <!--
 * <sub> [2024] CVE-2024-28285 Crypto++ Elgamal vulnerability
 * <sub> [2023] CVE-2023-51939 Relic BBS vulnerability
 -->
 
-### Teaching
-* Operating System and Virtualization Security – Teaching Assistant, Fall 2023
+### Open-Source Contributions
+* [2025] Mask Linux thermal interrupt info in /proc and /sys for Docker by default [[since v28.0.2](https://github.com/moby/moby/pull/49560)]
+* [2024] [CVE-2024-1545](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl EdDSA Rowhammer vulnerability
+* [2024] [CVE-2024-2881](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl RSA Rowhammer vulnerability
 
 ### Working Experience
 * [2026.07-Present] Associate Professor, Shandong University
-* [2025.11-2026.01] Internship, 2012 Lab, Huawei Technologies
+* [2025.11-2026.01] Research Intern, 2012 Lab, Huawei Technologies
 
 ### Educational Background
 * [2022-2026] Ph.D Student in Software Engineering, Peking University
@@ -109,7 +87,11 @@ ICISS 2022, ECAI 2023, ATS 2023,
 * [2018-2022] B.S. in Information Security, Hunan University
 
 ### Projects
-* [2026.8-2026.12] System Security Risk Detection for Data in AI Clouds, supported by QAX Technology Group Inc (企业横项), PI
+* [2026.08-2026.12] System Security Risk Detection for Data in AI Clouds, Industry-Sponsored Research Project (QAX Technology Group Inc.), PI
+
+### Teaching
+* Operating System and Virtualization Security – Teaching Assistant, Fall 2023
+
 
 ### Friend Links
 
