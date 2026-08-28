@@ -109,7 +109,7 @@ ICISS 2022, ECAI 2023, ATS 2023,
 * [2018-2022] B.S. in Information Security, Hunan University
 
 ### Projects
-* <sub> [2026.8-2026.12] System Security Risk Detection for Data in AI Clouds, supported by QAX Technology Group Inc (企业横项), PI
+* [2026.8-2026.12] System Security Risk Detection for Data in AI Clouds, supported by QAX Technology Group Inc (企业横项), PI
 
 ### Friend Links
 
