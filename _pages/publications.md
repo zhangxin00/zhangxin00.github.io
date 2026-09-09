@@ -47,6 +47,7 @@ Publications Ranking Statistics: 18 CCF-A papers (7 first-author，2 co-first au
 - <sub> [SEC 2026] **UncoreBleed: AEX-Free, High-Resolution, and Low-Noise Side-Channel Attacks on SGX Enclaved Execution** [[paper](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_chen-decheng.pdf)] <br/>
   Decheng Chen, Zhi Zhang, Zhenkai Zhang, **Xin Zhang**, Yansong Gao, Yi Zou <br/>
   USENIX Security (CCF-A / CORE-A*) <br/>
+  <font color="#00bb00">BlackHat Asia (40-min presentation) &emsp;
 
 - <sub> [HPCA 2026] **SSBleed: Non-speculative Side-channel Attacks via Speculative Store Bypass on Armv9 CPUs** [[paper]](https://zhangxin00.github.io/files/ssbleed.pdf) <br/>
   Chang Liu, Hongpei Zheng, **Xin Zhang**, Dapeng Ju, Dongsheng Wang, Yinqian Zhang, Trevor E. Carlson <br/>
