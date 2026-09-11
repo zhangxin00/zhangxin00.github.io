@@ -91,9 +91,9 @@ ICISS 2022, ECAI 2023, ATS 2023,
 
 ### Students
 * #### Master Students
-Hao Zhang (2026-2029)
+    Hao Zhang (2026-2029)
 * #### Undergraduate Students
-Sihang Zhang (graduated in 2029)
+    Sihang Zhang (graduated in 2029)
 
 ### Friend Links
 
