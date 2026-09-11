@@ -90,9 +90,9 @@ ICISS 2022, ECAI 2023, ATS 2023,
 * [2026.08-2026.12] System Security Risk Detection for Data in AI Clouds, Industry-Sponsored Research Project (QAX Technology Group Inc.), PI
 
 ### Students
-* #### Master Students
+* ### Master Students
     Hao Zhang (2026-2029)
-* #### Undergraduate Students
+* ### Undergraduate Students
     Sihang Zhang (graduated in 2029)
 
 ### Friend Links
