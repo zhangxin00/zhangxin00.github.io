@@ -89,9 +89,11 @@ ICISS 2022, ECAI 2023, ATS 2023,
 ### Projects
 * [2026.08-2026.12] System Security Risk Detection for Data in AI Clouds, Industry-Sponsored Research Project (QAX Technology Group Inc.), PI
 
-### Teaching
-* Operating System and Virtualization Security – Teaching Assistant, Fall 2023
-
+### Students
+#### * Master Students
+Hao Zhang (2026-2029)
+#### * Undergraduate Students
+Sihang Zhang (graduated in 2029)
 
 ### Friend Links
 
@@ -103,6 +105,9 @@ ICISS 2022, ECAI 2023, ATS 2023,
 <a href="https://info.flagcounter.com/EZWI"><img src="https://s01.flagcounter.com/map/EZWI/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 <!-- 
+### Teaching
+* Operating System and Virtualization Security – Teaching Assistant, Fall 2023
+
 ### Fun Facts
 * I enjoy sports, particularly bodybuilding and playing basketball with friends. I allocate 5-10 hours per week for these activities.
 * My name (Xin Zhang) is pronounced similarly to ['Shin-chan'](https://en.wikipedia.org/wiki/Crayon_Shin-chan), a well-known cartoon character.
