@@ -76,7 +76,7 @@ ICISS 2022, ECAI 2023, ATS 2023,
 * [2024] [CVE-2024-2881](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl RSA Rowhammer vulnerability
 
 ### Working Experience
-* [2026.07-Present] Associate Professor, Shandong University
+* [2026.07-Present] Tenure-track Associate Professor, Shandong University
 * [2025.11-2026.01] Research Intern, 2012 Lab, Huawei Technologies
 
 ### Educational Background
