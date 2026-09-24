@@ -92,6 +92,7 @@ ICISS 2022, ECAI 2023, ATS 2023,
 ### Students
 * ### Master Students
     Hao Zhang (2026-2029)
+    Liwen Tian (2027-2030)
 * ### Undergraduate Students
     Sihang Zhang (graduated in 2029)
 
