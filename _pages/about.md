@@ -12,7 +12,7 @@ redirect_from:
 
 I am a tenure-track Associate Professor at the School of Computer Science and Technology, Shandong University. My research interests are in system security and computer architecture. In particular, I enjoy re-evaluating the rationale behind certain hardware designs and uncovering new side-channel leakage. [[中文主页](https://faculty.sdu.edu.cn/zhangxin00/zh_CN/index.htm)]
 
-Before that, I received my Ph.D. at Peking University under the supervision of Prof. [Qingni Shen](http://scholar.pku.edu.cn/pkuss-shenqn/ge-ren-jian-jie) in 2026. From 2024 to 2025, I was a visiting student at National University of Singapore advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/). I also collaborate closely with Prof. [Zhi Zhang](https://zhangzhics.github.io/) from the University of Western Australia. 
+Before that, I received my Ph.D. at Peking University under the supervision of Prof. [Qingni Shen](http://scholar.pku.edu.cn/pkuss-shenqn/ge-ren-jian-jie) in 2026. From 2024 to 2025, I was a visiting student at National University of Singapore advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/). I also collaborated closely with Prof. [Zhi Zhang](https://zhangzhics.github.io/) from the University of Western Australia. 
 
 Email: zhangxin00 [at] sdu [dot] edu [dot] cn
 
@@ -28,12 +28,12 @@ I am always looking for self-motivated students interested in systems security a
 - [2026/07] Our Apple interrupt side channel has been awarded the "Distinguished Artifact" by ISCA 2026 (only 2 awards this year).
 - [2026/03] Two papers, "TIDE" and "TimeGaps", have been accepted by ISCA 2026. 
 - [2026/01] Our briefing application has been accepted by Black Hat Asia 2026 (40-minute presentation). See you in Singapore!
-- [2025/10] My visit at NUS has come to an end. I’m deeply grateful for all the experiences, collaborations, and friendships that made this journey unforgettable.
-- [2025/09] Our paper "MUXLeak: Exploiting Multiplexers as a Power Side Channel against Multi-tenant FPGAs" has been published in TCAD.
 - [2025/06] "Achilles" has been awarded the "Honorable Mentions" by USENIX Security 2025 (only 25 out of 2385 submissions).
 
 
 <!--
+- [2025/10] My visit at NUS has come to an end. I’m deeply grateful for all the experiences, collaborations, and friendships that made this journey unforgettable.
+- [2025/09] Our paper "MUXLeak: Exploiting Multiplexers as a Power Side Channel against Multi-tenant FPGAs" has been published in TCAD.
 - [2025/06] Our paper "Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86" has been published in TIFS.
 Careful readers may notice several "Easter eggs" linking back to SegScope (HPCA 2024).
 [2025/02] Three papers, "LeakyDSP", "AmpereBleed", and "ZK-Hammer" have been accepted by DAC 2025. See you in San Francisco!
@@ -94,13 +94,6 @@ ICISS 2022, ECAI 2023, ATS 2023,
     Hao Zhang (2026-2029)
 * ### Undergraduate Students
     Sihang Zhang (graduated in 2029)
-
-### Friend Links
-
-* [Junkai Liang (Peking University)](https://liang-junkai.github.io/)
-* [Yusi Feng (Southern University of Science and Technology)](https://fengyusi.github.io)
-* [Shengfang Zhai (National University of Singapore)](https://zhaisf.github.io/)
-
 
 <a href="https://info.flagcounter.com/EZWI"><img src="https://s01.flagcounter.com/map/EZWI/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
