@@ -39,11 +39,11 @@ Careful readers may notice several "Easter eggs" linking back to SegScope (HPCA 
 [2025/02] Three papers, "LeakyDSP", "AmpereBleed", and "ZK-Hammer" have been accepted by DAC 2025. See you in San Francisco!
 [2024/02] Our paper "ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts" has been accepted by DAC 2024.
 [2023/10] Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
+* [2026] Outstanding Ph.D. Thesis Award (Top 5%), School of Software and Microelectronics, Peking University
 -->
 
 ### Honors and Awards
 * [2026] ISCA Distinguished Artifact Award (2/845)
-* [2026] Outstanding Ph.D. Thesis Award (Top 5%), School of Software and Microelectronics, Peking University
 * [2025] USENIX Security Honorable Mention Paper Award (25/2385)
 * [2025] Presidential Scholarship (Top 2%), Peking University
 * [2024] First Prize of Science and Technology Progress Award, Chinese Institute of Electronics 
@@ -68,12 +68,12 @@ ICISS 2022, ECAI 2023, ATS 2023,
 <!--
 * <sub> [2024] CVE-2024-28285 Crypto++ Elgamal vulnerability
 * <sub> [2023] CVE-2023-51939 Relic BBS vulnerability
--->
 
 ### Open-Source Contributions
 * [2025] Mask Linux thermal interrupt info in /proc and /sys for Docker by default [[since v28.0.2](https://github.com/moby/moby/pull/49560)]
 * [2024] [CVE-2024-1545](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl EdDSA Rowhammer vulnerability
 * [2024] [CVE-2024-2881](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl RSA Rowhammer vulnerability
+-->
 
 ### Working Experience
 * [2026.07-Present] Tenure-track Associate Professor, Shandong University
