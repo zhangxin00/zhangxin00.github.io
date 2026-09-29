@@ -25,7 +25,7 @@ I am always looking for self-motivated students interested in systems security a
 
 
 ### News!
-- [2026/07] Our Apple interrupt side channel has been awarded the "Distinguished Artifact" by ISCA 2026 (only 2 awards this year).
+- [2026/07] "TIDE" has been awarded the "Distinguished Artifact" by ISCA 2026 (only 2 awards this year).
 - [2026/03] Two papers, "TIDE" and "TimeGaps", have been accepted by ISCA 2026. 
 - [2026/01] Our briefing application has been accepted by Black Hat Asia 2026 (40-minute presentation). See you in Singapore!
 - [2025/06] "Achilles" has been awarded the "Honorable Mentions" by USENIX Security 2025 (only 25 out of 2385 submissions).
