@@ -100,8 +100,7 @@ Publications Ranking Statistics: 18 CCF-A papers (7 first-author，2 co-first au
    **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Jiliang Zhang <br/>
    International Symposium on High-Performance Computer Architecture (CCF-A / CORE-A*) <br/>
 
-  You can find the full publication list from my [Google Scholar](https://scholar.google.com/citations?user=rYAO48wAAAAJ&hl=en) and the submission history from [GitHub](https://zhangxin00.github.io/submissions).
-
+  You can find the full publication list from my [Google Scholar](https://scholar.google.com/citations?user=rYAO48wAAAAJ&hl=en) 
 <!--
 You can find my submission history [here](https://zhangxin00.github.io/submissions/).
 -->
