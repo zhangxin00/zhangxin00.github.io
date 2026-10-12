@@ -91,7 +91,6 @@ ICISS 2022, ECAI 2023, ATS 2023,
 
 ### Students
 * ### Ph.D. Students
-* 
     Zhihao Zhang (2025-2029, BUPT & Zhongguancun Lab, co-advised with Prof. [Pengfei Qiu](https://scholar.google.com/citations?hl=zh-CN&user=ldHXi0sAAAAJ) and Prof. [Yuan Li](https://ly-dora.github.io/))
   
     Liangxiao Zhao (2026-2030, BUPT & Zhongguancun Lab, co-advised with Prof. [Pengfei Qiu](https://scholar.google.com/citations?hl=zh-CN&user=ldHXi0sAAAAJ))
