@@ -90,18 +90,28 @@ ICISS 2022, ECAI 2023, ATS 2023,
 * [2026.08-2026.12] Detecting System Security Risk for Data in AI Clouds, Industry-Sponsored Research Project (QAX Technology Group Inc.), PI
 
 ### Students
-* ### Master Students
-    Hao Zhang (2026-2029)
+* ### Ph.D. Students
+* 
+    Zhihao Zhang (2025-2029, BUPT & Zhongguancun Lab, co-advised with Prof. [Pengfei Qiu](https://scholar.google.com/citations?hl=zh-CN&user=ldHXi0sAAAAJ) and Prof. [Yuan Li](https://ly-dora.github.io/))
   
-    Liwen Tian (2027-2030)
+    Liangxiao Zhao (2026-2030, BUPT & Zhongguancun Lab, co-advised with Prof. [Pengfei Qiu](https://scholar.google.com/citations?hl=zh-CN&user=ldHXi0sAAAAJ))
+  
+    Weicheng Peng (2027-2032, BUPT & Zhongguancun Lab, co-advised with Prof. [Pengfei Qiu](https://scholar.google.com/citations?hl=zh-CN&user=ldHXi0sAAAAJ))
+    
+    
+* ### Master Students
+    Hao Zhang (2026-2029, SDU)
+  
+    Liwen Tian (2027-2030, SDU)
+  
 * ### Undergraduate Students
-    Sihang Zhang (graduated in 2029)
+    Sihang Zhang (2025-2029, SDU)
 
 <a href="https://info.flagcounter.com/EZWI"><img src="https://s01.flagcounter.com/map/EZWI/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 <!-- 
 ### Teaching
-* Operating System and Virtualization Security – Teaching Assistant, Fall 2023
+* Operating System and Virtualization Security – Teaching Assistant, Fall 2023, Peking University
 
 ### Fun Facts
 * I enjoy sports, particularly bodybuilding and playing basketball with friends. I allocate 5-10 hours per week for these activities.
