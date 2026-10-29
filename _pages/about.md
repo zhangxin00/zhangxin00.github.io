@@ -21,6 +21,8 @@ Office: CS Department, Room 212-2
 
 <font color="#ff0000"> 
 I am always looking for self-motivated students interested in systems security and computer architecture. Please feel free to email me if you are interested in working with me.
+
+Please note that Shandong University (Computer Science ) currently offers only Chinese-taught master’s programs, and international applicants are required to submit Chinese Proficiency Test certificates.
 </font>
 
 
