@@ -87,10 +87,10 @@ Publications Ranking Statistics: 18 CCF-A papers (7 first-author，2 co-first au
   Wei Chen, Zhi Zhang, **Xin Zhang**, Qingni Shen, Yuval Yarom, Daniel Genkin, Chen Yan, Zhe Wang <br/>
   International Conference on Architectural Support for Programming Languages and Operating Systems (CCF-A / CORE-A*) <br/>
   
-- <sub> [SEC 2025] **Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer** [[paper](https://zhangxin00.github.io/files/achilles.pdf)] [[code](https://github.com/liang-junkai/Achilles)] [[honorable mention](https://www.usenix.org/sites/default/files/sec25_honorable_mentions.pdf)] <br/> 
+- <sub> [SEC 2025] **Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer** [[paper](https://zhangxin00.github.io/files/achilles.pdf)] [[code](https://github.com/liang-junkai/Achilles)] [[honorable mention](https://www.usenix.org/sites/default/files/sec25_honorable_mentions.pdf)] [cybersecurity award](https://link.springer.com/journal/42400/updates/27792680) <br/> 
   Junkai Liang, Zhi Zhang, **Xin Zhang (co-first author)**, Qingni Shen, Yansong Gao, Xingliang Yuan, Haiyang Xue, Pengfei Wu, Zhonghai Wu <br/>
   USENIX Security (CCF-A / CORE-A*) <br/>
-  <font color="#00bb00">Honorable Mention Award (Top 6% of the accepted papers) &emsp;
+  <font color="#00bb00">Honorable Mention Award (Top 6% of the accepted papers) &emsp;  <font color="#00bb00"> Best Hardware and Physics Paper (Cybersecurity) &emsp;
   
 - <sub> [DAC 2024] **ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts** [[paper](https://zhangxin00.github.io/files/ThermalScope.pdf)] [[code](https://github.com/zhangxin00/thermalscope)]<br/>
    **Xin Zhang**, Zhi Zhang, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Zhonghai Wu <br/>
