@@ -28,7 +28,7 @@ I am always looking for self-motivated students interested in systems security a
 
 
 ### News!
-- [2026/11] "Achilles" has been awarded the “Best Hardware and Physics Paper” by Cybersecurity Journal (only 4 paper awards this year).
+- [2026/11] "Achilles" has been awarded the “Best Hardware and Physics Paper” by Cybersecurity Journal.
 - [2026/07] "TIDE" has been awarded the "Distinguished Artifact" by ISCA 2026 (only 2 awards this year).
 - [2026/03] Two papers, "TIDE" and "TimeGaps", have been accepted by ISCA 2026. 
 - [2026/01] Our briefing application has been accepted by Black Hat Asia 2026 (40-minute presentation). See you in Singapore!
@@ -47,6 +47,7 @@ Careful readers may notice several "Easter eggs" linking back to SegScope (HPCA 
 -->
 
 ### Honors and Awards
+* [2026] Cybersecurity Best Hardware and Physics Paper (2/845)
 * [2026] ISCA Distinguished Artifact Award (2/845)
 * [2025] USENIX Security Honorable Mention Paper Award (25/2385)
 * [2025] Presidential Scholarship (Top 2%), Peking University
