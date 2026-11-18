@@ -47,7 +47,7 @@ Careful readers may notice several "Easter eggs" linking back to SegScope (HPCA 
 -->
 
 ### Honors and Awards
-* [2026] Cybersecurity Best Hardware and Physics Paper (2/845)
+* [2026] Cybersecurity Best Hardware and Physics Paper 
 * [2026] ISCA Distinguished Artifact Award (2/845)
 * [2025] USENIX Security Honorable Mention Paper Award (25/2385)
 * [2025] Presidential Scholarship (Top 2%), Peking University
